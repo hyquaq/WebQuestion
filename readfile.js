@@ -3654,6 +3654,7 @@ TGQ Thần thoại - TGQ triết học – TGQ tôn giáo
 2
 2
 0`;
+
 var lines = data.split("\n");
 var numberQuestion = lines.length / 8;
 var questions = [];
@@ -3682,57 +3683,16 @@ for (var i = 0; i < lines.length; i += 8) {
             }
         },
     };
-    // var obj = JSON.stringify(tmpObject);
-    // console.log(obj);
     questions.push(tmpObject);
 }
 
-// funciton
-function userChoice(e) {
-    if (currentQuestion.key() === e.innerText) {
-        showMess("right", "congratulations");
-    } else {
-        showMess("wrong", currentQuestion.key());
-    }
-}
-
-function showMess(status, content) {
-    var mess = document.querySelector(".mess");
-    mess.innerHTML = `<div class="message message-${status}">${content}</div>`;
-    console.log(mess);
-}
-
-function updateProgress() {
-    totalQuestionAnswered++;
-    var progress = document.querySelector(".progress > .progress-bar");
-    // progress.style.width = `${parseInt(progress.style.width) + 1}%`;
-    progress.style.width = `${(
-        (totalQuestionAnswered / questions.length) *
-        100
-    ).toFixed(2)}%`;
-    progress.innerText = progress.style.width;
-    console.log(progress.style.width);
-}
-
-function nextQuestion() {
-    updateProgress();
-    // get Element
-    var question = document.querySelector("#ques");
-    var a = document.querySelector("#a");
-    var b = document.querySelector("#b");
-    var c = document.querySelector("#c");
-    var d = document.querySelector("#d");
-    // random question
-    currentQuestion = questions[Math.floor(Math.random() * questions.length)];
-    // update text
-    // question.innerHTML = `<p>${currentQuestion.question}</p>`;
-    question.innerText = currentQuestion.question;
-    a.innerText = currentQuestion.a;
-    b.innerText = currentQuestion.b;
-    c.innerText = currentQuestion.c;
-    d.innerText = currentQuestion.d;
-}
-
 var totalQuestionAnswered = 0;
-var currentQuestion = null;
-nextQuestion();
+
+const fs = require("fs");
+
+fs.writeFile("triet.json", JSON.stringify(questions), (err) => {
+    if (err) {
+        throw err;
+    }
+    console.log("JSON data is saved.");
+});
