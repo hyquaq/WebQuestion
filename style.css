@@ -1,0 +1,40 @@
+* {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color: #4cd964;
+    border-radius: 40px !important;
+}
+
+.disable-select {
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+}
+
+.progress-bar {
+    background-color: pink !important;
+}
+
+#a,
+#b,
+#c,
+#d {
+    background-color: #4cd964;
+    border-radius: 40px;
+}
+
+#a:hover,
+#b:hover,
+#c:hover,
+#d:hover {
+    background-color: #f1c40f;
+}
+
+#ques {
+    background-color: #007aff;
+}
+
+.toast {
+}
