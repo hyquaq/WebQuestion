@@ -1,13 +1,27 @@
 var questions = [];
-var data = jQuery.getJSON("/triet.json", function (json) {
-    console.log("hi");
-    console.log(json);
-    questions = json;
-});
+// jQuery.getJSON("/triet.json", function (json) {
+//     console.log("hi");
+//     console.log(json);
+//     questions = json;
+// });
 
 // funciton
+
+function readData(json) {
+    jQuery.getJSON(json, function (data) {
+        console.log("hi");
+        console.log(data);
+        questions = data;
+        nextQuestion();
+        totalQuestionAnswered = 0;
+    });
+}
+
 function userChoice(e) {
     e.classList.add("disabled");
+
+    // when user choice
+    updateProgress();
 
     if (key() === e.innerText) {
         showMess("right", "congratulations");
@@ -60,7 +74,6 @@ function key() {
 }
 
 function nextQuestion() {
-    updateProgress();
     // get Element
     var question = document.querySelector("#ques");
     var a = document.querySelector("#a");
@@ -82,7 +95,7 @@ function nextQuestion() {
     d.classList.remove("disabled");
 }
 
-var questions = data.responseJSON;
+// var questions = data.responseJSON;
 var totalQuestionAnswered = 0;
 var currentQuestion = null;
 // nextQuestion();

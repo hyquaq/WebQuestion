@@ -28,6 +28,51 @@
     </head>
     <body>
         <div class="main">
+            <div class="dropdown">
+                <button class="btn dropdown-toggle" data-toggle="dropdown">
+                    Click me <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <button class="btn" onclick="readData('/data/triet.json')">
+                        triet
+                    </button>
+                    <li class="divider"></li>
+                    <button class="btn" onclick="readData('/data/qp1.json')">
+                        qp bai 1
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp2.json')">
+                        qp bai 2
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp3.json')">
+                        qp bai 3
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp4.json')">
+                        qp bai 4
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp5.json')">
+                        qp bai 5
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp6.json')">
+                        qp bai 6
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp7.json')">
+                        qp bai 7
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp8.json')">
+                        qp bai 8
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp9.json')">
+                        qp bai 9
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp10.json')">
+                        qp bai 10
+                    </button>
+                    <button class="btn" onclick="readData('/data/qp11.json')">
+                        qp bai 11
+                    </button>
+                </ul>
+            </div>
+
             <div class="content disable-select container">
                 <div class="progress mt-3">
                     <div
@@ -45,35 +90,37 @@
                 <div
                     id="ques"
                     class="col-12 btn btn-info disabled p-4 mt-5 mb-4"
-                ></div>
+                >
+                    please click me!
+                </div>
                 <div class="row-cols-1">
                     <div
                         id="a"
                         class="btn btn-info col-12 mt-3 p-2 disabled"
                         onclick="userChoice(this)"
                     >
-                        A.
+                        please click me!
                     </div>
                     <div
                         id="b"
                         class="btn btn-info col-12 mt-3 p-2 disabled"
                         onclick="userChoice(this)"
                     >
-                        B.
+                        please click me!
                     </div>
                     <div
                         id="c"
                         class="btn btn-info col-12 mt-3 p-2 disabled"
                         onclick="userChoice(this)"
                     >
-                        C.
+                        please click me!
                     </div>
                     <div
                         id="d"
                         class="btn btn-info col-12 mt-3 p-2 disabled"
                         onclick="userChoice(this)"
                     >
-                        D.
+                        please click me!
                     </div>
                 </div>
 

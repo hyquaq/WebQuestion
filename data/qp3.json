@@ -1,0 +1,702 @@
+[
+    {
+        "question": "1. Về vị trí của nền QPTD, ANND, Đảng takhẳng định: Luôn luôn coi trọng QPAN coi đó là:",
+        "a": "A. Nhiệm vụ quan trọng",
+        "b": "B. Nhiệm vụ chiến lược",
+        "c": "C. Nhiệm vụ hàng đầu",
+        "d": "D. Nhiệm vụ trọng tâm",
+        "correctAnswer": "2",
+        "numebrRight": "1",
+        "numberWrong": "1"
+    },
+    {
+        "question": "2. Hai nhiệm vụ chiến lược củacách mạng Việt Nam hiện nay là:",
+        "a": "A. Xây dựng phát triển kinh tế và bảo vệ vững chắc dộc lập dân tộc",
+        "b": "B. Bảo vệ tổ quốc XHCN và xây dựng đất nước xã hội chủ nghĩa",
+        "c": "C. Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa",
+        "d": "D. Bảo vệ độc lập dân tộc và xây dựng xã hội chủ nghĩa",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "1"
+    },
+    {
+        "question": "3. Một trong những đặc trưng của nềnQPTD, ANND là nền quốc phòng, an ninh:",
+        "a": "A. Bảo vệ quyền vàlợi ích của nhân dân",
+        "b": "B. Vì dân, của dân vàdo nhân dân tiến hành",
+        "c": "C. Mang tính giai cấp, nhân dân sâu sắc",
+        "d": "D. Do nhân dân xây dựng, mang tính nhân dân sâu sắc",
+        "correctAnswer": "2",
+        "numebrRight": "1",
+        "numberWrong": "1"
+    },
+    {
+        "question": "4. Sức mạnh của nềnQPTD, ANND ở nước ta là:",
+        "a": "A. Sức mạnh của cả hệ thống chính trị trong nước",
+        "b": "B. Sức mạnh do các yếu tố chính trị, kinh tế, văn hóa, khoa học",
+        "c": "C. Sức mạnh tổnghợp do nhiều lực lượng tạo thành",
+        "d": "D. Sức mạnh của toàn dân tộc kết hợp với sức mạnh thời đại",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "5. Một trong những nội dung xây dựngthế trận QPTD, ANND là:",
+        "a": "A. Tổ chức phòng thủ quân sự, kết hợp với chủ động tiến công tiêu diệt địch",
+        "b": "B. Tổ chức phòng thủ quân sự, kết hợp với chủ động tiến công tiêu diệt địch",
+        "c": "C. Tổ chức phòng thủ dân sự, kết hợp cải tạo địa hình với xây dựng hạ tầng",
+        "d": "D. Tổ chức phòng thủ quân sự, kết hợp với các biện pháp chống địch tiến công",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "7. Mục đích xây dựng nềnQPTD, ANND vững mạnh là để:",
+        "a": "A. Tạo ra cơ sở vật chất, nâng cao đời sống cho lực lượng vũ trang",
+        "b": "B. Tạo thế chủ độngcho sự nghiệp xây dựng và bảo vệ Tổ quốc",
+        "c": "C. Tạo ra tiềm lực quân sự để phòng thủ, bảo vệ vững chắc Tổ quốc",
+        "d": "D. Tạo được môi trường hòa bình để phát triển kinh tế đất nước",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "8. Để xây dựng nền QPTD,ANND hiện nay, chúng ta phải:",
+        "a": "A. Tăng cườngvai trò của các tổ chức quần chúng",
+        "b": "B. Thường xuyêngiáo dục ý thức tráchnhiệm của mọi người",
+        "c": "C. Thường xuyênthực hiện giáo dụcquốc phòng, an ninh",
+        "d": "D. Phát huy vai trò cùa các cơ quan đoànthể và của công dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "9. Một trong những nội dungxây dựng nền QPTD, ANND là:",
+        "a": "A. Xây dựng khối đại đoàn kết toàn dân tộc",
+        "b": "B. Xây dựng nền dân chủ xã hội chủ nghĩa",
+        "c": "C. Xây dựng và củng cố hệ thống chính trị",
+        "d": "D. Xây dựng tiềm lực quốc phòng, an ninh",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "10. Nhân tố cơ bản tạo nênsức mạnh của QP, AN là: ",
+        "a": "A. Tiềm lực chính trị tinh thần",
+        "b": "B. Đại đoàn kết toàn dân tộc",
+        "c": "C. Vai trò lãnh đạo của Đảng",
+        "d": "D. Tiềm lực kinh tế",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "1"
+    },
+    {
+        "question": "13. Sức mạnh của nền QPTD, ANNDở nước ta là SMTH được tạo thành bời:",
+        "a": "A. Tinh thần độc lập,tự chủ, tự lực, tự cường",
+        "b": "B. Rất nhiều yếu tố của dân tộc và của thời đại",
+        "c": "C. Giữ vững được hòabình, ổn định đất nước",
+        "d": "D. Rất nhiều yếu tốthực tiễn lịch sử, hiện tại",
+        "correctAnswer": "2",
+        "numebrRight": "1",
+        "numberWrong": "1"
+    },
+    {
+        "question": "15. Nền QPTD, ANND của nước ta thực chất là:",
+        "a": "A. Tiềm lực quốc phòng, an ninh của đất nước",
+        "b": "B. Khả năng quốc phòng, an ninh của đất nước",
+        "c": "C. Sức mạnh quốc phòng, an ninh của đất nước",
+        "d": "D. Nền tảng quốc phòng, an ninh của đất nước",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "16. Để xây dựng nền QPTD, ANNDvững mạnh phải kết hợp xây dựng về mọi mặt,trong đó phải kết hợp chặt chẽ:",
+        "a": "A. Phát triển lực lượng vũ trang nhân dân vớiphát triển kinh tế xã hội",
+        "b": "B. Phát triển kinh tế, xã  hội với tăng cường củng cố quốc phòng, an ninh",
+        "c": "C. Phát triển KT-XHvới an ninh tư tưởng,văn hóa và đối ngoại",
+        "d": "D. Phát triển các quân binh chủng hài hòa với kinh tế, văn hóa, xã hội",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "17. Nhiệm vụ cơ bản xây dựngnền QPTD, ANND:",
+        "a": "A. Gắn kết chặt chẽ các thành phần kinh tế với các thành phần QPAN",
+        "b": "B. Chuẩn bị cho TQ đốiphó thành công với các tìnhhuống, lực lượng xâm hại",
+        "c": "C. Xây dựng lực lượng QP, AN đáp ứng yêu cầubảo vệ vững chắc TQ",
+        "d": "D. Xây dựng lực lượng QS, an ninh vững mạnh chuẩn bị cho chiến tranh",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "19. Cơ sở để xây dựng thế trận QPTD là:",
+        "a": "A. Sự xuất hiện của chiến tranh kiểu mới",
+        "b": "B. Truyền thống đánh giặc của ông cha ta",
+        "c": "C. Đường lối chiến tranh nhân dân của Đảng",
+        "d": "D. Thay đổi của cục diện trên thế giới",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "20. Nền QPTD, ANND ở nước tađược xây dựng trên nền tảng tư tưởng:",
+        "a": "A. Tư tưởng quân sự Việt Nam, chủ nghĩaMác-Lênin",
+        "b": "B. Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh",
+        "c": "C. Chủ nghĩa Mác-Lênin, truyền thống chống ngoại xâm",
+        "d": "D. Tư tưởng Hồ Chí Minh, thực tiễn quốc phòng thế giới",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "21. “Nền QPTD, ANND được xây dựng toàn diện và từng bước hiện đại” là một trong những nội dung của:",
+        "a": "A. Nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Đặc điểm nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Đặc trưng nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "1"
+    },
+    {
+        "question": "22. Lực lượng quốc phòng, an ninhcủa nền QPTD, ANND gồm có:",
+        "a": "A. Lực lượng toàn dân và LLVT nhân dân",
+        "b": "B. Lực lượng quân đội nhân dân và CAND",
+        "c": "C. Lực lượng toàn dân và lực lượng dự bị động viên",
+        "d": "D. Lực lượng chính trị và lực lượng quân sự, công an",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "23. Một trong những đặc trưngcủa nền QPTD, ANND là:",
+        "a": "A. Nền quốc phòng toàn dân gắn chặt với, sự đoàn kết của toàn dân",
+        "b": "B. Nền quốc phòng toàn dân gắn chặt với nền an ninh nhân dân",
+        "c": "C. Nền quốc phòng, an ninh kết hợp truyền thống với hiện đại",
+        "d": "D. Nền quốc phòng, an ninh dân tộc kết hợp với sức mạnh thời đại",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "24. Tiềm lực CT-TT trong nội dung xây dựng nền QPTD, ANND là khả năng về CT-TT:",
+        "a": "A. Của quân đội để thực hiện nhiệm vụ quốc               phòng, an ninh",
+        "b": "B. Của xã hội để tự vệ chống lại mọi thủ đoạn kẻ thù xâm lược",
+        "c": "C. Có thể huy động được để thực hiện nhiệm vụ quốc phòng, an ninh",
+        "d": "D. Có thể huy động được trong nhân dân để chiến đấu, bảo vệ TQ",
+        "correctAnswer": "3",
+        "numebrRight": "1",
+        "numberWrong": "1"
+    },
+    {
+        "question": "25. Một trong những nội dungxây dựng thế trận QPTD, ANND:",
+        "a": "A. Phát triển lực lượng gắn với các vùng dân cư",
+        "b": "B. Xây dựng khu vực phòng thủ tỉnh (thành phố)",
+        "c": "C. Xây dựng công trình quốc phòng, an ninh vững chắc",
+        "d": "D. Phát triển vùng dân cư gắn với các trận địa phòng thủ",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "26. “Nâng cao ý thức, trách nhiệm công dâncho sinh viên trong xây dựng nền QPTD, ANND”là một trong những nội dung của:",
+        "a": "A. Phương pháp xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Xây dựng tiềm lực quốc phòng, an ninh ngày càng vững mạnh",
+        "c": "C. Nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Biện pháp xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "27. “Nền QPTD, AND chỉ có mục đích duynhất là tự vệ chính đáng” là nội dung của:",
+        "a": "A. Đặc điểm nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Khái niệm nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Vị trí nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Đặc trưng nền quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "28. Tiềm lực quốc phòng, an ninh là:",
+        "a": "A. Khả năng về nhân lực, vật lực, tài chính có thể huy động để thực hiện nhiệm vụ QP&AN",
+        "b": "B. Khả năng về con người, của cải vật chất có thể huy động để thực hiện nhiệm vụ QP&AN",
+        "c": "C. Khả năng về lực lượng, vũ khí trang bị có thể huy động phục vụ cho nhiệm vụ QP&AN",
+        "d": "D. Khả năng về tài chính, phương tiện kỹ thuật có thể huy động thực hiện nhiệm vụ QP&AN",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "29. “Phân vùng chiến lược về QPAN kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước” là một nội dung của:",
+        "a": "A. Nhiệm vụ xây dưng nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Biện pháp xây dưng nền quốc phòng toàn dân,an ninh nhân dân",
+        "c": "C. Xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Xây dựng tiềm lực kinh tế của quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "30. Trong xây dựng tiềm lực QPAN,tiềm lực chính trị tinh thần là:",
+        "a": "A. Yếu tố hàng đầu tạo nên sức mạnh quốc phòng, an ninh",
+        "b": "B. Nhân tố chủ yếu tạo nên sức mạnh quốcphòng, an ninh",
+        "c": "C. Nhân tố cơ bản tạo nên sức mạnh của quốc phòng, an ninh",
+        "d": "D. Yếu tố quan trọng trong sự nghiệp bảo vệ Tổ quốc",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "31. Xây dựng tiềm lực KHCNcủa nền QPTD, ANND là:",
+        "a": "A. Tạo nên khả năng về KHCN của quốc gia để khaithác phục vụ QP&AN",
+        "b": "B. Tạo nên khả năng về vũ khí trang bị kỹ thuật để phòng thủ đất nước",
+        "c": "C. Tạo nên khả năng huy động đội ngũ cán bộ KHKT phục vụ QP&AN",
+        "d": "D. Tạo ra khả năng ứng dụng kết quả nghiên cứu KHCN vào QP&AN",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "32. “Nền QPTD là sức mạnh quốc phòng của đất nước được xây dựng trên nền tảng nhân lực, vật lực, tinh thần mang tính chất toàn dân, toàn diện, độc lập, tự chủ, tự cường” là nội dung của:",
+        "a": "A. Nhiệm vụ xây dựng nền QPTD",
+        "b": "B. Khái niệm nền QPTD",
+        "c": "C. Đặc trưng nền QPTD",
+        "d": "D. Quan điểm xây dưng nền QPTD",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "33. Tiềm lực kinh tế trong nội dung xây dựng tiềm lực QPTD, ANND là điều kiện:",
+        "a": "A. Tạo sức mạnh vật chất cho nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Vật chất bảo đảm cho xây dựng lực lượng vũ trang và thế trận quốc phòng",
+        "c": "C. Để phát triển nền quốc phòng toàn dân, an ninh nhân dân hiện đại",
+        "d": "D. Tạo nên thế trận chiến tranh toàn dân và trận địa an ninh nhân dân",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "34. “Tăng cường sự lãnh đạo của Đảng, sự quản lý của Nhà nước, trách nhiệm triển khai thực hiện của cơ quan, tổ chức và nhân dân đối với xây dựng nền QPTD, ANND” là một nội dung của:",
+        "a": "A. Yêu cầu xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Biện pháp xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Nội dung xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "35. Để thường xuyên thực hiện giáo dục giáo dục QP&AN có hiệu quả, chúng ta phải:",
+        "a": "A. Tổ chức nhiều lớp học cho các đối tượng, tầng lớp nhân dân",
+        "b": "B. Vận dụng nhiều hình thức, phương pháp giáo dục, tuyên truyền",
+        "c": "C. Vận dụng đa dạng, phong phú các hình thức tuyên truyền, giáo dục",
+        "d": "D. Kết hợp tổ chức giáo dục với tuyên truyền khắp mọi nơi, mọi lúc",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "36. Xây dựng nền QPTD, ANND vững mạnh, phải thường xuyên giáo dục QP&AN cho:",
+        "a": "A. Thanh niên, sinh viên",
+        "b": "B. Cán bộ lãnh đạo",
+        "c": "C. Mọi đối tượng",
+        "d": "D. Học sinh phổ thông",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "37. Để xây dựng nền QPTD, ANNDvững mạnh, chúng ta phải:",
+        "a": "A. Kết hợp sức mạnh của nhiều yếu tố",
+        "b": "B. Liên minh quân sự với các nước khác",
+        "c": "C. Độc lập tự chủ phát triển kinh tế, xã hội",
+        "d": "D. Phát triển kinh tế, giữ vững hòa bình",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "38. Xây dựng thế trận QPTD, ANNDvững chắc phải theo yêu cầu của:",
+        "a": "A. Phát triển quốc phòng, an ninh, chiến tranh bảo vệ Tổ quốc",
+        "b": "B. Quân sự, an ninh, chiến tranh toàn dân, toàn diện bảo vệ đất nước",
+        "c": "C. Chiến tranh nhân dân bảo vệ Tổ quốc, Bộ Quốc phòng, Bộ Công an",
+        "d": "D. Quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "39. Cơ sở, tiền đề và là biện pháp để chúng tađánh thắng kẻ thù xâm lược, đó là:",
+        "a": "A. Tiềm lực vật chất, vũ khí trang bị của lực lượng vũ trang nhân dân",
+        "b": "B. Yếu tố chính trị, tinh thần để chúng ta đối phó với kẻ thù xâm lược",
+        "c": "C. Sức mạnh tổng hợp của nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Sức mạnh của lực lượng vũ trang kết hợp với sức mạnh thời đại",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "40. Xây dựng nền QPTD, ANNDvững mạnh là tạo ra sức mạnh để:",
+        "a": "A. Ngăn ngừa, đẩy lùi, đánh bạimọi âm mưu, hành động xâm hại đếnmục tiêu trong sự nghiệp xây dựngvà BVTQ Việt Nam XHCN",
+        "b": "B. Đẩy mạnh sự nghiệp côngnghiệp hóa, hiện đại hóa đất nước,chống lại mọi kẻ thù xâm lượcBVTQ Việt Nam XHCN",
+        "c": "C. Gìn giữ hòa bình, hội nhập thế giới thực hiện thắng lợi mọi mụctiêu, nhiệm vụ của sự nghiệp xâydựng và BVTQ Việt Nam XHCN",
+        "d": "D. Đánh bại mọi kẻ thù xâmlược, tạo môi trường thuận lợicho sự nghiệp xây dựng vàBVTQ Việt Nam XHCN",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "41. Xây dựng tiềm lực kinh tế đất nước là điều kiện, là cơ sở để tạo sức mạnh vật chất cho:",
+        "a": "A. Các lực lượng vũ trang nhân dân",
+        "b": "B. Nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Chiến tranh nhân dân trong tương lai",
+        "d": "D. Sự nghiệp xây dựng và bảo vệ Tổ quốc",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "42. Để tạo nền tảng cho thế trận QPTD, ANND chúng ta phải chú trọng xây dựng:",
+        "a": "A. Khu vực phòng thủ dân sự và quân sự",
+        "b": "B. Khu vực quân sự, an ninh vững chắc",
+        "c": "C. Khu vực phòng thủ tỉnh (thành phố)",
+        "d": "D. Khu vực phòng thủ quân sự then chốt",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "43. Một trong những nội dung về tăng cường giáo dục QP&AN cho toàn dân là:",
+        "a": "A. Giáo dục lòng trung thành, ý chí quyết tâm chiến đấu",
+        "b": "B. Giáo dục về bản chất hiếu chiến, xâm lược của chủ nghĩa đế quốc",
+        "c": "C. Giáo dục lòng căm thù giặc, sẵn sàng chiến đấu hy sinh vì Tổ quốc",
+        "d": "D. Giáo dục tình yêu quê hương, đất nước, chế độ xã hội chủ nghĩa",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "44. “Thường xuyên thực hiện giáo dục QP&AN” là một biện pháp nhằm:",
+        "a": "A. Tác động tích cực và trựctiếp đến nhận thức về nhiệmvụ QP&AN của nhân dân",
+        "b": "B. Tác động tích cực và trực tiếp đến trình độ dân trí về bảo vệ độc lập, chủ quyền, thống nhất toàn vẹn lãnh thổ",
+        "c": "C. Tác động mạnh mẽ đến ý chí tinh thần của cả hệ thống chính trị trong sự nghiệp xây dựng và BVTQ",
+        "d": "D. Tác động trực tiếp đến nhận thức, tinh thần và ý chí quyết tâm của LLVT  trongkhu vực phòng thủ",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "45. “Số lượng, chất lượng đội ngũ cán bộ KHKT,cơ sở vật chất kỹ thuật có thể huy động phục vụ cho QP&AN và năng lực ứng dụng kết quả nghiên cứu khoa học có thể đáp ứng nhu cầu QP&AN” là nội dung biểu hiện của:",
+        "a": "A. Tiềm lực kinh tế, xã hội của nến quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Tiềm lực khoa học, công nghệ của nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Tiềm lực kỹ thuật quân sự của nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Tiềm lực khoa học quân sự của nền quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "46. Thế trận quốc phòng, an ninh là:",
+        "a": "A. Sự chuẩn bị toàn diện mọi mặt của đất nước từ trung ương đến các địa phương trên phạm vi cả nước đáp ứng yêu cầu phòng thủ, BVTQ Việt Nam XHCN",
+        "b": "B. Sự sắp xếp, bố trí lực lượng, phương tiện, cơ sở vật chất, tài chính trên phạm vi cả nước theo yêu cầu của chiến tranh nhân dân BVTQ Việt Nam XHCN",
+        "c": "C. Sự tổ chức, bố trí lực lương, tiềm lực mọi mặt của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh,  BVTQ Việt Nam XHCN",
+        "d": "D. Sự chuẩn bị đầy đủ nhân lực, vật lực, tài chính, triển khai bố trí lực lượng, tổ chức phòng thủ dân sự theo yêu cầu của nhiệm vụ BVTQ Việt Nam XHCN",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "47. Trong xây dưng tiềm lực QP&AN,tiềm lực biểu hiện tập trung, trực tiếp SMQS, ANcủa đất nước, giữ vai trò nòng cốt để BVTQ là:",
+        "a": "A. Tiềm lực chính trị, tinh thần",
+        "b": "B. Tiềm lực quân sự, an ninh",
+        "c": "C. Tiềm lực kinh tế, xã hội",
+        "d": "D. Tiềm lực chính trị, quân sự",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "48. Tính cơ động của nền kinh tế đất nước trong mọi điều kiện hoàn cảnh là nội dung của xây dựng:",
+        "a": "A. Tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Sức mạnh kinh tế của nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Khả năng kinh tế của đất nước khi tiến hành chiến tranh xảy ra",
+        "d": "D. Điều kiện kinh tế của đất nước trong điều kiện chiến tranh",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "49. Xây dựng nền QPTD, ANND là tạo ra:",
+        "a": "A. Sức mạnh của đất nước để đánh bại kẻ thù",
+        "b": "B. Lực lượng tổng hợp để bảo vệ Tổ quốc",
+        "c": "C. Sức mạnh và khả năng bảo vệ Tổ quốc",
+        "d": "D. Lực lượng vũ trang hùng mạnh để đánh bại kẻ thù",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "50. Trong xây dựng nền QPTD, ANND,nền QPTD phải gắn chặt với nền ANND, bởi vì:",
+        "a": "A. An ninh luôn luôn gắn bóvới quốc phòng dưới sự lãnh đạocủa Đảng CSVN",
+        "b": "B. Quốc phòng, an ninh cùng chung mục đích chống thùtrong, giặc ngoài để BVTQ",
+        "c": "C. Quốc phòng, an ninh cùngtạo nên sức mạnh tổng hợp củanền QPTD, ANND",
+        "d": "D. AN luôn đi cùng QP,tạo điều kiện cho quốc phòngnhân dân phát triển mạnh mẽ",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "51. Xây dựng tiềm lực kinh tế của nền QPTD, ANND, chúng ta phải thường xuyên:",
+        "a": "A. Phát triển hài hòakinh tế - xã hội quốc gia vớikinh tế - QPAN",
+        "b": "B. Kết hợp chặt chẽ phát triển kinh tế - xã hội vớităng cường QPAN",
+        "c": "C. Kết hợp kinh tế - xã hội của đất nước với phát triển công nghiệp quốc phòng",
+        "d": "D. Phát triển tiềm lực kinh tế với tiềm lực quân sự, an ninh và các tiềm lực khác",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "52. Xây dựng khối ĐĐKDT, nâng cao cảnh giáccách mạng, giữ vững ổn định chính trị, trật tự ATXHlà một trong những nội dung:",
+        "a": "A. Xây dưng tiềm lực chính trị, tinh thần của nềnQPTD, ANND",
+        "b": "B. Của tiềm lựcquân sự, an ninh của nềnQPTD, ANND",
+        "c": "C. Kêu gọi toàn dânthực hiện xây dựng nềnQPTD, ANND",
+        "d": "D. Xây dựng ý chí quyếttâm của nhân dân, giữ vữnghòa bình, ổn định CT-XH",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "53. Giữ vai trò nòng cốt trongxây dựng nền QPTD, ANND là:",
+        "a": "A. Lực lượng dân quân tự vệ",
+        "b": "B. Lực lượng quân đội nhân dân",
+        "c": "C. Lực lượng vũ trang nhân dân",
+        "d": "D. Lực lượng an ninh nhân dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "54. Xây dựng nền QPTD, ANNDở nước ta được triển khai thực hiện:",
+        "a": "A. Trên tất cả các địa phương trong cả nước",
+        "b": "B. Trong tất cả các lĩnh vực của đời sống xã hội",
+        "c": "C. Trong tất cả các bộ, ngành, các tổ chức xã hội",
+        "d": "D. Trên mọi hoạt động của kinh tế, xã hội, đối ngoại",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "55. Xây dựng thế trận QPTD, ANND,chúng ta phải gắn kết:",
+        "a": "A. Thế trận quân sự, an ninh, đối ngoại với thế  trận phòng thủ dân sự",
+        "b": "B. Thế trận quốc phòng toàn dân, an ninh nhân dân với ngoại giao",
+        "c": "C. Thế trận kinh tế với thế trận quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Phòng thủ dân sự với thế trận quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "56. Nhiệm vụ của các tổ chức, doanh nghiệptrong xây dựng nền QPTD, ANND là:",
+        "a": "A. Thực hiện đúng các quy định của pháp luật",
+        "b": "B. Ủng hộ vật chất, tinh thần cho lực lượng vũ trang",
+        "c": "C. Xây dựng lực lượng dân quân tự vệ vững mạnh",
+        "d": "D. Cử người tham gia vào lực lượng vũ trang",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "57. Nội dung giáo dục QP&AN cho mọi đối tượng,trong đó giáo dục âm mưu, thủ đoạn  của địch nhằmlàm cho mọi người, mọi tổ chức:",
+        "a": "A. Nhận rõ bộ mặt kẻ thù để lên án chủ nghĩa đế quốc, phản động",
+        "b": "B. Biết tự bảo vệ trước sự chống phá của các thế lực thù địch",
+        "c": "C. Biết được bản chất của kẻ thù để phòng tránh có hiệu quả",
+        "d": "D. Nhận diện đối tượng tác chiến để tự bảo vệ bản thân, tổ chức",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "58. Xây dựng khu vực phòng thủ tỉnh(thành phố) sẽ tạo nền tảng cho:",
+        "a": "A. Xây dựng lực lượng vũ trang nhân dân vững mạnh",
+        "b": "B. Thế trận chiến tranh nhân dân bảo vệ Tổ quốc",
+        "c": "C. Thế trận quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Xây dựng khu vực phòng thủ và phòng thủ then chốt",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "59. Tập trung đẩy mạnh CNH, HĐH đất nước,xây dựng nền kinh tế độc lập, tự chủ là nội dungcần tập trung trong xây dựng:",
+        "a": "A. Sức mạnh kinh tế",
+        "b": "B. Tiềm lực kinh tế",
+        "c": "C. Công nghiệp quốc phòng",
+        "d": "D. Tiềm lực quốc phòng",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "60. Sức mạnh quốc phòng của đất nướcđược xây dựng trên nền tảng:",
+        "a": "A. Chính trị tinh thần, cơ sở vật chất",
+        "b": "B. Con người, vật chất, tinh thần",
+        "c": "C. Nhân lực, cơ sở vật chất, kỹ thuật",
+        "d": "D. Nhân lực, vật lực, tinh thần",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "61. Tiềm lực quân sự, an ninh là biểu hiệntập trung, trực tiếp sức mạnh quân sự, an ninhcủa đất nước, giữ vai trò:",
+        "a": "A. Cần thiết để bảo vệ Tổ quốc",
+        "b": "B. Quyết định để bảo vệ Tổ quốc",
+        "c": "C. Quan trọng để bảo vệ Tổ quốc",
+        "d": "D. Nòng cốt để bảo vệ Tổ quốc",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "62. “Xây dựng HTCT trong sạch vững mạnh,phát huy quyền làm chủ của nhân dân, xây dựngkhối ĐĐKDT” là nội dung của:",
+        "a": "A. Xây dựng tiềm lực chính trị, tinh thần",
+        "b": "B. Xây dựng nhân tố chính trị, tinh thần",
+        "c": "C. Xây dựng sức mạnh chính trị, tinh thần",
+        "d": "D. Xây dung lực lượng chính trị, tinh thần",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "63. Xây dựng nền QPTD, ANND, là xây dựng:",
+        "a": "A. Nhân lực, vật lực và tài chính để bảo đảm quốc phòng, an ninh toàn dân",
+        "b": "B. Cơ sở vật chất và công trình phòng thủ của quốc phòng, anh ninh",
+        "c": "C. Lực lượng, tiềm lực và thế trận quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Lực lượng vũ trang và tổ chức phòng thủ của nền quốc phòng toàn dân",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "64. Nhiệm vụ cơ bản trongxây dựng nền QPTD, ANND:",
+        "a": "A. Chuẩn bị lực lượng QP&AN chu đáo để bảo vệvững chắc Tổ quốc Việt NamXHCN",
+        "b": "B. Xây dựng lực lượng QP&AN đáp ứng yêu cầubảo vệ vững chắc Tổ quốcViệt Nam XHCN",
+        "c": "C. Xây dựng sức mạnh toàn diện, gắn kết chặt chẽ các thành phần kinh tế với nhiệm vụ QP&AN",
+        "d": "D. Xây dựng các lựclượng QP&AN vững mạnh,chuẩn bị cho CTND",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "65. Để bảo đảm thế trận QPTD, ANND vững chắc, cần phải có sự gắn kết chặt chẽ:",
+        "a": "A. Kinh tế với, an ninh và trật tự, an toàn xã hội",
+        "b": "B. Quan hệ đối ngoại với quốc phòng, an ninh",
+        "c": "C. Kinh tế - xã hội với quốc phòng - an ninh",
+        "d": "D. Kinh tế, chính trị với quan hệ đối ngoại",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "66. Sức mạnh tổng hợp của nền QPTD, ANND làcơ sở, là tiền đề và là biện pháp để nhân dân ta:",
+        "a": "A. Đánh thắng kẻ thù xâm lược",
+        "b": "B. Giữ vững độc lập dân tộc",
+        "c": "C. Thống nhất đất nước",
+        "d": "D. Xây dựng chủ nghĩa xã hội",
+        "correctAnswer": "1",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "67. “ Tạo SMTH của đất nước cả về CT, QS, AN, KT, VHXH, KHCN để giữ vững hòa bình, ổn định, đẩy lùi, ngăn chặn nguy cơ chiến tranh, sẵn sàng đánh thắng chiến tranh xâm lược dưới mọi hình thức và quy mô” là nội dung của:",
+        "a": "A. Vị trí của nền quốc phòng toàn dân, an ninh nhân dân",
+        "b": "B. Đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân",
+        "c": "C. Nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "d": "D. Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "68. Một trong những nội dung xây dựngthế trận QPTD, ANND là phân vùng chiến lượcvề QP&AN kết hợp với:",
+        "a": "A. Quy hoạch dân cư",
+        "b": "B. Bảo toàn lực lượng",
+        "c": "C. Vùng kinh tế, dân cư",
+        "d": "D. Phương án phòng thủ",
+        "correctAnswer": "3",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "69. “Năng lực lãnh đạo của Đảng, quản lý điều hànhcủa NN; ý chí quyết tâm của nhân dân, của các LLVTNDsẵn sàng đáp ứng yêu cầu thực hiện nhiệm vụQP&AN, BVTQ” là biểu hiện của:",
+        "a": "A. Sự vững mạnh về quốc phòng, an ninh",
+        "b": "B. Tiềm lực chính trị, tinh thần",
+        "c": "C. Ý chí quyết tâm bảo vệ Tổ quốc",
+        "d": "D. Tiềm lực quân sự, an ninh",
+        "correctAnswer": "2",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "70. Trong xây dưng tiềm lực QP&AN, tiềm lựctạo sức mạnh vật chất cho nền QPTD, ANND là:",
+        "a": "A. Tiềm lực quân sự",
+        "b": "B. Tiềm lực khoa học",
+        "c": "C. Tiềm lực chính trị",
+        "d": "D. Tiềm lực kinh tế",
+        "correctAnswer": "4",
+        "numebrRight": "0",
+        "numberWrong": "0"
+    },
+    {
+        "question": "12. Việc tạo ra sức mạnh QPAN không chỉ ở SMQS, an ninh mà phải huy động được:",
+        "a": "A. Sức mạnh tinh thần của mọi người",
+        "b": "B. Sức mạnh vật chất của toàn xã hội",
+        "c": "C. Sức mạnh củatoàn dân về mọi mặt",
+        "d": "D. Sức mạnh củacác cấp, các nghành",
+        "correctAnswer": "3",
+        "numebrRight": "1",
+        "numberWrong": "0"
+    },
+    {
+        "question": "18. Cơ chế lãnh đạo, chỉ huyxây dựng nền QPTD, ANND:",
+        "a": "A. Đảng lãnh đạo, NNquản lý điều hành, QĐ, CA làm tham mưu",
+        "b": "B. Đảng chỉ đạo, NN quản lý điều hành, QP,AN đề xuất",
+        "c": "C. Đảng lãnh đạo,nhân dân làm chủ, BQP chỉ huy, điều hành",
+        "d": "D. NN chỉ đạo,Đảng lãnh đạo, QĐ, CA làm tham mưu",
+        "correctAnswer": "1",
+        "numebrRight": "1",
+        "numberWrong": "0"
+    },
+    {
+        "question": "11. Tiềm lực QPAN được thể hiện:",
+        "a": "A. Trên tất cả mọi hoạt động của các địa phương",
+        "b": "B. Trên tất cả mọi lĩnh vực của đời sống xã hội",
+        "c": "C. Trong tất cả mọihoạt động QPAN",
+        "d": "D. Trong quá trìnhcủng cố QP và AN",
+        "correctAnswer": "2",
+        "numebrRight": "1",
+        "numberWrong": "0"
+    },
+    {
+        "question": "14. “Chính trị tinh thần”là yếu tố quyết định thắng lợi:",
+        "a": "A. Trên chiến trường",
+        "b": "B. Trong chiến tranh",
+        "c": "C. Trong cuộc chiến",
+        "d": "D. Trên mọi mặt trận",
+        "correctAnswer": "1",
+        "numebrRight": "1",
+        "numberWrong": "0"
+    },
+    {
+        "question": "6. Quá trình hiện đại hóanền QPTD, ANND phải gắn liền với:",
+        "a": "A. Công nghiệp hóa, hiện đại hóa đất nước",
+        "b": "B. Tiềm lực khoa học công nghệ của nước ta",
+        "c": "C. Hiện đại hóa nền kinh tế nước nhà",
+        "d": "D. Hiện đại hóa quân sự,an ninh đất nước",
+        "correctAnswer": "1",
+        "numebrRight": "1",
+        "numberWrong": "0"
+    }
+]
