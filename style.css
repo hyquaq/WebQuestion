@@ -1,8 +1,7 @@
 * {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: "Helvetica";
     background-color: #4cd964;
-    border-radius: 40px !important;
+    /* border-radius: 40px !important; */
 }
 
 .disable-select {
@@ -20,7 +19,8 @@
 #a,
 #b,
 #c,
-#d {
+#d,
+#next-question {
     background-color: #4cd964;
     border-radius: 40px;
 }
@@ -36,5 +36,49 @@
     background-color: #007aff;
 }
 
-.toast {
+.message {
+    border-radius: 0px;
+    border-left: 6px solid;
+    /* border-left: 6px solid; */
+    /* border-color: #2196f3 !important; */
+    /* border-color: #f21515 !important; */
+    padding: 0.2em 16px;
+    background-color: #ddffff !important;
+    width: 300px;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    animation: fadeIn ease 0.4s, fadeOut linear 0.5s 2s forwards;
+}
+
+.message > div {
+    background-color: #ddffff !important;
+}
+
+.message-right {
+    border-color: blue;
+}
+
+.message-wrong {
+    border-color: red;
+}
+
+@keyframes fadeIn {
+    from {
+        right: -300px;
+    }
+
+    to {
+        right: 1rem;
+    }
+}
+
+@keyframes fadeOut {
+    /* from {
+        opacity: 100%;
+    } */
+
+    to {
+        opacity: 0%;
+    }
 }

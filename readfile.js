@@ -3689,27 +3689,27 @@ for (var i = 0; i < lines.length; i += 8) {
 
 // funciton
 function userChoice(e) {
-    // if (currentQuestion.key() === e.innerText) {
-    //     alert("bigo");
-    // } else {
-    //     alert(currentQuestion.key());
-    //     console.log(currentQuestion.key());
-    // }
-    var toast = document.querySelector(".toast> .toast-body");
     if (currentQuestion.key() === e.innerText) {
-        toast.innerText = "right";
+        showMess("right", "congratulations");
     } else {
-        toast.innerText = `wrong? ${currentQuestion.key()}`;
+        showMess("wrong", currentQuestion.key());
     }
+}
+
+function showMess(status, content) {
+    var mess = document.querySelector(".mess");
+    mess.innerHTML = `<div class="message message-${status}">${content}</div>`;
+    console.log(mess);
 }
 
 function updateProgress() {
     totalQuestionAnswered++;
     var progress = document.querySelector(".progress > .progress-bar");
     // progress.style.width = `${parseInt(progress.style.width) + 1}%`;
-    progress.style.width = `${
-        (totalQuestionAnswered / questions.length) * 100
-    }%`;
+    progress.style.width = `${(
+        (totalQuestionAnswered / questions.length) *
+        100
+    ).toFixed(2)}%`;
     progress.innerText = progress.style.width;
     console.log(progress.style.width);
 }
@@ -3732,27 +3732,6 @@ function nextQuestion() {
     c.innerText = currentQuestion.c;
     d.innerText = currentQuestion.d;
 }
-
-$(document).ready(function () {
-    $("#a").click(function () {
-        $(".toast").toast("show");
-    });
-});
-$(document).ready(function () {
-    $("#b").click(function () {
-        $(".toast").toast("show");
-    });
-});
-$(document).ready(function () {
-    $("#c").click(function () {
-        $(".toast").toast("show");
-    });
-});
-$(document).ready(function () {
-    $("#d").click(function () {
-        $(".toast").toast("show");
-    });
-});
 
 var totalQuestionAnswered = 0;
 var currentQuestion = null;
