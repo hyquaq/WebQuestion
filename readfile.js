@@ -3696,3 +3696,12 @@ fs.writeFile("triet.json", JSON.stringify(questions), (err) => {
     }
     console.log("JSON data is saved.");
 });
+
+fs.readFile("triet.json", "utf-8", (err, data) => {
+    if (err) {
+        throw err;
+    }
+    // console.log(data);
+    numberQuestion = JSON.parse(data);
+    console.log(numberQuestion.length);
+});
