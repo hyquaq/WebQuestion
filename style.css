@@ -1,7 +1,15 @@
+@import url("https://fonts.google.com/specimen/Pacifico");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Shadows+Into+Light+Two&display=swap");
 * {
-    font-family: "Helvetica";
-    background-color: #4cd964;
-    /* border-radius: 40px !important; */
+    font-family: "Baloo Tammudu 2", cursive;
+    font-size: 16px;
+    background-color: rgba(228, 217, 170);
+    transition: all linear 0.3s;
+    color:black
+
+    justify-content: center;
+    align-items: center;
 }
 
 .disable-select {
@@ -12,6 +20,39 @@
     -ms-user-select: none; /* Internet Explorer/Edge */
 }
 
+.main {
+    height: 100%;
+}
+
+.dropdown {
+    margin: 0.3rem;
+}
+
+.dropdown > .dropdown-toggle {
+    line-height: 100%;
+}
+
+.dropdown > .dropdown-toggle:focus {
+    /* background-color: #95ff00; */
+    /* color: #95ff00; */
+    /* box-shadow: none; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+        rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.dropdown > .dropdown-toggle:hover {
+    opacity: 75%;
+}
+
+.dropdown-menu > button {
+    background-color: #fff;
+}
+
+.progress {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+        rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
 .progress-bar {
     background-color: pink !important;
 }
@@ -19,21 +60,31 @@
 #a,
 #b,
 #c,
-#d,
-#next-question {
-    background-color: #4cd964;
+#d {
     border-radius: 40px;
+    background-color: #b9e992;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    color: #333;
 }
 
 #a:hover,
 #b:hover,
 #c:hover,
 #d:hover {
-    background-color: #f1c40f;
+    /* box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px; */
+    opacity: 50%;
+}
+
+#next-question {
+    background-color: #fff;
 }
 
 #ques {
-    background-color: #007aff;
+    background-color: #d193da;
+    border-radius: 20px;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px,
+        rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px,
+        rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 }
 
 .message {
@@ -48,7 +99,17 @@
     position: fixed;
     bottom: 1rem;
     right: 1rem;
+    z-index: 3;
     animation: fadeIn ease 0.4s, fadeOut linear 0.5s 2s forwards;
+}
+
+.btn {
+    border: none !important;
+}
+
+.container > hr {
+    width: 90%;
+    color: #242444;
 }
 
 .message > div {
@@ -81,4 +142,54 @@
     to {
         opacity: 0%;
     }
+}
+
+.btn1 {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #333;
+    font-size: 20px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    transition: 0.3s;
+}
+
+.btn1::before,
+.btn1::after {
+    position: absolute;
+    background: #eee;
+    z-index: -1;
+    transition: 1s;
+    content: "";
+}
+
+.btn1::before {
+    height: 50px;
+    width: 100%;
+}
+
+.btn1::after {
+    width: 150px;
+    height: 30px;
+}
+
+.btn1:hover::before {
+    width: 0px;
+    background: #fff;
+}
+
+.btn1:hover::after {
+    height: 0px;
+    background: #fff;
+}
+
+
+.contact > a:hover{
+    text-decoration: none;
+    opacity: 50%;
 }

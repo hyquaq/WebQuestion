@@ -30,51 +30,51 @@
         <div class="main">
             <div class="dropdown">
                 <button class="btn dropdown-toggle" data-toggle="dropdown">
-                    Click me <span class="caret"></span>
+                    Click <span class"caret"></span>
                 </button>
                 <ul class="dropdown-menu">
-                    <button class="btn" onclick="readData('/data/triet.json')">
+                    <button class="btn1" onclick="readData('/data/triet.json')">
                         triet
                     </button>
                     <li class="divider"></li>
-                    <button class="btn" onclick="readData('/data/qp1.json')">
+                    <button class="btn1" onclick="readData('/data/qp1.json')">
                         qp bai 1
                     </button>
-                    <button class="btn" onclick="readData('/data/qp2.json')">
+                    <button class="btn1" onclick="readData('/data/qp2.json')">
                         qp bai 2
                     </button>
-                    <button class="btn" onclick="readData('/data/qp3.json')">
+                    <button class="btn1" onclick="readData('/data/qp3.json')">
                         qp bai 3
                     </button>
-                    <button class="btn" onclick="readData('/data/qp4.json')">
+                    <button class="btn1" onclick="readData('/data/qp4.json')">
                         qp bai 4
                     </button>
-                    <button class="btn" onclick="readData('/data/qp5.json')">
+                    <button class="btn1" onclick="readData('/data/qp5.json')">
                         qp bai 5
                     </button>
-                    <button class="btn" onclick="readData('/data/qp6.json')">
+                    <button class="btn1" onclick="readData('/data/qp6.json')">
                         qp bai 6
                     </button>
-                    <button class="btn" onclick="readData('/data/qp7.json')">
+                    <button class="btn1" onclick="readData('/data/qp7.json')">
                         qp bai 7
                     </button>
-                    <button class="btn" onclick="readData('/data/qp8.json')">
+                    <button class="btn1" onclick="readData('/data/qp8.json')">
                         qp bai 8
                     </button>
-                    <button class="btn" onclick="readData('/data/qp9.json')">
+                    <button class="btn1" onclick="readData('/data/qp9.json')">
                         qp bai 9
                     </button>
-                    <button class="btn" onclick="readData('/data/qp10.json')">
+                    <button class="btn1" onclick="readData('/data/qp10.json')">
                         qp bai 10
                     </button>
-                    <button class="btn" onclick="readData('/data/qp11.json')">
+                    <button class="btn1" onclick="readData('/data/qp11.json')">
                         qp bai 11
                     </button>
                 </ul>
             </div>
 
-            <div class="content disable-select container">
-                <div class="progress mt-3">
+            <div class="content disable-select container text-center">
+                <!-- <div class="progress mt-2 text-center">
                     <div
                         class="
                             progress-bar
@@ -85,7 +85,7 @@
                     >
                         0%
                     </div>
-                </div>
+                </div> -->
 
                 <div
                     id="ques"
@@ -124,20 +124,23 @@
                     </div>
                 </div>
 
-                <hr class="mt-5" />
+                <hr class="mt-5 fw-light mx-auto" />
 
                 <div
                     id="next-question"
-                    class="col-12 btn btn-primary btn-block mt-5 p-3"
+                    class="col-12 btn1 mt-5 p-3"
                     onclick="nextQuestion()"
                 >
                     <!-- <span class="spinner-grow spinner-grow-sm"></span> -->
                     Next
                 </div>
 
-                <!-- toast -->
+
                 <div class="mess"></div>
             </div>
+             <div class="contact container-fluid copyRight my-2">
+                 <a href="https://www.facebook.com/QuaqHy/" class="">©huynguyen.ml</a>
+             </div>
             <script src="script.js"></script>
             <!-- <script src="readfile.js"></script> -->
             <script

@@ -21,7 +21,7 @@ function userChoice(e) {
     e.classList.add("disabled");
 
     // when user choice
-    updateProgress();
+    // updateProgress();
 
     if (key() === e.innerText) {
         showMess("right", "congratulations");
@@ -46,17 +46,17 @@ function showMess(status, content) {
     // console.log(mess);
 }
 
-function updateProgress() {
-    totalQuestionAnswered++;
-    var progress = document.querySelector(".progress > .progress-bar");
-    // progress.style.width = `${parseInt(progress.style.width) + 1}%`;
-    progress.style.width = `${(
-        (totalQuestionAnswered / questions.length) *
-        100
-    ).toFixed(2)}%`;
-    progress.innerText = progress.style.width;
-    console.log(progress.style.width);
-}
+// function updateProgress() {
+//     totalQuestionAnswered++;
+//     var progress = document.querySelector(".progress > .progress-bar");
+//     // progress.style.width = `${parseInt(progress.style.width) + 1}%`;
+//     progress.style.width = `${(
+//         (totalQuestionAnswered / questions.length) *
+//         100
+//     ).toFixed(2)}%`;
+//     progress.innerText = progress.style.width;
+//     console.log(progress.style.width);
+// }
 
 function key() {
     if (currentQuestion.correctAnswer === "1") {
