@@ -41,8 +41,18 @@ function disableAll() {
 }
 
 function showMess(status, content) {
-    var mess = document.querySelector(".mess");
-    mess.innerHTML = `<div class="message message-${status}">${content}</div>`;
+    var areaToast = document.querySelector(".area-toast");
+    var toastMess = `<div class="mess">
+                        <div class="message message-${status}">
+                            ${content}
+                        </div>
+                    </div>`;
+
+    console.log(toastMess);
+    console.log(typeof toastMess);
+
+    areaToast.insertAdjacentHTML("beforeend", toastMess);
+    setTimeout(() => {}, 3000);
     // console.log(mess);
 }
 

@@ -75,9 +75,6 @@
     opacity: 50%;
 }
 
-#next-question {
-    background-color: #fff;
-}
 
 #ques {
     background-color: #d193da;
@@ -99,7 +96,7 @@
     position: fixed;
     bottom: 1rem;
     right: 1rem;
-    z-index: 3;
+    z-index:    3;
     animation: fadeIn ease 0.4s, fadeOut linear 0.5s 2s forwards;
 }
 
@@ -162,7 +159,7 @@
 .btn1::before,
 .btn1::after {
     position: absolute;
-    background: #eee;
+    background: #fff;
     z-index: -1;
     transition: 1s;
     content: "";
@@ -192,4 +189,19 @@
 .contact > a:hover{
     text-decoration: none;
     opacity: 50%;
+}
+
+.next-question{
+    /* background-color: red; */
+    box-shadow: none;
+    border: none;
+    border-radius: 10px;
+}
+
+.next-question.btn:focus {
+    box-shadow: none;
+}
+
+.next-question.btn-outline-info:hover {
+    background-color: #aeaee9;
 }
