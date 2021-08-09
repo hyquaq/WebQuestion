@@ -4,8 +4,23 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Question</title>
-        <link rel="stylesheet" href="style.css" />
+        <title>Studying...</title>
+
+        <link rel="stylesheet" href="./styles/render.css" />
+
+        <link
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700;900&family=Changa+One&family=Lobster&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700"
+        />
+        <link
+            href="https://use.fontawesome.com/releases/v5.0.1/css/all.css"
+            rel="stylesheet"
+        />
+        <!-- copy -->
         <link
             href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
             rel="stylesheet"
@@ -25,155 +40,34 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     </head>
     <body>
-        <div class="main">
-            <div class="linkBai row">
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/triet.json')"
-                >
-                    triet
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp1.json')"
-                >
-                    qp bai 1
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp2.json')"
-                >
-                    qp bai 2
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp3.json')"
-                >
-                    qp bai 3
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp4.json')"
-                >
-                    qp bai 4
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp5.json')"
-                >
-                    qp bai 5
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp6.json')"
-                >
-                    qp bai 6
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp7.json')"
-                >
-                    qp bai 7
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp8.json')"
-                >
-                    qp bai 8
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp9.json')"
-                >
-                    qp bai 9
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp10.json')"
-                >
-                    qp bai 10
-                </button>
-                <button
-                    type="button"
-                    class="btn btn-light col-1"
-                    onclick="readData('./data/qp11.json')"
-                >
-                    qp bai 11
-                </button>
-            </button>
-
-            <div class="content disable-select container text-center">
-                <div
-                    id="ques"
-                    class="col-12 btn btn-info disabled p-4 mt-5 mb-4"
-                >
-                    please click me!
-                </div>
-                <div class="row-cols-1">
-                    <div
-                        id="a"
-                        class="btn btn-info col-12 mt-3 p-2 disabled"
-                        onclick="userChoice(this)"
-                    >
-                        please click me!
-                    </div>
-                    <div
-                        id="b"
-                        class="btn btn-info col-12 mt-3 p-2 disabled"
-                        onclick="userChoice(this)"
-                    >
-                        please click me!
-                    </div>
-                    <div
-                        id="c"
-                        class="btn btn-info col-12 mt-3 p-2 disabled"
-                        onclick="userChoice(this)"
-                    >
-                        please click me!
-                    </div>
-                    <div
-                        id="d"
-                        class="btn btn-info col-12 mt-3 p-2 disabled"
-                        onclick="userChoice(this)"
-                    >
-                        please click me!
-                    </div>
-                </div>
-                <hr class="mt-5 fw-light mx-auto" />
-                <button
-                    class="next-question btn btn-outline-info w-100"
-                    onclick="nextQuestion()"
-                >
-                    Next
-                </button>
-
-                <div class="area-toast">
-
-                </div>
+        <!-- form -->
+        <div class="form-study">
+            <!-- title -->
+            <div class="form-study__title">
+                <div class="title__info">Nguyen Huy</div>
+                <div class="title__total-score">10/10 points</div>
             </div>
-            <div class="contact container-fluid copyRight my-2">
-                <a href="https://www.facebook.com/QuaqHy/" class=""
-                    >©huynguyen.ml</a
-                >
+
+            <!-- body -->
+            <div class="form-study__body">
+                <div class="body__title">Question 1</div>
+                <div class="body__question">What are you doing?</div>
+                <ul class="body__answers">
+                    <li class="answer" value="1">i'm reading</d>
+                    <li class="answer" value="2">i'm writing</d>
+                    <li class="answer" value="3">i'm listening</d>
+                    <li class="answer" value="4">i'm speaking</d>
+					</ul>
+                <!-- <div class="clearer"></div> -->
+				<button class="next">next</button>
             </div>
-            <script src="script.js"></script>
-            <!-- <script src="readfile.js"></script> -->
-            <script
-                src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
-                integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
-                crossorigin="anonymous"
-            ></script>
         </div>
+        <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+            crossorigin="anonymous"
+        ></script>
+        <script src="./scripts/script.js"></script>
     </body>
 </html>
