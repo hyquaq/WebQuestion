@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -7,55 +8,60 @@
 
 body {
   box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Roboto", sans-serifyy;
   user-select: none;
+  background-color: #eee;
+  position: relative;
 }
 
-.form-study {
+.main {
+  padding: 3rem;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.main .form-study {
   position: relative;
-  top: 2rem;
-  left: 2rem;
   max-width: 720px;
   background-color: #fff;
   box-shadow: rgba(0, 0, 0, 0.3) 5px 4px 14px -2px;
   border-radius: 5px;
   overflow: hidden;
 }
-.form-study__title {
+.main .form-study__title {
   height: 60px;
   background-color: transparent;
   display: flex;
   justify-content: space-between;
   box-shadow: black 3px 3px 10px -2px;
 }
-.form-study__title .title__info {
+.main .form-study__title .title__info {
   margin: auto 1rem;
   font-size: 1rem;
   font-weight: bold;
 }
-.form-study__title .title__total-score {
+.main .form-study__title .title__total-score {
   margin: auto 1rem;
   font-size: 1rem;
 }
-.form-study__body .body__title {
+.main .form-study__body .body__title {
   height: 50px;
   padding: 1rem;
   text-align: left;
   font-size: 1rem;
 }
-.form-study__body .body__title::before {
+.main .form-study__body .body__title::before {
   content: "";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   margin-right: 1rem;
   font-size: 1.5rem;
 }
-.form-study__body .body__question {
+.main .form-study__body .body__question {
   padding: 1rem;
   text-align: center;
   font-size: 1rem;
 }
-.form-study__body .body__answers {
+.main .form-study__body .body__answers {
   list-style-type: none;
   width: 100%;
   margin-bottom: 1rem;
@@ -67,14 +73,23 @@ body {
   margin-inline-end: 0px;
   padding-inline-start: 0px;
 }
-.form-study__body .body__answers > li {
+.main .form-study__body .body__answers > li {
+  overflow: hidden;
+  border-radius: 0.2rem;
   width: 90%;
   margin: 10px auto;
   border: 1px solid #00000046;
   padding: 10px 10px 10px 40px;
   position: relative;
+  background-color: transparent;
+  transition: all 0.5s ease;
+  background-position: 50% 50%;
 }
-.form-study__body .body__answers > li.answer--right::before {
+.main .form-study__body .body__answers > li:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  transition: all 0.5s ease;
+}
+.main .form-study__body .body__answers > li.answer--right::before {
   content: "";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -88,7 +103,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-.form-study__body .body__answers > li.answer--right::after {
+.main .form-study__body .body__answers > li.answer--right::after {
   content: "Corect answer";
   position: absolute;
   font-size: 0.7rem;
@@ -97,7 +112,7 @@ body {
   color: #3cff00;
   padding: 0 0.1rem 0.1rem 0;
 }
-.form-study__body .body__answers > li.answer--wrong::before {
+.main .form-study__body .body__answers > li.answer--wrong::before {
   content: "";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -112,7 +127,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-.form-study__body .body__answers > li.answer--wrong::after {
+.main .form-study__body .body__answers > li.answer--wrong::after {
   content: "Your answer";
   position: absolute;
   font-size: 0.7rem;
@@ -121,7 +136,15 @@ body {
   color: #3cff00;
   padding: 0 0.1rem 0.1rem 0;
 }
-.form-study__body .next {
+.main .form-study__body .body__answers > li.disable {
+  opacity: 0.5;
+  cursor: default;
+}
+.main .form-study__body .body__answers > li:hover.disable {
+  background: transparent;
+}
+.main .form-study__body .next {
+  border-radius: 0.3rem;
   position: relative;
   padding: 0.5rem 3rem;
   outline: none;
@@ -130,7 +153,7 @@ body {
   border: none;
   margin: 1rem;
 }
-.form-study__body .next::before {
+.main .form-study__body .next::before {
   content: "";
   position: absolute;
   top: 50%;
@@ -138,27 +161,88 @@ body {
   transform: translate(-50%, -50%);
   width: 100%;
   height: 100%;
-  clip-path: polygon(100% 0, 0 0, 100% 0);
+  clip-path: polygon(0 0, 0 0, 100% 0, 100% 0);
   background-color: rgba(0, 0, 0, 0.1);
   transition: all 0.5s ease;
 }
-.form-study__body .next:hover::before {
-  clip-path: polygon(100% 0, 0 0, 100% 100%);
+.main .form-study__body .next:hover::before {
+  clip-path: polygon(0 0, 0 100%, 100% 75%, 100% 0);
 }
-.form-study__body .next::after {
+.main__sections > ul {
+  list-style-type: none;
+}
+.main__sections > ul > li {
+  border-top: 1px solid rgba(0, 0, 0, 0.7);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  border-right: 1px solid rgba(0, 0, 0, 0.7);
+  padding: 10px 1rem;
+  width: 100%;
+  margin: 0.5rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 0.1rem;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+.main__sections > ul > li > p {
+  margin: 0;
+  text-align: left;
+}
+.main__sections > ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  z-index: -1;
+  clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
+  transition: all 0.2s ease;
+}
+.main__sections > ul > li:hover::before {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.show-score {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #b17e7e5f;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.show-score.disabled {
+  display: none;
+}
+.show-score > button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border: none;
+  margin: 1rem auto;
+  position: relative;
+}
+.show-score > button::before {
   content: "";
   position: absolute;
   top: 50%;
   left: 50%;
+  background-color: transparent;
   transform: translate(-50%, -50%);
+  width: 0%;
+  height: 0%;
+  transition: all 0.5s ease;
+  border: 1px solid transparent;
+}
+.show-score > button:hover::before {
+  border: 1px solid blue;
   width: 100%;
   height: 100%;
-  clip-path: polygon(0 100%, 0 0, 0 100%);
-  background-color: rgba(0, 0, 0, 0.1);
   transition: all 0.5s ease;
-}
-.form-study__body .next:hover::after {
-  clip-path: polygon(100% 100%, 0 0, 0 100%);
 }
 
 /*# sourceMappingURL=render.css.map */
