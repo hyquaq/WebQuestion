@@ -1,4 +1,5 @@
-let path = "../data/qp10.json";
+let path =
+    "https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp1.json";
 let questions = [];
 let currentQues = "";
 let outQuestion = document.querySelector(".form-study__body .body__question");
