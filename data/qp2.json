@@ -20,7 +20,7 @@
         "numberWrong": "2"
     },
     {
-        "question": "3. V.I.Lênin xác định nguyên tắc đoàn kếtquân dân trong xây dựng quân đội là:",
+        "question": "3. V.I.Lênin xác định nguyên tắc đoàn kết quân dân trong xây dựng quân đội là:",
         "a": "A. Nhất trí quân dân với lực lượng tiến bộ thế giới",
         "b": "B. Gắn bó Hồng quân với nhân dân lao động",
         "c": "C. Đoàn kết thống nhất quân đội với nhân dân",
@@ -40,7 +40,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "10. Tư tưởng Hồ Chí Minh về BVTQ XHCNlà sự vận dụng sáng tạo Học thuyết BVTQXHCN của V.I.Lênin vào:",
+        "question": "10. Tư tưởng Hồ Chí Minh về BVTQ XHCN là sự vận dụng sáng tạo Học thuyết BVTQXHCN của V.I.Lênin vào:",
         "a": "A. Hoàn cảnh thực tế của cách mạng Việt Nam",
         "b": "B. Điều kiện cụ thể của cách mạng Việt Nam",
         "c": "C. Tình hình thực tiễn của cách mạng Việt Nam",
@@ -50,11 +50,11 @@
         "numberWrong": "0"
     },
     {
-        "question": "13. Nhân tố quyết định bản chất giai cấpcủa quân đội nhân dân Việt Nam là:",
-        "a": "A. Đảng Cộng sảnViệt Nam",
-        "b": "B. Đường lốicách mạng Việt Nam",
-        "c": "C. Tư tưởngHồ Chí Minh",
-        "d": "D. Chế độxã hội chủ nghĩa",
+        "question": "13. Nhân tố quyết định bản chất giai cấp của quân đội nhân dân Việt Nam là:",
+        "a": "A. Đảng Cộng sản Việt Nam",
+        "b": "B. Đường lối cách mạng Việt Nam",
+        "c": "C. Tư tưởng Hồ Chí Minh",
+        "d": "D. Chế độ xã hội chủ nghĩa",
         "correctAnswer": "1",
         "numebrRight": "0",
         "numberWrong": "1"
@@ -80,7 +80,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "18. Chức năng cơ bản, thường xuyêncủa Quân đội ta là:",
+        "question": "18. Chức năng cơ bản, thường xuyên của Quân đội ta là:",
         "a": "A. Đội quân công tác",
         "b": "B. Đội quân lao động",
         "c": "C. Đội quân chiến đấu",
@@ -150,7 +150,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "36. Hồ Chí Minh khẳng định sự ra đời củaQuân đội nhân dân Việt Nam là một:",
+        "question": "36. Hồ Chí Minh khẳng định sự ra đời của Quân đội nhân dân Việt Nam là một:",
         "a": "A. Hiện tượng ngẫu nhiên trong quá trình cách mạng, giải phóng dân tộc Việt Nam",
         "b": "B. Tất yếu có tính quy luật trong đấu tranh giai cấp, đấu tranh dân tộc ở Việt Nam",
         "c": "C. Sự kiện trong lịch sử chống giặc ngoại xâm dựng nước và giữ nước ở Việt Nam",
@@ -160,7 +160,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "38. Chiến tranh có thể làm thay đổi đường lối, chính sách,nhiệm vụ cụ thể, thậm chí có thể còn thay đổi cả thành phầnlực lượng lãnh đạo chính trị trong các bên tham chiến, vì:",
+        "question": "38. Chiến tranh có thể làm thay đổi đường lối, chính sách, nhiệm vụ cụ thể, thậm chí có thể còn thay đổi cả thành phần lực lượng lãnh đạo chính trị trong các bên tham chiến, vì:",
         "a": "A. Chiến tranh chi phối đến sự phát triển của chính trị, tác động mạnh mẽ làm chính trị biến đổi",
         "b": "B. Chiến tranh quyết định chính trị, tác động mạnh mẽ làm thay đổi những vấn đề lớn của ch. trị",
         "c": "C. Chiến tranh là sự tiếp  tục của ch. trị, là kết quả phản ánh những cố gắng cao nhất của chính trị",
@@ -200,7 +200,7 @@
         "numberWrong": "1"
     },
     {
-        "question": "43. Trong xây dựng bản chất GCCN cho Quân đội,Chủ tịch Hồ Chí Minh hết sức quan tâm đến:",
+        "question": "43. Trong xây dựng bản chất GCCN cho Quân đội, Chủ tịch Hồ Chí Minh hết sức quan tâm đến:",
         "a": "A. Chăm lo giáo dục tinh thần dân tộc, truyền thống vẻ vang của đất nước",
         "b": "B. Giáo dục, nuôi dưỡng các phẩm chất cách mạng, bản lĩnh chính trị",
         "c": "C. Giáo dục ý thức trách nhiệm, bản lĩnh chiến đấu kiên cường, bât khuất",
@@ -250,7 +250,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "48. Bản chất giai cấp của quân đội theo quan điểmchủ nghĩa Mác-Lênin là cơ sở để quân đội:",
+        "question": "48. Bản chất giai cấp của quân đội theo quan điểm chủ nghĩa Mác-Lênin là cơ sở để quân đội:",
         "a": "A. Chiến đấu vì mục đích của giai cấp đã nuôi dưỡng nó",
         "b": "B. Trở thành công cụ của giai cấp, nhà nước đã sinh ra nó",
         "c": "C. Trung thành với giai cấp đã chăm lo nuôi dưỡng nó",
@@ -260,7 +260,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "49. Theo quan điểm chủ nghĩa Mác-Lênin,quân đội vẫn còn tồn tại chừng nào vẫn còn:",
+        "question": "49. Theo quan điểm chủ nghĩa Mác-Lênin, quân đội vẫn còn tồn tại chừng nào vẫn còn:",
         "a": "A. Chế độ thống trị của giai cấp bóc lột",
         "b": "B. Mâu thuẫn lợi ích của mọi người",
         "c": "C. Chế độ tư hữu, chế độ áp bức bóc lột",
@@ -300,7 +300,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "53. Trong cuộc kháng chiến chống Mỹ, Chủ tịchHồ Chí Minh đã nói: chiến tranh có thể kéo dài:",
+        "question": "53. Trong cuộc kháng chiến chống Mỹ, Chủ tịch Hồ Chí Minh đã nói: chiến tranh có thể kéo dài:",
         "a": "A. 5 năm, 10 năm, 15 năm hoặc lâu hơn nữa",
         "b": "B. 5 năm, 10 năm, 20 năm hoặc lâu hơn nữa",
         "c": "C. 10 năm, 15 năm, 25 năm hoặc lâu hơn nữa",
@@ -340,7 +340,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "57. “Chiến tranh là một hiện tượng chính trị - xã hội”là một trong những nội dung của:",
+        "question": "57. “Chiến tranh là một hiện tượng chính trị - xã hội” là một trong những nội dung của:",
         "a": "A. Quan điểm chủ nghĩa Mác - Lê nin về quân sự",
         "b": "B. Lý luận chủ nghĩa Mác - Lê nin về chiến tranh",
         "c": "C. Quan điểm chủ nghĩa Mác - Lê nin về chiến tranh",
@@ -370,8 +370,8 @@
         "numberWrong": "0"
     },
     {
-        "question": "60. Quân đội nhân dân Việt Nam là",
-        "a": "A. lực lượng vũ trang cách mạng của:Giai cấp công nhân và quần chúng lao động Việt Nam",
+        "question": "60. Quân đội nhân dân Việt Nam là lực lượng vũ trang cách mạng của: ",
+        "a": "A. Giai cấp công nhân và quần chúng lao động Việt Nam",
         "b": "B. Nhà nước nhân dân và giai cấp nông dân Việt Nam",
         "c": "C. Giai cấp công nhân và giai cấp nông dân Việt Nam",
         "d": "D. Nhà nước vô sản và nhân dân lao động Việt Nam",
@@ -390,7 +390,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "62. Để có sức mạnh bảo vệ Tổ quốc XHCN,Chủ tịch Hồ Chí Minh rất coi trọng:",
+        "question": "62. Để có sức mạnh bảo vệ Tổ quốc XHCN, Chủ tịch Hồ Chí Minh rất coi trọng:",
         "a": "A. Phát triển kinh tế với xây dựng và củng cố căn cứ địa vững chắc",
         "b": "B. Xây dựng và củng cố LLVTND hùng hậu",
         "c": "C. Xây dựng trận địa QPTD, ANND vững chắc",
@@ -400,7 +400,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "63. Học thuyết Mác-Lênin, tư tưởng Hồ Chí Minhvề chiến tranh, quân đội và bảo vệ Tổ quốc XHCN:",
+        "question": "63. Học thuyết Mác-Lênin, tư tưởng Hồ Chí Minh về chiến tranh, quân đội và bảo vệ Tổ quốc XHCN:",
         "a": "A. Là con đường giải phóng nhân dân thế giới",
         "b": "B. Mang tính cách mạng và khoa học sâu sắc",
         "c": "C. Mang tính cách mạng sâu sắc, triệt để",
@@ -420,7 +420,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "65. Một trong những nguyên tắc cơ bản xây dựngquân đội kiểu mới của V.I.Lênin là:",
+        "question": "65. Một trong những nguyên tắc cơ bản xây dựng quân đội kiểu mới của V.I.Lênin là:",
         "a": "A. Xây dựng quân đội vững vàng",
         "b": "B. Xây dựng quân đội kỷ luật",
         "c": "C. Xây dựng quân đội chính qui",
@@ -430,7 +430,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "66. Bản chất của chiến tranh theo quan điểmcủa chủ nghĩa Mác-Lênin là:",
+        "question": "66. Bản chất của chiến tranh theo quan điểm của chủ nghĩa Mác-Lênin là:",
         "a": "A. Kế tục mục tiêu chính trị bằng nhiều thủ đoạn",
         "b": "B. Sự tiếp tục của chính trị bằng biện pháp bạo lực",
         "c": "C. Thủ đoạn để đạt được mục tiêu chính trị",
@@ -440,7 +440,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "67. Theo tư tưởng Hồ Chí Minh nhất thiếtphải sử dụng bạo lực cách mạng để:",
+        "question": "67. Theo tư tưởng Hồ Chí Minh nhất thiết phải sử dụng bạo lực cách mạng để:",
         "a": "A. Lật đổ chế độ cũ, thành lập chế độ mới",
         "b": "B. Xóa bỏ chế độ cũ, xây dựng chế độ mới",
         "c": "C. Trấn áp bọn phản động, xây dựng chế độ mới",
@@ -490,17 +490,17 @@
         "numberWrong": "0"
     },
     {
-        "question": "12. Căn cứ vào nguồn gốc nảy sinh chiến tranh củaCN Mác-Lênin thì chiến tranh xuất hiện vào:",
-        "a": "A. Thời kỳtư bản chủ nghĩa",
-        "b": "B. Thời kỳchiếm hữu nô lệ",
-        "c": "C. Thời kỳphong kiến",
-        "d": "D. Thời kỳchủ nghĩa đế quốc",
+        "question": "12. Căn cứ vào nguồn gốc nảy sinh chiến tranh của CN Mác-Lênin thì chiến tranh xuất hiện vào:",
+        "a": "A. Thời kỳ tư bản chủ nghĩa",
+        "b": "B. Thời kỳ chiếm hữu nô lệ",
+        "c": "C. Thời kỳ phong kiến",
+        "d": "D. Thời kỳ chủ nghĩa đế quốc",
         "correctAnswer": "2",
         "numebrRight": "1",
         "numberWrong": "0"
     },
     {
-        "question": "37. Nội dung thể hiện tư tưởng Hồ Chí Minhvề kháng chiến phải dựa vào sức mình là chính:",
+        "question": "37. Nội dung thể hiện tư tưởng Hồ Chí Minh về kháng chiến phải dựa vào sức mình là chính:",
         "a": "A. Cả nước đồng lòng, đứng lên để giành độc lập dân tộc, giải phóng nhân dân khỏi ách áp bức, bóc lột",
         "b": "B. Ta phải tự đứng lên kháng chiến với tất cả khả năng của dân tộc để mưu cầu tự do, hạnh phúc cho nhân dân",
         "c": "C. Kháng chiến là để giải phóng cho ta nên chúng ta phải tự làm lấy dưới sự lãnh đạo của Đảng cộng sản Việt Nam",
@@ -570,17 +570,17 @@
         "numberWrong": "0"
     },
     {
-        "question": "8. Theo quan điểm của chủ nghĩaMác-Lênin, bảo vệ Tổ quốc XHCN là:",
-        "a": "A. Nhiệm vụthường xuyên",
-        "b": "B. Một tất yếukhách quan",
-        "c": "C. Cấp thiếttrước mắt",
-        "d": "D. Nhiệm vụkhách quan",
+        "question": "8. Theo quan điểm của chủ nghĩa Mác-Lênin, bảo vệ Tổ quốc XHCN là:",
+        "a": "A. Nhiệm vụ thường xuyên",
+        "b": "B. Một tất yếu khách quan",
+        "c": "C. Cấp thiết trước mắt",
+        "d": "D. Nhiệm vụ khách quan",
         "correctAnswer": "2",
         "numebrRight": "1",
         "numberWrong": "0"
     },
     {
-        "question": "9. Nguyên tắc cơ bản về xây dựngquân đội kiểu mới của V.I.Lênin:",
+        "question": "9. Nguyên tắc cơ bản về xây dựng quân đội kiểu mới của V.I.Lênin:",
         "a": "A. Đảng cộng sản lãnh đạo Hồng quân tăng cường bản chất giai cấp công nhân",
         "b": "B. Giữ vững quan điểm giai cấp công nhân trong xây dựng quân đội Xô viết",
         "c": "C. Tính kỷ luật cao là yếu tố quyết định sức mạnh chiến đấu của Hồng quân",

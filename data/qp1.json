@@ -10,7 +10,7 @@
         "numberWrong": "1"
     },
     {
-        "question": "13. Đối tượng được miễn học thực hànhkỹ năng quân sự là học sinh, sinh viên:",
+        "question": "13. Đối tượng được miễn học thực hành kỹ năng quân sự là học sinh, sinh viên:",
         "a": "A. Bị ốm đau, tai nạn, thai sản",
         "b": "B. Đã hoàn thành nghĩa vụ quân sự",
         "c": "C. Người nước ngoài học tại Việt Nam",
@@ -70,7 +70,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "8. Phương pháp được sử dụng đểnghiên cứu giáo dục QP&AN:",
+        "question": "8. Phương pháp được sử dụng để nghiên cứu giáo dục QP&AN:",
         "a": "A. Phương pháp nghiên cứu lý thuyết",
         "b": "B. Phương pháp nghiên cứu tổng hợp",
         "c": "C. Phương pháp nghiên cứu phân tích",
@@ -80,7 +80,7 @@
         "numberWrong": "0"
     },
     {
-        "question": "7. Một trong những đối tượng đượcmiễn học môn học QP&AN là:",
+        "question": "7. Một trong những đối tượng được miễn học môn học QP&AN là:",
         "a": "A. Học sinh, sinh viên đã hoàn thành nghĩa vụ quân sự.",
         "b": "B. Học sinh, sinh viên ốm đau, tai nạn đang điều trị tại bệnh viện",
         "c": "C. Học sinh, sinh viên là tu sỹ",
