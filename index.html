@@ -1,122 +1,171 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>My learn...</title>
 
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Studying...</title>
-    <!-- copyring huy -->
-    <link
+        <!-- box icon -->
+        <link
+            href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css"
+            rel="stylesheet"
+        />
+
+        <!-- icon animation -->
+        <link
             rel="icon"
             href="https://image.flaticon.com/icons/png/512/2371/2371580.png"
         />
 
+        <!-- ionic icon -->
+        <link
+            href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css"
+            rel="stylesheet"
+        />
 
-    <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet" />
-    <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+        <!-- fontawesome icon -->
+        <link
+            rel="stylesheet"
+            href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+            integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+            crossorigin="anonymous"
+        />
 
-    <!-- copy -->
-    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> -->
-    <link rel="stylesheet" href="./styles/render.css" />
-</head>
+        <!-- my style -->
+        <link rel="stylesheet" href="./styles/render.css" />
+    </head>
 
-<body>
-    <i class="fas fa-angry"></i>
-    <div class="main">
-        <div class="main__form">
-            <!-- form -->
-            <div class="form-study">
-                <!-- title -->
-                <div class="form-study__title">
-                    <div class="title__info">Nguyen Huy</div>
-                    <div class="title__total-score">-/- points</div>
+    <body>
+        <main>
+            <!-- select section -->
+            <section class="select-form active">
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/triet.json')"
+                >
+                    <p>450c Triet</p>
                 </div>
-                <!-- body -->
-                <div class="form-study__body">
-                    <div class="body__title">Question 1</div>
-                    <div class="body__question">What are you doing?</div>
-                    <ul class="body__answers">
-                        <li class="answer disable" value="1">i'm reading</d>
-                        <li class="answer disable" value="2">i'm writing</d>
-                        <li class="answer disable" value="3">i'm listening</d>
-                        <li class="answer disable" value="4">i'm speaking</d>
-                            <!-- <li class="answer disable" value="1"></d>
-                        <li class="answer disable" value="2"></d>
-                        <li class="answer disable" value="3"></d>
-                        <li class="answer disable" value="4"></d> -->
-                    </ul>
-                    <!-- <div class="clearer"></div> -->
-                    <button class="next">Next</button>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp1.json')"
+                >
+                    <p>Quoc phong 1</p>
                 </div>
-            </div>
-        </div>
-        <div class="main__sections">
-            <ul class="sections-list">
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/triet.json')">
-                    <p>Triet</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp1.json')">
-                    <p>Qp 1</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp2.json')">
-                    <p>Qp2</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp3.json')">
-                    <p>Qp3</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp4.json')">
-                    <p>Qp4</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp5.json')">
-                    <p>Qp5</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp6.json')">
-                    <p>Qp6</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp7.json')">
-                    <p>Qp7</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp8.json')">
-                    <p>Qp8</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp9.json')">
-                    <p>Qp9</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp10.json')">
-                    <p>Qp10</p>
-                </li>
-                <li class="list-item"
-                    onclick="loadQuestion('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/data/qp11.json')">
-                    <p>Qp11</p>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <!-- show your score -->
-    <div class="show-score disabled"></div>
-    <!-- <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
-        crossorigin="anonymous"></script> -->
-    <script src="./scripts/script.js"></script>
-</body>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp2.json')"
+                >
+                    <p>Quoc phong 2</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp3.json')"
+                >
+                    <p>Quoc phong 3</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp4.json')"
+                >
+                    <p>Quoc phong 4</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp5.json')"
+                >
+                    <p>Quoc phong 5</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp6.json')"
+                >
+                    <p>Quoc phong 6</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp7.json')"
+                >
+                    <p>Quoc phong 7</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp8.json')"
+                >
+                    <p>Quoc phong 8</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp9.json')"
+                >
+                    <p>Quoc phong 9</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp10.json')"
+                >
+                    <p>Quoc phong 10</p>
+                </div>
+                <div
+                    class="list-item"
+                    onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp11.json')"
+                >
+                    <p>Quoc phong 11</p>
+                </div>
+            </section>
 
+            <!-- question section -->
+            <section class="question-form">
+                <i
+                    class="
+                        go-back
+                        bx bx-log-out bx-sm bx-flashing-hover bx-border
+                    "
+                ></i>
+                <i
+                    class="
+                        next-question
+                        bx bx-right-arrow-alt bx-sm bx-border bx-tada-hover
+                    "
+                ></i>
+                <div class="question-title">What your name?</div>
+                <ul class="question-answer">
+                    <div class="a" name="1">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Voluptates, rerum? Lorem ipsum dolor sit, amet
+                        consectetur adipisicing elit. Excepturi dolores quos
+                        assumenda, veritatis deleniti laudantium velit commodi
+                        itaque. Provident, assumenda.
+                    </div>
+                    <div class="b" name="2">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Voluptates, rerum? Lorem ipsum dolor sit, amet
+                        consectetur adipisicing elit. Excepturi dolores quos
+                        assumenda, veritatis deleniti laudantium velit commodi
+                        itaque. Provident, assumenda.
+                    </div>
+                    <div class="c" name="3">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Voluptates, rerum? Lorem ipsum dolor sit, amet
+                        consectetur adipisicing elit. Excepturi dolores quos
+                        assumenda, veritatis deleniti laudantium velit commodi
+                        itaque. Provident, assumenda.
+                    </div>
+                    <div class="d" name="4">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Voluptates, rerum? Lorem ipsum dolor sit, amet
+                        consectetur adipisicing elit. Excepturi dolores quos
+                        assumenda, veritatis deleniti laudantium velit commodi
+                        itaque. Provident, assumenda.
+                    </div>
+                </ul>
+            </section>
+        </main>
+
+        <!-- other/ -->
+        <!-- <div class="demo"></div> -->
+
+        <!-- script-->
+        <script src="./scripts/script.js"></script>
+    </body>
 </html>
