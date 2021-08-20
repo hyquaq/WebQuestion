@@ -21,6 +21,8 @@ async function fetchApi(url) {
         formSelect.classList.remove("active");
         formQuestion.classList.add("active");
 
+        //remove class answer
+        removeClassAnswer();
         loadQuestion();
     }
 }
