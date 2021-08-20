@@ -2,12 +2,12 @@
     {
         "question": "1. Dân quân tự vệ là lực lượng:",
         "a": "A. Vũ trang quần chúng không thoát ly sản xuất, công tác",
-        "b": "B. Nhân dân đượcvũ trang sẵn sàngchiến đấu",
-        "c": "C. Xung kích bảo vệ vàduy trì sản xuất, công tác",
-        "d": "D. Vũ trang nòng cốt bảovệ kinh tế và văn hóa",
+        "b": "B. Nhân dân được vũ trang sẵn sàng chiến đấu",
+        "c": "C. Xung kích bảo vệ và duy trì sản xuất, công tác",
+        "d": "D. Vũ trang nòng cốt bảo vệ kinh tế và văn hóa",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "2. Dân quân tự vệ đặt dưới sự chỉ đạo, chỉ huy trực tiếp của:",
@@ -16,8 +16,8 @@
         "c": "C. Ủy ban nhân dân các cấp",
         "d": "D. Hội đồng nhân dân các cấp",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "3. Một trong những nhiệm vụ của DQTV được quy định trong Luật DQTV 2009 là:",
@@ -26,8 +26,8 @@
         "c": "C. Học tập chính trị, pháp luật, huấn luyện quân sự và diễn tập",
         "d": "D. Học tập văn hóa, chính trị, quân sự và bảo vệ an ninh trật tự",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "4. Dân quân tự vệ là một lực lượng:",
@@ -36,8 +36,8 @@
         "c": "C. Cơ bản trong chiến lược xây dựng và bảo vệ Tổ quốc",
         "d": "D. Chiến lược chủ yếu trong xây dựng nền quốc phòng toàn dân",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "5. Lực lượng dân quân tự vệ nòng cốt được tổ chức thành:",
@@ -46,8 +46,8 @@
         "c": "C. Lực lượng thường trực và lực lượng dự bị",
         "d": "D. Lực lượng cơ động và lực lượng dự bị",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "6. Dân quân tự vệ đặt dưới sự chỉ đạo, chỉ huy thống nhất của:",
@@ -56,8 +56,8 @@
         "c": "C. Bộ Quốc phòng",
         "d": "D. Hội đồng nhân dân các cấp",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "7. Dân quân tự vệ đặt dưới sự quản lý, điều hành của:",
@@ -66,8 +66,8 @@
         "c": "C. Đảng ủy và Ủy ban nhân dân các cấp",
         "d": "D. Chính phủ và ủy ban nhân dân các cấp",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "8. Thành phần của dân quân tự vệ gồm 2 lực lượng:",
@@ -76,8 +76,8 @@
         "c": "C. Lực lượng quân sự và lực lượng an ninh",
         "d": "D. Lực lượng đánh địch và lực lượng dự bị",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "9. Đối tượng giáo dục chính trị, huấn luyện quân sự trong lực lượng DQTV là:",
@@ -86,68 +86,68 @@
         "c": "C. Toàn thể chiến sĩ dân quân tự vệ",
         "d": "D. Toàn thể cán bộ, đảng viên dân quân tự vệ",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "10. Nói đến vị trí vai trò, thì DQTV là lực lượng:",
         "a": "A. Xung kích trong phong trào chiến đấu, phục vụ chiến đấu và bảo vệ nhân dân",
         "b": "B. Lực lượng xung kích trong bảo vệ sản xuất, phòng chống, khắc phục hậu quả thiên tai",
         "c": "C. Nòng cốt trong phong trào lao động, khắc phục hậu quả thiên tai, bảo vệ địa phương",
-        "d": "D. Lực lượng nòng cốt trong phong trào toàn dânđánh giặc trong chiến tranh bảo vệ Tổ quốc",
+        "d": "D. Lực lượng nòng cốt trong phong trào toàn dân đánh giặc trong chiến tranh bảo vệ Tổ quốc",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "11. Thực hiện nhiệm vụ xây dựngLLDQTV hiện nay, chúng ta phải:",
-        "a": "A. Chú trọng chấtlượng chính trị",
-        "b": "B. Coi trọng chấtlượng là chính",
-        "c": "C. Tăng cường sứcmạnh chiến đấu",
+        "question": "11. Thực hiện nhiệm vụ xây dựng LLDQTV hiện nay, chúng ta phải:",
+        "a": "A. Chú trọng chất lượng chính trị",
+        "b": "B. Coi trọng chất lượng là chính",
+        "c": "C. Tăng cường sức mạnh chiến đấu",
         "d": "D. Xây dựng toàn diện",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "12. Quân nhân DBĐVđược đăng ký, quản lý tại:",
+        "question": "12. Quân nhân DBĐV được đăng ký, quản lý tại:",
         "a": "A. Nơi công tác",
         "b": "B.  Nơi cư trú",
         "c": "C. Đơn vị DBĐV",
-        "d": "D. Nơi tập trungđộng viên",
+        "d": "D. Nơi tập trung động viên",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "13. Đối tượng tạo nguồn sỹ quan dự bị:",
-        "a": "A. Thanh niên chuẩnbị nhập ngũ",
-        "b": "B. Binh sỹ xuất ngũ",
-        "c": "C. Sỹ quan xuất ngũ",
+        "question": "13. Đối tượng tạo nguồn sĩ quan dự bị:",
+        "a": "A. Thanh niên chuẩn bị nhập ngũ",
+        "b": "B. Binh sĩ xuất ngũ",
+        "c": "C. Sĩ quan xuất ngũ",
         "d": "D. Dân quân tự vệ thường trực",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "14. Khi tổ chức LLDBĐV, sắp xếp quân nhân dự bị hạng một trước, nếu thiếu thì sắp xếp:",
-        "a": "A. Quân nhân dự bịhạng hai",
-        "b": "B. Dân quân tự vệhạng một",
-        "c": "C. Quân nhân dự bịhạng ba",
-        "d": "D. Dân quân tự vệcơ động",
+        "a": "A. Quân nhân dự bị hạng hai",
+        "b": "B. Dân quân tự vệ hạng một",
+        "c": "C. Quân nhân dự bị hạng ba",
+        "d": "D. Dân quân tự vệ cơ động",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "15. Thực hiện nghiêm túc, đầy đủ các chế độ, chính sách của Đảng và NN đối với LLDBĐV là:",
         "a": "A. Thực hiện chính sách xã hội",
-        "b": "B. Thực hiệnlợi ích xã hội",
+        "b": "B. Thực hiện lợi ích xã hội",
         "c": "C. Trách nhiệm của toàn xã hội",
         "d": "D. Trách nhiệm của các địa phương",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "16. Dân quân được tổ chức ở:",
@@ -156,8 +156,8 @@
         "c": "C. Xã, phường, cơ quan nhà nước",
         "d": "D. Xã, Phường, đơn vị sự nghiệp",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "17. Xây dựng LLDBĐV là nhiệm vụ của:",
@@ -166,18 +166,18 @@
         "c": "C. Toàn Đảng, toàn quân, toàn dân, của cả hệ thống chính trị ở nước ta",
         "d": "D. Bộ Quốc phòng, các địa phương và toàn thể các tổ chức xã hội ở nước ta",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "18. Độ tuổi của công dân Việt Namtham gia LLDQTV là:",
+        "question": "18. Độ tuổi của công dân Việt Nam Tham gia LLDQTV là:",
         "a": "A. Nam từ đủ 18 tuổi đến hết 50 tuổi, nữ từ đủ 20 tuổi đến hết 45 tuổi",
         "b": "B. Nam từ đủ 20 tuổi đến hết 45 tuổi, nữ từ đủ 18 tuổi đến hết 40 tuổi",
         "c": "C. Nam từ đủ 18 tuổi đến hết 45 tuổi, nữ từ đủ 18 tuổi đến hết 40 tuổi",
         "d": "D. Nam từ đủ 20 tuổi đến hết 45 tuổi, nữ từ đủ 20 tuổi đến hết 40 tuổi",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. Một trong những quan điểm,nguyên tắc xây dựng LLDBĐV là:",
@@ -186,38 +186,38 @@
         "c": "C. Xây dựng lực lượng dự bị động viên hùng mạnh, sẵn sàng chiến đấu cao",
         "d": "D. Phát huy sức mạnh của các bộ, ngành và địa phương",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "20. DQTV Việt Nam thành lậpngày, tháng, năm nào?",
+        "question": "20. DQTV Việt Nam thành lập ngày, tháng, năm nào?",
         "a": "A. 23/09/1945",
         "b": "B. 19/08/1945",
         "c": "C. 22/12/1944",
         "d": "D. 28/03/1935",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "21. Luật DQTV của nước Cộng hòaXHCN Việt Nam được ban hành từ năm:",
+        "question": "21. Luật DQTV của nước Cộng hòa XHCN Việt Nam được ban hành từ năm:",
         "a": "A. Năm 2010",
         "b": "B. Năm 2009",
         "c": "C. Năm 2008",
         "d": "D. Năm 2011",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "22. Để xây dựng LLDQTV cóhiệu quả, chúng ta phải:",
-        "a": "A. Phát huy sức mạnh của các cấp ủy Đảng, chính quyền và các tầng lớp nhân dânđể xây dựng LLDQTV",
+        "question": "22. Để xây dựng LLDQTV có hiệu quả, chúng ta phải:",
+        "a": "A. Phát huy sức mạnh của các cấp ủy Đảng, chính quyền và các tầng lớp nhân dân để xây dựng LLDQTV",
         "b": "B. Phát huy sức mạnh của các cấp, các ngành, các địa phương và các tầng lớp nhân dân dân để thực hiện công tác DQTV",
         "c": "C. Thường xuyên giáo dục, quán triệt sâu rộng các quan điểm,chủ trương, chính sách của Đảng,NN về công tác DQTV",
-        "d": "D. Thường xuyên củng cốSMTH của cả HTCT và của cáctầng lớp nhân dân để thực hiệntốt công tác DQTV.",
+        "d": "D. Thường xuyên củng cố SMTH của cả HTCT và của các tầng lớp nhân dân để thực hiện tốt công tác DQTV.",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "23. DQTV “là lực lượng nòng cốt trong xây dựng nền QPTD trong thời bình”, là một trong những nội dung của:",
@@ -226,18 +226,18 @@
         "c": "C. Chức năng cơ bản của dân quân tự vệ",
         "d": "D. Nhiệm vụ, chức trách của dân quân tự vệ",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "24. Nhiệm vụ của DQTV được quy định trongLuật DQTV năm 2009, là những nhiệm vụ:",
-        "a": "A. Cơ bản, thường xuyên trong mọi giai đoạn cách mạngđối với mọi tổ chức DQTV",
+        "question": "24. Nhiệm vụ của DQTV được quy định trong Luật DQTV năm 2009, là những nhiệm vụ:",
+        "a": "A. Cơ bản, thường xuyên trong mọi giai đoạn cách mạng đối với mọi tổ chức DQTV",
         "b": "B. Chủ yếu, thường xuyên của sự nghiệp cách mạng Việt Nam  trong thời chiến",
         "c": "C. Quan trọng nhất của dân quân tự vệ trong sự nghiệp xây dựng và BVTQ",
-        "d": "D. Cơ bản, thường xuyên xây dựng nền QPTD, ANNDtrong thời bình",
+        "d": "D. Cơ bản, thường xuyên xây dựng nền QPTD, ANND trong thời bình",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "25. Nhiệm vụ của LLDQTV cơ động là:",
@@ -246,18 +246,18 @@
         "c": "C. Chiến đấu, tiêu hao, tiêu diệt địch, chi viện cho lực lượng chiến đấu tại chỗ",
         "d": "D. Chiến đấu, cơ động chiến đấu trên địa bàn địa phương theo kế hoạch",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "26. Cấp xã, phường, thị trấn cơ cấuchính trị viên Ban chỉ huy quân sự phải là:",
+        "question": "26. Cấp xã, phường, thị trấn cơ cấu chính trị viên Ban chỉ huy quân sự phải là:",
         "a": "A. Bí thư Đảng ủy kiêm nhiệm",
         "b": "B. Bí thư đảng ủy phụ trách",
-        "c": "C. Bí thư Đoàn thanhniên kiêm nhiệm",
+        "c": "C. Bí thư Đoàn thanh niên kiêm nhiệm",
         "d": "D. Phó bí thư đảng ủy phụ trách",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "27. Cấp xã, phường, thị trấn cơ cấu chỉ huy trưởng Ban chỉ huy quân sự phải là:",
@@ -266,8 +266,8 @@
         "c": "C. Phó chủ tịch ủy ban phụ trách",
         "d": "D. Phó bí thư đảng ủy kiêm nhiệm",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "28. Tại các địa bàn trọng điểm về QP, AN,thành phần DQTV còn có lực lượng:",
@@ -276,38 +276,38 @@
         "c": "C. Dân quân tự vệ trực ban",
         "d": "D. Dân quân tự vệ thường trực",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "29. Một trong những biện phápxây dựng LLDQTV hiện nay là:",
+        "question": "29. Một trong những biện pháp xây dựng LLDQTV hiện nay là:",
         "a": "A. Xây dựng lực lượng dân quân tự vệ vững mạnh, sẵn sàng chiến đấu cao",
         "b": "B. Phát huy sức mạnh của toàn dân trên tất cả các lĩnh vực hoạt động xã hội",
         "c": "C. Xây dựng lực lượng dân quân tự vệ gắn với xây dựng cơ sở vững mạnh toàn diện",
         "d": "D. Xây dựng lực lượng dân quân tự vệ rộng khắp ở các ngành và địa phương",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "30. “Phát huy sức mạnh tổng hợp trên địa bàn để xây dựng LLDQTV” là một trong những nội dung của:",
-        "a": "A. Nội dung cơ bản xây dưng lực lượng dân quân tự vệ",
+        "a": "A. Nội dung cơ bản xây dựng lực lượng dân quân tự vệ",
         "b": "B. Biện pháp xây dựng lực lượng dân quân tự vệ",
         "c": "C. Vị trí vai trò xây dựng lực lượng dân quân tự vệ",
         "d": "D. Nhiệm vụ xây dựng lực lượng dân quân tự vệ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "31. Xây dựng lực lượng DQTV, chúng ta phải:",
         "a": "A. Thực hiện tốt đường lối, chủ trương chính sách của Đảng, pháp luật Nhà nước, đẩy mạnh sự nghiệp đổi mới",
         "b": "B. Thực hiện nghiêm túc, đầy đủ các chế độ chính sách của Đảng và Nhà nước đối với lực lượng dân quân tự vệ",
-        "c": "C. Thực hiện đầy đủ các quyđịnh của công tác xây dựng lực lượng dân quân tự vệ vững mạnh, rộng khắp",
+        "c": "C. Thực hiện đầy đủ các quy định của công tác xây dựng lực lượng dân quân tự vệ vững mạnh, rộng khắp",
         "d": "D. Thực hiện nghiêm túc, đầy đủ chương trình giáo dục chính trị, huấn luyện quân sự cho lực lượng DQTV",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "32. “Bảo đảm số lượng đủ, chất lượng cao,xây dựng toàn diện nhưng có trọng tâm, trọng điểm”là một trong những nội dung của:",
@@ -316,8 +316,8 @@
         "c": "C. Biện pháp chủ yếu xây dựng lực lượng dự bị động viên",
         "d": "D. Quan điểm, nguyên tắc xây dựng lực lượng dự bị động viên",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "33. Cơ quan thực hiện việc đăng ký,quản lý quân nhân DBĐV là:",
@@ -326,28 +326,28 @@
         "c": "C. BCH quân sự xã (phường, thị trấn), BCH đơn vị,cơ quan DBĐV",
         "d": "D. BCH quân sự huyện(quận, thị xã, T.P thuộc tỉnh)và đơn vị DBĐV",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "34. Một trong những nguyên tắc sắp xếpquân nhân dự bị vào các đơn vị DBĐV là:",
+        "question": "34. Một trong những nguyên tắc sắp xếp quân nhân dự bị vào các đơn vị DBĐV là:",
         "a": "A. Theo trình độ chuyên môn nghiệp vụ, theo nghề nghiệp",
         "b": "B. Theo khả năng về sức khỏe, tuổi đời và nơi cư trú",
-        "c": "C. Theo trình độchuyên nghiệp quân sự,chuyên môn kỹ thuật",
+        "c": "C. Theo trình độ chuyên nghiệp quân sự,chuyên môn kỹ thuật",
         "d": "D. Theo trình độ kỹ thuật, chiến thuật, chức vụ và sức khỏe.",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "35. Việc bảo đảm vật chất, kinh phíxây dựng LLDBĐV hàng năm do:",
-        "a": "A. Chính phủ giao chỉ tiêunhiệm vụ cụ thể cho các bộ, ngành, địa phương thực hiện",
+        "question": "35. Việc bảo đảm vật chất, kinh phí xây dựng LLDBĐV hàng năm do:",
+        "a": "A. Chính phủ giao chỉ tiêu nhiệm vụ cụ thể cho các bộ, ngành, địa phương thực hiện",
         "b": "B. Các bộ, ngành, địa phương phối hợp với các đơn vị dự bị động viên thực hiện",
         "c": "C. Các địa phương chủ động phối hợp với các đơn vị dự bị động viên thực hiện",
-        "d": "D. Chính phủ giao chỉ tiêucho các đơn vị dự bị đông viên và địa phương thực hiện",
+        "d": "D. Chính phủ giao chỉ tiêu cho các đơn vị dự bị động viên và địa phương thực hiện",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "36. Quyết định và thông báo quyết định động viên công nghiệp quốc phòng do:",
@@ -356,8 +356,8 @@
         "c": "C. Chủ tịch nước quy định",
         "d": "D. Chủ tịch Quốc hội quy định",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "37. Một trong những nội dung xây dựng lực lượng dự bị động viên là:",
@@ -366,8 +366,8 @@
         "c": "C. Tạo nguồn, đăng ký, quản lý lực lượng dự bị động viên",
         "d": "D. Tạo nguồn, quản lý và kiểm tra lực lượng dự bị động viên",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "38. Thực chất của xây dựng lực lượng dự bị động viên là:",
@@ -376,18 +376,18 @@
         "c": "C. Chuẩn bị hợp lý nhân lực cho bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
         "d": "D. Động viên mọi người tham gia lực lượng quân đội nhân dân Việt Nam",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "39. Trong thời chiến, dân quân tự vệ là lực lượng:",
-        "a": "A. Nòng cốt cho toàn dânđánh giặc tại địa phương",
+        "a": "A. Nòng cốt cho toàn dân đánh giặc tại địa phương",
         "b": "B. Xung kích cho toàn dân chiến đấu, phục vụ chiến đấu",
         "c": "C. Nòng cốt cho toàn dân cả nước đánh giặc",
         "d": "D. Xung kích trong mọi hoạt động chiến đấu ở cơ sở",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "40. Thời hạn phục vụ của lực lượng dân quân tự vệ nòng cốt theo Luật Dân quân tự vệ năm 2009 là:",
@@ -396,8 +396,8 @@
         "c": "C. 4 năm",
         "d": "D. 5 năm",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "41. Tổ chức đơn vị dân quân tự vệ cao nhất là:",
@@ -406,8 +406,8 @@
         "c": "C. Đại đội, hải đội",
         "d": "D. Tiểu đoàn, hải đoàn",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "42. Vũ khí, trang bị cho dân quân tự vệ,từ nguồn nào cũng đều là:",
@@ -416,28 +416,28 @@
         "c": "C. Tài sản của quốc phòng  giao cho DQTV quản lý",
         "d": "D. Vật chất của địa phương giao cho DQTV quản lý",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "43. Đối tượng tạo nguồn hạ sỹ quan,binh sỹ DBĐV là:",
         "a": "A. Quân nhân đã hoàn thành nghĩa vụ quân sự có đủ điều kiện quy định",
         "b": "B. Dân quân tự vệ nòng cốt có đủ điều kiện theo quy định",
-        "c": "C. Hạ sỹ quan, chiến sỹ đang tại ngũ có đủ điều kiện quy định",
+        "c": "C. Hạ sỹ quan, chiến sĩ đang tại ngũ có đủ điều kiện quy định",
         "d": "D. Dân quân tự vệ rộng rãi có đủ điều kiện quy định",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "44. Biên chế DQTV được thống nhấttrong toàn quốc do:",
+        "question": "44. Biên chế DQTV được thống nhất trong toàn quốc do:",
         "a": "A. Quốc hội quy định",
         "b": "B. Các quân khu quy định",
         "c": "C. Chính phủ quy định",
         "d": "D. Bộ Quốc phòng quy định",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "45. Thời điểm sử dụng lực lượng DBĐV là:",
@@ -446,28 +446,28 @@
         "c": "C. Khi nguy cơ bị xâm lược",
         "d": "D. Nếu quân đội suy yếu",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "46. Việc lựa chọn, giao nhiệm vụđộng viên CNQP cho các doanh nghiệpcông nghiệp phải bảo đảm:",
-        "a": "A. Sự thống nhất giữacông nghiệp dân dụng với công nghiệp quốc phòng",
+        "question": "46. Việc lựa chọn, giao nhiệm vụ động viên CNQP cho các doanh nghiệp công nghiệp phải bảo đảm:",
+        "a": "A. Sự thống nhất giữa công nghiệp dân dụng với công nghiệp quốc phòng",
         "b": "B. Tính đồng bộ theo nhu cầu sản xuất, sửa chữa trang bị của quân đội",
         "c": "C. Tính xuyên suốt đáp ứng nhu cầu sản xuất của công nghiệp quốc phòng",
         "d": "D. Đầy đủ hợp lý, đồng bộ theo nhu cầu sản xuất, sửa chữa của quân đội",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "47. Xây dựng lực lượng dự bị động viên lànhiệm vụ chính trị thường xuyên của:",
+        "question": "47. Xây dựng lực lượng dự bị động viên là nhiệm vụ chính trị thường xuyên của:",
         "a": "A. Các cấp, các ngành và nhân dân",
         "b": "B. Lực lượng vũ trang nhân dân",
         "c": "C. Toàn Đảng, toàn quân và toàn dân",
         "d": "D. Các địa phương và quân đội",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "48. Khi sắp xếp quân nhân dự bị vào các đơn vị dự bị động viên phải theo nguyên tắc:",
@@ -476,8 +476,8 @@
         "c": "C. Đúng nguyện vọng và trình độ chuyên nghiệp của mọi quân nhân",
         "d": "D. Theo sự chỉ đạo thống nhất của Bộ trưởng Bộ quốc phòng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "49. Phạm vi khảo sát, lựa chọn doanh nghiệp công nghiệp để động viên công nghiệp quốc phòng là:",
@@ -486,38 +486,38 @@
         "c": "C. Tất cả các doanh nghiệp công nghiệp của Việt Nam",
         "d": "D. Các doanh nghiệp trong các khu công nghiệp Việt Nam",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "50. Lực lượng bảo đảm mở rộng quân độikhi đất nước có chiến tranh xâm lược là:",
+        "question": "50. Lực lượng bảo đảm mở rộng quân đội khi đất nước có chiến tranh xâm lược là:",
         "a": "A. Lực lượng đoàn viên thanh niên",
         "b": "B. Lực lượng dự bị động viên",
         "c": "C. Lực lượng vũ trang dự bị",
         "d": "D. Lực lượng quân nhân xuất ngũ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "51. Thực chất của xây dựng lực lượng DBĐVlà chuẩn bị nguồn nhân lực bổ sung, mở rộnglực lượng Quân đội khi:",
+        "question": "51. Thực chất của xây dựng lực lượng DBĐV là chuẩn bị nguồn nhân lực bổ sung, mở rộng lực lượng Quân đội khi:",
         "a": "A. Lực lượng quân đội thiếu hụt không bảo đảm chiến đấu",
         "b": "B. Xây dựng phong trào quốc phòng toàn dân ở địa phương",
         "c": "C. Chuyển đất nước sang trạng thái chiến tranh",
         "d": "D. Đất nước cần phát huy khả năng của quân nhân xuất ngũ",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "52. Khi sắp xếp quân nhân dự bị vào các đơn vị DBĐV,nếu hết người có trình độ chuyên nghiệp quân sự màvẫn còn thiếu thì:",
+        "question": "52. Khi sắp xếp quân nhân dự bị vào các đơn vị DBĐV,nếu hết người có trình độ chuyên nghiệp quân sự mà vẫn còn thiếu thì:",
         "a": "A. Sử dụng lực lượng dân quân thường trực bổ sung cho đủ",
         "b": "B. Đề nghị cấp trên điều động từ địa phương, đơn vị khác đến",
         "c": "C. Sắp xếp người có trình độ chuyên nghiệp quân sự tương ứng",
         "d": "D. Chờ đợt sau bổ sung cho đúng trình độ chuyên nghiệp quân sự",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "53. Trong công tác chuẩn bị động viên CNQP,phải thực hiện:",
@@ -526,8 +526,8 @@
         "c": "C. Giao nhiệm vụ động viên",
         "d": "D. Giao chỉ tiêu động viên",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "54. Trong thực hành động viên CNQP, phải tổ chức:",
@@ -536,8 +536,8 @@
         "c": "C. Di chuyển vật chất, tài chính",
         "d": "D. Bảo đảm vật tư, tài chính",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "55. Để xây dựng lực lượng DQTV vững mạnh,chúng ta phải:",
@@ -546,48 +546,48 @@
         "c": "C. Phát huy khả năng về mọi mặt trên địa phương",
         "d": "D. Huy động tiềm năng của các địa phương",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "56. Phương tiện kỹ thuật của lực lượng DBĐVthường gồm:",
+        "question": "56. Phương tiện kỹ thuật của lực lượng DBĐV thường gồm:",
         "a": "A. Phương tiện thông tin liên lạc, y tế, phương tiện vận tải, cứu hỏa và một số phương tiện khác",
         "b": "B. Phương tiện xếp dỡ, san lấp mặt bằng, cầu phà, thông tin liên lạc và một số phương tiện khác",
         "c": "C. Phương tiện vận tải, làm đường, xếp dỡ, thông tin liên lạc, y tế và một số phương tiện khác.",
         "d": "D. Phương tiện vận tải, cầu đường, thông tin liên lạc và các thiết bị khoa học  công nghệ",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "57. Nguyên tắc lãnh đạo của Đảng đối vớilực lượng DBĐV nhằm mục đích:",
+        "question": "57. Nguyên tắc lãnh đạo của Đảng đối với lực lượng DBĐV nhằm mục đích:",
         "a": "A. Hoàn thiện và tăng cường số lượng, chất lượng cho LLVT khi có chiến tranh.",
-        "b": "B. Duy trì sức mạnhchiến đấu của LLDBĐV đápứng yêu cầu  nhiệm vụ mới",
+        "b": "B. Duy trì sức mạnh chiến đấu của LLDBĐV đáp ứng yêu cầu  nhiệm vụ mới",
         "c": "C. Hoàn thiện cơ chế lãnh đạo và tăng cường chất lượng cho LLVTND",
-        "d": "D. Bảo đảm sức mạnh của QĐ, đáp ứng yêu cầu BVTQViệt Nam XHCN",
+        "d": "D. Bảo đảm sức mạnh của QĐ, đáp ứng yêu cầu BVTQ Việt Nam XHCN",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "58. Quyền hạn bổ nhiệm các chức vụtrong ban chỉ huy quân sự xã là:",
+        "question": "58. Quyền hạn bổ nhiệm các chức vụ trong ban chỉ huy quân sự xã là:",
         "a": "A. Chủ tịch ủy ban nhân dân huyện",
         "b": "B. Chỉ huy trưởng ban chỉ huy quân sự huyện",
         "c": "C. Chính trị viên ban chỉ huy quân sự huyện",
         "d": "D. Bí thư đảng ủy huyện",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "59. Độ tuổi công dân Việt Nam tình nguyệntham gia lực lượng DQTV là:",
+        "question": "59. Độ tuổi công dân Việt Nam tình nguyện tham gia lực lượng DQTV là:",
         "a": "A. Nam từ đủ 20 tuổi đến hết 50 tuổi, nữ từ đủ 18 tuổi đến hết 45 tuổi",
         "b": "B. Nam từ đủ 18 tuổi đến hết 45 tuổi, nữ từ đủ 18 tuổi đến hết 40 tuổi",
         "c": "C. Nam từ đủ 18 tuổi đến hết 50 tuổi, nữ từ đủ 18 tuổi đến hết 45 tuổi",
         "d": "D. Nam từ đủ 20 tuổi đến hết 45 tuổi, nữ từ đủ 20 tuổi đến hết 40 tuổi",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "60. Cấp xã có thể tổ chức đơn vị dân quân cao nhất đến:",
@@ -596,28 +596,28 @@
         "c": "C. Tiểu đội dân quân cơ động",
         "d": "D. Đại đội  dân quân cơ động",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "61. Quân nhân dự bị gồm:",
-        "a": "A. Sỹ quan dự bị, hạ sỹ quan dự bị và quân nhân chuyên nghiệp dự bị",
-        "b": "B. Sỹ quan dự bị, quân nhân chuyên nghiệp dự bị, hạ sỹ quan và binh sỹ dự bị",
-        "c": "C. Hạ sỹ quan, binh sỹ dự bị, các lực lượng dự bị khác",
+        "a": "A. Sĩ quan dự bị, hạ sĩ quan dự bị và quân nhân chuyên nghiệp dự bị",
+        "b": "B. Sĩ quan dự bị, quân nhân chuyên nghiệp dự bị, hạ sĩ quan và binh sĩ dự bị",
+        "c": "C. Hạ sỹ quan, binh sĩ dự bị, các lực lượng dự bị khác",
         "d": "D. Tất cả mọi người đã qua nghĩa vụ quân sự và các quân nhân khác",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "62. Đối tượng tạo nguồn sỹ quan dự bị động viên:",
-        "a": "A. Chiến sỹ chuẩn bị xuất ngũ",
-        "b": "B. Sỹ quan đang tại ngũ",
-        "c": "C. Hạ sỹ quan và binh sỹ tại ngũ",
+        "question": "62. Đối tượng tạo nguồn sĩ quan dự bị động viên:",
+        "a": "A. Chiến sĩ chuẩn bị xuất ngũ",
+        "b": "B. Sĩ quan đang tại ngũ",
+        "c": "C. Hạ sĩ quan và binh sĩ tại ngũ",
         "d": "D. Nam sinh viên tốt nghiệp đại học",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "63. Nội dung thực hành động viên CNQP:",
@@ -626,8 +626,8 @@
         "c": "C. Giao, nhận sản phẩm động viên",
         "d": "D. Bồi dưỡng chuyên môn, tay nghề cho người lao động, diễn tập động viên",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "64. Kinh tế thị trường phát triển và xu thế hội nhập kinh tế quốc tế sẽ tạo thuận lợi cho thực hiện động viên công nghiệp quốc phòng:",
@@ -636,28 +636,28 @@
         "c": "C. Có đội ngũ công nhân tay nghề cao",
         "d": "D. Có nhiều doanh nghiệp để lựa chọn động viên",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "65. Khó khăn cho thực hiện động viên CNQQPtrong kinh tế thị trường phát triển và xu thế hội nhập kinh tế quốc tế:",
+        "question": "65. Khó khăn cho thực hiện động viên CNQP trong kinh tế thị trường phát triển và xu thế hội nhập kinh tế quốc tế:",
         "a": "A. Bảo đảm an sinh xã hội",
         "b": "B. Bảo đảm bí mật quân sự",
         "c": "C. Bảo đảm an ninh trật tự",
         "d": "D. Bảo đảm nguồn nhân lực",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "66. Thực hiện nghiêm túc, đầy đủ các chế độ chính sáchcủa Đảng, Nhà nước đối với lực lượng DBĐV là:",
+        "question": "66. Thực hiện nghiêm túc, đầy đủ các chế độ chính sách của Đảng, Nhà nước đối với lực lượng DBĐV là:",
         "a": "A. Nghĩa vụ và trách nhiệm của mọi công dân xây dựng và bảo vệ Tổ quốc",
-        "b": "B. Thực hiện sự công bằng của mọi công dân cả nướctrong chính sách xã hội",
-        "c": "C. Thể hiện sự quantâm  của toàn xã hội đối vớiLLVTND",
-        "d": "D. Nghĩa vụ, trách nhiệm của công dân trong xâydựng nền QPTD",
+        "b": "B. Thực hiện sự công bằng của mọi công dân cả nước trong chính sách xã hội",
+        "c": "C. Thể hiện sự quan tâm  của toàn xã hội đối với LLVTND",
+        "d": "D. Nghĩa vụ, trách nhiệm của công dân trong xây dựng nền QPTD",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "67. Thực chất của động viên công nghiệp quốc phòng là:",
@@ -666,28 +666,28 @@
         "c": "C. Huy động các sản phẩm công nghiệp cho mục đích quốc phòng",
         "d": "D. Đặt hàng công nghiệp dân dụng cho công nghiệp quốc phòng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "68. Đặc điểm tác động đến việc tổ chức và thực hànhđộng viên CNQP ở nước ta hiện nay:",
+        "question": "68. Đặc điểm tác động đến việc tổ chức và thực hành động viên CNQP ở nước ta hiện nay:",
         "a": "A. Toàn dân đang đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước",
         "b": "B. Truyền thống đoàn kết chống ngoại xâm của dân tộc Việt Nam",
         "c": "C. Sự phát triển của kinh tế thị trường và hội nhập kinh tế quốc tế",
         "d": "D. Truyền thống và nghệ thuật xây dựng lực lượng quân sự của Đảng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "69. Trong công tác chuẩn bị động viên CNQP,các doanh nghiệp được giao nhiệm vụ động viên phảicăn cứ vào kế hoạch của cấp trên để:",
+        "question": "69. Trong công tác chuẩn bị động viên CNQP,các doanh nghiệp được giao nhiệm vụ động viên phải căn cứ vào kế hoạch của cấp trên để:",
         "a": "A. Lắp đặt, xây dựng hệ  thống dây chuyền sản xuất của doanh nghiệp mình",
-        "b": "B. Xây dựng phương án động viên CNQP củadoanh nghiệp mình",
+        "b": "B. Xây dựng phương án động viên CNQP của doanh nghiệp mình",
         "c": "C. Lập kế hoạch sản xuất, sửa chữa của doanh nghiệp phù hợp với nhiệm vụ",
-        "d": "D. Lập kế hoạchđộng viên CNQP chodoanh nghiệp mình",
+        "d": "D. Lập kế hoạch động viên CNQP cho doanh nghiệp mình",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "70. Công tác xây dựng lực lượng dự bị động viên là biểu hiện quán triệt quan điểm về:",
@@ -696,7 +696,10 @@
         "c": "C. Sự nhất trí giữa nhiệm vụ xây dựng CNXH và nhiệm vụ bảo vệ Tổ quốc",
         "d": "D. Sự kết hợp chặt chẽ hai nhiệm vụ chiến lược trong xây dựng và bảo vệ Tổ quốc",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber"x: "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+

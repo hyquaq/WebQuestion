@@ -1,13 +1,13 @@
 [
     {
-        "question": "12. Quá trình nghiên cứu, phát triển giáo dục QP&AN, phải nắm vững và vận dụng các quan điểm:",
+        "question": "12. Quá trình nghiên cứu, phát triển giáo dục QPAN, phải nắm vững và vận dụng các quan điểm:",
         "a": "A. Quan điểm thống nhất; quan điểm lịch sử, cụ thể; quan điểm thực tiễn",
-        "b": "B. Quan điểm tổng thể; quan điểm lịch sử, lô gic; quan điểm thực tế",
-        "c": "C. Quan điểm hệ thống; quan điểm lịch sử, lô gic; quan điểm thực tiễn",
-        "d": "D. Quan điểm tổng quát; quan điểm lịch sử, lô gic; quan điểm thực hành",
+        "b": "B. Quan điểm tổng thể; quan điểm lịch sử, lôgic; quan điểm thực tế",
+        "c": "C. Quan điểm hệ thống; quan điểm lịch sử, lôgic; quan điểm thực tiễn",
+        "d": "D. Quan điểm tổng quát; quan điểm lịch sử, lôgic; quan điểm thực hành",
         "correctAnswer": "3",
-        "numebrRight": "1",
-        "numberWrong": "1"
+        "rightNumber": "1",
+        "wrongNumber": "1"
     },
     {
         "question": "13. Đối tượng được miễn học thực hành kỹ năng quân sự là học sinh, sinh viên:",
@@ -16,8 +16,8 @@
         "c": "C. Người nước ngoài học tại Việt Nam",
         "d": "D. Đã hoàn thành nghĩa vụ dân quân",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "2"
+        "rightNumber": "0",
+        "wrongNumber": "2"
     },
     {
         "question": "11. Các quan điểm của Đảng về xây dựng LLVTND, tiến hành CTND đều có tính kế thừa và phát triển những truyền thống:",
@@ -26,28 +26,28 @@
         "c": "C. Đoàn kết toàn dân đánh giặc",
         "d": "D. Quân sự độc đáo của dân tộc",
         "correctAnswer": "4",
-        "numebrRight": "2",
-        "numberWrong": "1"
+        "rightNumber": "2",
+        "wrongNumber": "1"
     },
     {
-        "question": "10. Một trong những đối tượng được miễn học môn học giáo dục QP&AN là học sinh, sinh viên:",
+        "question": "10. Một trong những đối tượng được miễn học môn học giáo dục QP AN là học sinh, sinh viên:",
         "a": "A. Là dân quân tự vệ",
         "b": "B. Bị ốm đau, tai nạn",
         "c": "C. Là người nước ngoài",
         "d": "D. Đã tham gia nghĩa vụ quân sự",
         "correctAnswer": "3",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "3. Nội dung giáo dục QP&AN học phần II là những vấn đề cơ bản về:",
+        "question": "3. Nội dung giáo dục QPAN học phần II là những vấn đề cơ bản về:",
         "a": "A. Công tác xây dựng khu vực phòng thủ",
         "b": "B. Công tác xây dựng thế trận chiến tranh",
         "c": "C. Công tác xây dựng nền quốc phòng, an ninh",
         "d": "D. Công tác quốc phòng, an ninh",
         "correctAnswer": "4",
-        "numebrRight": "2",
-        "numberWrong": "1"
+        "rightNumber": "2",
+        "wrongNumber": "1"
     },
     {
         "question": "6. Một trong những điều kiện để sinh viên được dự thi kết thúc học phần là:",
@@ -56,38 +56,38 @@
         "c": "C. Có điểm các lần kiểm tra đạt từ 5 điểm trở lên",
         "d": "D. Có đủ trên 50% thời gian học tập trên lớp",
         "correctAnswer": "3",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "9. Đối tượng được tạm hoãn môn học giáo dục QP&AN là học sinh, sinh viên:",
+        "question": "9. Đối tượng được tạm hoãn môn học giáo dục QP AN là học sinh, sinh viên:",
         "a": "A. Là dân quân, có giấy xác nhận của địa phương",
         "b": "B. Bị ốm đau, tai nạn, thai sản",
         "c": "C. Là tự vệ, có giấy xác nhận của cơ quan",
         "d": "D. Đã tham gia nghĩa vụ quân sự",
         "correctAnswer": "2",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "8. Phương pháp được sử dụng để nghiên cứu giáo dục QP&AN:",
+        "question": "8. Phương pháp được sử dụng để nghiên cứu giáo dục QPAN:",
         "a": "A. Phương pháp nghiên cứu lý thuyết",
         "b": "B. Phương pháp nghiên cứu tổng hợp",
         "c": "C. Phương pháp nghiên cứu phân tích",
         "d": "D. Phương pháp nghiên cứu giả thuyết",
         "correctAnswer": "1",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "7. Một trong những đối tượng được miễn học môn học QP&AN là:",
+        "question": "7. Một trong những đối tượng được miễn học môn học QPAN là:",
         "a": "A. Học sinh, sinh viên đã hoàn thành nghĩa vụ quân sự.",
         "b": "B. Học sinh, sinh viên ốm đau, tai nạn đang điều trị tại bệnh viện",
-        "c": "C. Học sinh, sinh viên là tu sỹ",
-        "d": "D. Học sinh, sinh viên có bằng tốt nghiệp sỹ quan quân đội, công an",
+        "c": "C. Học sinh, sinh viên là tu sĩ",
+        "d": "D. Học sinh, sinh viên có bằng tốt nghiệp sĩ quan quân đội, công an",
         "correctAnswer": "4",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
         "question": "1. Nội dung GDQP học phần I  là những vấn đề cơ bản về đường lối:",
@@ -96,18 +96,18 @@
         "c": "C. Quốc phòng của Đảng",
         "d": "D. Chiến tranh của Đảng",
         "correctAnswer": "2",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "4. Nội dung giáo dục QP&AN học phần III là những vấn đề cơ bản về:",
+        "question": "4. Nội dung giáo dục QPAN học phần III là những vấn đề cơ bản về:",
         "a": "A. Các môn kỹ thuật, chiến thuật quốc phòng, an ninh",
         "b": "B. Chiến thuật, kỹ thuật chiến đấu và đội ngũ đơn vị",
         "c": "C. Quân sự chung, chiến thuật và kỹ thuật bắn súng tiểu liên AK",
         "d": "D. Các môn chung về quân sự, an ninh và bắn súng tiểu liên AK",
         "correctAnswer": "3",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
         "question": "2. Một trong những điều kiện để sinh viên được dự thi kết thúc học phần là:",
@@ -116,28 +116,28 @@
         "c": "C. Có đủ 70% thời gian học tập trên lớp",
         "d": "D. Có đủ 65% thời gian học tập trên lớp",
         "correctAnswer": "2",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "5. Chứng chỉ QP&AN là một trong những điều kiện để:",
+        "question": "5. Chứng chỉ QPAN là một trong những điều kiện để:",
         "a": "A. Tính điểm trung bình các môn học",
         "b": "B. Xét tốt nghiệp cao đẳng, đại học",
         "c": "C. Xét học bổng",
         "d": "D. Xếp loại học lực của sinh viên",
         "correctAnswer": "2",
-        "numebrRight": "1",
-        "numberWrong": "0"
+        "rightNumber": "1",
+        "wrongNumber": "0"
     },
     {
-        "question": "15. Trong nghiên cứu lĩnh hội các kiến thức, kỹ năng QP&AN, cần sử dụng kết hợp  phương pháp dạy học:",
+        "question": "15. Trong nghiên cứu lĩnh hội các kiến thức, kỹ năng QPAN, cần sử dụng kết hợp  phương pháp dạy học:",
         "a": "A. Kỹ thuật và chiến thuật",
         "b": "B. Lý thuyết và thực hành",
         "c": "C. Lý luận và thực tiễn",
         "d": "D. Học tập và rèn luyện",
         "correctAnswer": "2",
-        "numebrRight": "2",
-        "numberWrong": "0"
+        "rightNumber": "2",
+        "wrongNumber": "0"
     },
     {
         "question": "16. Cơ sở lý luận để Đảng ta đề ra chủ trương, đường lối chiến lược xây dựng nền QPTD, xây dựng LLVTND và tiến hành chiến tranh BVTQ là học thuyết Mác - Lênin, tư tưởng Hồ Chí Minh về:",
@@ -146,17 +146,20 @@
         "c": "C. Vấn đề giai cấp và đấu tranh giai cấp",
         "d": "D. Chiến tranh, quân đội và bảo vệ Tổ quốc",
         "correctAnswer": "4",
-        "numebrRight": "2",
-        "numberWrong": "0"
+        "rightNumber": "2",
+        "wrongNumber": "0"
     },
     {
-        "question": "14. Cơ sở phương pháp luận chung nhấtcủa việc nghiên cứu giáo dục QP&AN là:",
+        "question": "14. Cơ sở phương pháp luận chung nhất của việc nghiên cứu giáo dục QPAN là:",
         "a": "A. Học thuyết Mác - Lênin và tư tưởng Hồ Chí Minh",
         "b": "B. Chủ nghĩa Mác - Lênin và tư tưởng quân sư Hồ Chí Minh",
         "c": "C. Triết học Mác - Lênin và tư tưởng Hồ Chí Minh",
         "d": "D. Tư tưởng Hồ Chí Minh và đường lối, quan điểm của Đảng",
         "correctAnswer": "1",
-        "numebrRight": "3",
-        "numberWrong": "1"
+        "rightNumber": "3",
+        "wrongNumber": "1"
     }
 ]
+
+
+

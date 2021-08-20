@@ -1,123 +1,123 @@
 [
     {
-        "question": "1. Quốc phòng là công việc giữ nướccủa một quốc gia, nhằm mục đích:",
+        "question": "1. Quốc phòng là công việc giữ nước của một quốc gia, nhằm mục đích:",
         "a": "A. Bảo vệ vững chắc độc lập, chủ quyền và toàn vẹn lãnh thổ,tạo môi trường thuận lợi để xây dựng đất nước",
         "b": "B. Bảo vệ vững chắc Tổ quốc, bảo vệ tính mạng và tài sản của nhân dân, bảo vệ thành quả cách mạng",
         "c": "C. Bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của giai cấp công nhân và nhân dân lao động",
         "d": "D. Bảo vệ chính quyền, chống lại mọi âm mưu thủ đoạn chống phá của chủ nghĩa đế quốc và các thế lực phản động",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "2. Hoạt động an ninh của mộtquốc gia là để bảo đảm:",
+        "question": "2. Hoạt động an ninh của một quốc gia là để bảo đảm:",
         "a": "A. Đất nước ổn định, bình yên, tính mạng và tài sản nhân dân được bảo vệ, xã hội không ngừng phát triển",
-        "b": "B. Đất nước an toàn, xã hộitrật tự không bị rối loạn, mọi người được sống bình yên, xã hội tồn tại và phát triển",
+        "b": "B. Đất nước an toàn, xã hội trật tự không bị rối loạn, mọi người được sống bình yên, xã hội tồn tại và phát triển",
         "c": "C. Đất nước thanh bình, xã hội có trật tự kỷ cương, mọi người được an toàn, xã hội tồn tại và phát triển",
         "d": "D. Đất nước trạng thái ổn định an toàn, không có dấu hiệu nguy hiểm đe dọa  sự tồn tại và phát triển",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "3. Kết hợp phát triển kinh tế-xã hội với tăngcường, củng cố QP&AN ở nước ta hiện nay là:",
-        "a": "A. Hoạt động tích cực, chủ động của Nhà nước và nhân dân trong việc gắn kết chặt chẽ hoạt động KTXH, QP&AN trongmột chỉnh thể thống nhất",
+        "question": "3. Kết hợp phát triển kinh tế-xã hội với tăng cường, củng cố QPAN ở nước ta hiện nay là:",
+        "a": "A. Hoạt động tích cực, chủ động của Nhà nước và nhân dân trong việc gắn kết chặt chẽ hoạt động KTXH, QPAN trong một chỉnh thể thống nhất",
         "b": "B. Hoạt động của toàn dân dưới sự lãnh đạo của Đảng thực hiện thống nhất các hoạt động kinh tế, xã hội, quốc phòng và an ninh",
         "c": "C. Hoạt động tích cực của toàn Đảng toàn quân và toàn dân thực hiện trên phạm vi cả nước gắn kết các hoạt động lại với nhau",
-        "d": "D. Hoạt động một cách chủ động của nhà nước điều hành thực hiện thống nhất, chặt chẽ các hoạt động knh tế - xã hội, QP & AN cả nước",
+        "d": "D. Hoạt động một cách chủ động của nhà nước điều hành thực hiện thống nhất, chặt chẽ các hoạt động kinh tế - xã hội, QP & AN cả nước",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "4. Tác động tích cực của QP&ANđối với kinh tế là :",
+        "question": "4. Tác động tích cực của QP AN đối với kinh tế là :",
         "a": "A. Tiêu thụ sản phẩm của kinh tế, tạo điều kiện kích thích tăng trưởng kinh tế",
         "b": "B. Tạo môi trường hòa bình,ổn định tạo điều kiện thuận   lợi cho kinh tế phát triển",
         "c": "C. Tiêu dùng của quốc phòng, an ninh rất lớn sẽ là thị trường cho kinh tế tiêu thụ sản phẩm",
         "d": "D. Lực lượng thanh niên nghĩa vụ quân sự, khi hoàn thành là nguồn lao động tốt",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "5. Đối với một quốc gia,hoạt động kinh tế là:",
         "a": "A. Hoạt động chủ yếu làm cho quốc gia luôn luôn tồn tại và phát triển",
         "b": "B. Hoạt động cơ bản, thường xuyên, quyết định tất cả mọi hoạt động khác",
-        "c": "C. Hoạt động quan trọng không thể thiếu được trong quá trình tồn tai",
+        "c": "C. Hoạt động quan trọng không thể thiếu được trong quá trình tồn tại",
         "d": "D. Hoạt động cơ bản, thường xuyên, gắn liền với sự tồn tại và phát triển",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "6. “Tăng cường sự lãnh đạo của Đảng và hiệu lựcquản lý của NN , của chính quyền các cấp trong thực hiện kết hợp phát triển KTXH với tăng cường, củng cốQP&AN” là một trong những nội dung của :",
+        "question": "6. “Tăng cường sự lãnh đạo của Đảng và hiệu lực quản lý của NN , của chính quyền các cấp trong thực hiện kết hợp phát triển KT XH với tăng cường, củng cố QPAN” là một trong những nội dung của :",
         "a": "A. Kết hợp trong xác định chiến lược phát triển KTXH",
-        "b": "B. Giải pháp chủ yếuthực hiện kết hợp KTXHvới QP&AN",
-        "c": "C. Đặc điểm của việc kết hợp KTXH với QP&AN",
-        "d": "D. Yêu cầu đối với việc kết hợp KTXH với QP&AN",
+        "b": "B. Giải pháp chủ yếu thực hiện kết hợp KTXH với QPAN",
+        "c": "C. Đặc điểm của việc kết hợp KTXH với QPAN",
+        "d": "D. Yêu cầu đối với việc kết hợp KTXH với QPAN",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "7. Một trong những văn bản quy phạm pháp luật là  cơ sở để thực hiện kết hợp phát triển KTXH với tăng cường, củng cố QP&AN là :",
+        "question": "7. Một trong những văn bản quy phạm pháp luật là  cơ sở để thực hiện kết hợp phát triển KT XH với tăng cường, củng cố QPAN là :",
         "a": "A. Nghị định 116/2007/NĐ-CP",
         "b": "B. Chỉ thị 18/2000/CT-TTg",
-        "c": "C. Nghị đinh 119/2004/NĐ-CP",
+        "c": "C. Nghị định 119/2004/NĐ-CP",
         "d": "D. Chỉ thị 12-CT/TW",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "8. Kinh tế, QP&AN có mối quan hệ,tác động qua lại lẫn nhau, trong đó:",
-        "a": "A. QP&AN không phụ thuộc vào kinh tế",
-        "b": "B. Kinh tế quyết định đến QP&AN",
+        "question": "8. Kinh tế, QPAN có mối quan hệ,tác động qua lại lẫn nhau, trong đó:",
+        "a": "A. QPAN không phụ thuộc vào kinh tế",
+        "b": "B. Kinh tế quyết định đến QPAN",
         "c": "C. Quốc phòng an ninh dựa vào sự phát triển kinh tế",
         "d": "D. Kinh tế tác động tích cực đến quốc phòng, an ninh",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "9. Kinh tế quyết định đến QP&AN, trong đó có quyết định đến việc:",
+        "question": "9. Kinh tế quyết định đến QPAN, trong đó có quyết định đến việc:",
         "a": "A. Cung cấp cơ sở vật chất kỹ thuật, nhân lực cho hoạt động QPAN",
         "b": "B. Bảo đảm cơ sở vật chất, trang bị vũ khí hiện đại cho hoạt động QPAN",
-        "c": "C. Cung cấp nguồn nhânlực và tổ chức bố trí lưc lượng vũ trang nhân dân",
-        "d": "D. Tổ chức bố trí lực lượng và vật chất kỹ thuật cho QP&AN",
+        "c": "C. Cung cấp nguồn nhân lực và tổ chức bố trí lực lượng vũ trang nhân dân",
+        "d": "D. Tổ chức bố trí lực lượng và vật chất kỹ thuật cho QPAN",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "10. Kinh tế, QP, AN mỗi lĩnh vực đều có quy luậtphát triển đặc thù, do đó việc kết hợp phát triển KTXH với tăng cường, củng cố QP&AN phải thực hiện:",
+        "question": "10. Kinh tế, QP, AN mỗi lĩnh vực đều có quy luật phát triển đặc thù, do đó việc kết hợp phát triển KT XH với tăng cường, củng cố QPAN phải thực hiện:",
         "a": "A. Một cách khoa học, hài hòa, cân đối và chặt chẽ",
         "b": "B. Một cách cụ thể, khoa học, thống nhất và cân đối",
         "c": "C. Một cách khoa học, hợp lý, cân đối và hài hòa",
         "d": "D. Một cách cụ thể, chặt chẽ, cân đối và hài hòa",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "11. Kinh tế, QP&AN cómối quan hệ với nhau, trong đó:",
-        "a": "A. QP&AN tác động trở lại kinh tế - xãhội cả tích cực và tiêu cực",
-        "b": "B. Kinh tế tác động ảnh hưởng rất lớn đến sự phát triển của QP&AN",
-        "c": "C. QP&AN chỉ tác động tích cực là chủ yếu đến KTXH",
-        "d": "D. Kinh tế tác động cả tích cực và tiêu cực đến sự phát triển QP&AN",
+        "question": "11. Kinh tế, QPAN có mối quan hệ với nhau, trong đó:",
+        "a": "A. QPAN tác động trở lại kinh tế - xã hội cả tích cực và tiêu cực",
+        "b": "B. Kinh tế tác động ảnh hưởng rất lớn đến sự phát triển của QPAN",
+        "c": "C. QPAN chỉ tác động tích cực là chủ yếu đến KTXH",
+        "d": "D. Kinh tế tác động cả tích cực và tiêu cực đến sự phát triển QPAN",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "12. “Hoạt động QP&AN có thể dẫn đến hủy hoại môi trường sinh thái” là một trong những tác động:",
-        "a": "A. Tích cực của QP&ANđến KTXH",
-        "b": "B. Ảnh hưởng của QP&ANđến KTXH",
-        "c": "C. Sâu sắc của QP&ANđến KTXH",
-        "d": "D. Tiêu cực của QP&ANđối với KTXH",
+        "question": "12. “Hoạt động QPAN có thể dẫn đến hủy hoại môi trường sinh thái” là một trong những tác động:",
+        "a": "A. Tích cực của QPAN đến KTXH",
+        "b": "B. Ảnh hưởng của QPAN đến KTXH",
+        "c": "C. Sâu sắc của QPAN đến KTXH",
+        "d": "D. Tiêu cực của QP AN đối với KTXH",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "13. Trong kháng chiến chống Pháp, Đảng ta chủ trương “vừa kháng chiến, vừa kiến quốc” là thực hiện đúng đắn:",
@@ -126,58 +126,58 @@
         "c": "C. Kết hợp kinh tế với quốc phòng",
         "d": "D. Kết hợp chiến đấu với sản xuất",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "14. Bản chất của chế độ KTXH quyết định đến:",
-        "a": "A. Mục đích của QP&AN",
-        "b": "B. Mục tiêu của QP&AN",
-        "c": "C. Tính chất của QP&AN",
-        "d": "D. Bản chất của QP&AN",
+        "a": "A. Mục đích của QPAN",
+        "b": "B. Mục tiêu của QPAN",
+        "c": "C. Tính chất của QPAN",
+        "d": "D. Bản chất của QPAN",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "15. Kết hợp phát triển KTXH vớităng cường, củng cố QP&AN đối với nước ta là:",
+        "question": "15. Kết hợp phát triển KT XH với tăng cường, củng cố QP AN đối với nước ta là:",
         "a": "A. Một yêu cầu",
         "b": "B. Rất cần thiết",
         "c": "C. Một tất yếu",
         "d": "D. Rất quan trọng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "16. Ông cha ta đã thể hiện kết hợp kinh tếvới quốc phòng bằng kế sách:",
+        "question": "16. Ông cha ta đã thể hiện kết hợp kinh tế với quốc phòng bằng kế sách:",
         "a": "A. Ngụ nông ư binh",
         "b": "B. Ngụ binh ư nông",
         "c": "C. Nông binh cư ngụ",
         "d": "D. Ngụ binh công nông",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "17. Kinh tế, QP, AN là ba mặt hoạt động cơ bản nhấtcủa một quốc gia, mỗi lĩnh vực có mục đích, cách thứchoạt động riêng và chịu sự chi phối của:",
+        "question": "17. Kinh tế, QP, AN là ba mặt hoạt động cơ bản nhất của một quốc gia, mỗi lĩnh vực có mục đích, cách thức hoạt động riêng và chịu sự chi phối của:",
         "a": "A. Hệ thống quy luật chung",
         "b": "B. Hệ thống quy tắc riêng",
         "c": "C. Hệ thống quy luật riêng",
         "d": "D. Hệ thống pháp quy chung",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "18. Kết hợp phát triển kinh tế với củng cốQP&AN ở Việt Nam đã có:",
+        "question": "18. Kết hợp phát triển kinh tế với củng cố PAN ở Việt Nam đã có:",
         "a": "A. Từ lâu đời",
         "b": "B. Thời phong kiến",
         "c": "C. Khi chống Pháp",
         "d": "D. Thời chống Mỹ",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. Đối với vùng kinh tế trọng điểm,hiện nay nước ta xác định:",
@@ -186,68 +186,68 @@
         "c": "C. 5 vùng kinh tế trọng điểm",
         "d": "D. 4 vùng kinh tế trọng điểm",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "20. Trên thế giới việc kết hợp kinh tếVới QP&AN được thực hiện ở:",
+        "question": "20. Trên thế giới việc kết hợp kinh tế Với QPAN được thực hiện ở:",
         "a": "A. Những nước nghèo",
         "b": "B. Tất cả các nước",
         "c": "C. Các nước phát triển",
         "d": "D. Những nước giàu",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "21. Trong kháng chiến chống Mỹ, việc kết hợpphát triển KTXH với tăng cường, củng cố QP&ANở nước ta đã thể hiện trong việc xác định:",
+        "question": "21. Trong kháng chiến chống Mỹ, việc kết hợp phát triển KT XH với tăng cường, củng cố QPAN nước ta đã thể hiện trong việc xác định:",
         "a": "A. Miền Bắc chống Mỹ, miền Nam diệt ngụy",
         "b": "B. Miền Bắc là căn cứ, miền Nam là chiến trường",
         "c": "C. Miền Bắc xây dựng, miền Nam chiến đấu",
         "d": "D. Miền Bắc là hậu phương, miền Nam là tiền tuyến",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "22. Một trong những đặc điểm đối vớivùng kinh tế trọng điểm là:",
+        "question": "22. Một trong những đặc điểm đối với vùng kinh tế trọng điểm là:",
         "a": "A. Mật độ dân cư, tính chất đô thị hóa cao",
-        "b": "B. Tính chất phức tap bởi đô thị hóa cao",
+        "b": "B. Tính chất phức tạp bởi đô thị hóa cao",
         "c": "C. Dân cư đông đúc, an ninh phức tạp",
         "d": "D. Dân số đông, đô thị phát triển nhanh",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "23. Trong giai đoạn hiện nay, chúng ta phải kết hợp phát triển KTXH với tăng cường, củng cố QP&AN là để:",
+        "question": "23. Trong giai đoạn hiện nay, chúng ta phải kết hợp phát triển KT XH với tăng cường, củng cố QPAN là để:",
         "a": "A. Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước",
         "b": "B. Thực hiện thắng lợi hai nhiệm vụ chiến lược",
         "c": "C. Bảo vệ mọi thành quả cách mạng đã đạt được",
         "d": "D. Giữ vững hòa bình, bảo vệ cuộc sống nhân dân",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "24. Kinh tế quyết định đến QP&AN, trong đó có:",
+        "question": "24. Kinh tế quyết định đến QPAN, trong đó có:",
         "a": "A. Quyết định việc tổ chức khu vực phòng thủ, cơ sở vật chất kỹ thuật cho quân đội, công an nhân dân",
-        "b": "B. Cung cấp cơ sở vậtchất, vũ khí, trang bị chiếnđấu cho các lực lượng vũ trang nhân dân",
+        "b": "B. Cung cấp cơ sở vật chất, vũ khí, trang bị chiến đấu cho các lực lượng vũ trang nhân dân",
         "c": "C. Bảo đảm đầy đủ cơ sở vật chất kỹ thuật cho mọi hoạt động của lực lượng vũ trang nhân dân",
-        "d": "D. Quyết định đến việc cung cấp số lượng, chất lượng nguồn nhân lực cho QP&AN",
+        "d": "D. Quyết định đến việc cung cấp số lượng, chất lượng nguồn nhân lực cho QPAN",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "25. Thực hiện kết hợp phát triển KTXH vớităng cường, củng cố QP&AN, chúng ta phải thực hiện biện pháp:",
-        "a": "A. Xây dựng chiến lược tổng thể kết hợp phát triển KTXHvới tăng, cường củng  cố QP&ANtrong thời kỳ mới",
-        "b": "B. Mở rộng quan hệ đốingoại, hợp tác quốc tế về kinh tế, chính trị, văn hóa, khoa học, QP&AN",
-        "c": "C. Tổ chức biên chế và bố trílực lượng vũ trang phải phù hợp với điều kiện kinh tế và yêu cầu bảo vệ Tổ quốc",
-        "d": "D. Coi trọng giáo dục bồi dưỡng nhân lực, đào tạo nhân tàicủa đất nước, đáp ứng yêu cầuxây dựng phát triển KTXH",
+        "question": "25. Thực hiện kết hợp phát triển KT XH với tăng cường, củng cố QPAN, chúng ta phải thực hiện biện pháp:",
+        "a": "A. Xây dựng chiến lược tổng thể kết hợp phát triển KT XH với tăng, cường củng  cố QPAN trong thời kỳ mới",
+        "b": "B. Mở rộng quan hệ đối ngoại, hợp tác quốc tế về kinh tế, chính trị, văn hóa, khoa học, QPAN",
+        "c": "C. Tổ chức biên chế và bố trí lực lượng vũ trang phải phù hợp với điều kiện kinh tế và yêu cầu bảo vệ Tổ quốc",
+        "d": "D. Coi trọng giáo dục bồi dưỡng nhân lực, đào tạo nhân tài của đất nước, đáp ứng yêu cầu xây dựng phát triển KTXH",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "26. Ông cha ta xưa kia đã thực hiện kế sách“động vi binh, tĩnh vi dân” nghĩa là:",
@@ -256,308 +256,308 @@
         "c": "C. Khi có chiến tranh là người lính chiến đấu, đất nước hòa bình là người dân phát triển kinh tế",
         "d": "D. Khi đất nước chiến tranh hoặc hòa bình mọi người đều phải làm người dân và người lính",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "27. Kinh tế quyết định đến QP&AN,trong đó có nội dung:",
-        "a": "A. Quyết định việc cung cấp kỹ thuật, công nghệ cho QP&AN.",
+        "question": "27. Kinh tế quyết định đến QPAN,trong đó có nội dung:",
+        "a": "A. Quyết định việc cung cấp kỹ thuật, công nghệ cho QPAN.",
         "b": "B. Quyết định việc cung ứng vật chất cho quốc phòng,an ninh",
-        "c": "C. Quyết định đến tổ chức nguồn nhân lực cho QP&AN",
-        "d": "D. Quyết định đến nguồngốc ra đời, sức mạnh của QP&AN",
+        "c": "C. Quyết định đến tổ chức nguồn nhân lực cho QPAN",
+        "d": "D. Quyết định đến nguồn gốc ra đời, sức mạnh của QPAN",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "28. Chủ trương của Đảng ta đã từng thực hiện trong kháng chiến chống Pháp về kết hợp kinh tế với QP&AN là:",
+        "question": "28. Chủ trương của Đảng ta đã từng thực hiện trong kháng chiến chống Pháp về kết hợp kinh tế với QPAN là:",
         "a": "A. Vừa kháng chiến vừa kiến quốc",
         "b": "B. Kết hợp chiến đấu với xây dựng",
         "c": "C. Kết hợp sản xuất với thực hành tiết kiệm",
         "d": "D. Vừa xây dựng làng xã vừa kháng chiến",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "29. Nội dung kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trước hết phải kết hợp trong:",
+        "question": "29. Nội dung kết hợp phát triển KT XH với tăng cường, củng cố QPAN trước hết phải kết hợp trong:",
         "a": "A. Chiến lược phát triển nguồn nhân lực hiện đại hóa đất nước",
         "b": "B. Chiến lược phát triển công nghiệp hóa, hiện đại hóa .",
         "c": "",
-        "d": "D. Xác định chiến lược phát triển khoa hoc và công nghệ",
+        "d": "D. Xác định chiến lược phát triển khoa học và công nghệ",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "30. Đối với các vùng kinh tế trọng điểm, việc kết hợp phát triển KTXH với tăng cường, củng cố QP&AN phải nhằm:",
-        "a": "A. Đáp ứng phục vụ yêu cầu phòng thủ ở từng tỉnh, thành phố trong thời bình và chuẩn bị đế đáp ứng cho cả thời chiến",
+        "question": "30. Đối với các vùng kinh tế trọng điểm, việc kết hợp phát triển KT XH với tăng cường, củng cố QPAN phải nhằm:",
+        "a": "A. Đáp ứng phục vụ yêu cầu phòng thủ ở từng tỉnh, thành phố trong thời bình và chuẩn bị để đáp ứng cho cả thời chiến",
         "b": "B. Đáp ứng phục vụ nhu cầu dân sinh thời bình và chuẩn bị đáp ứng nhu cầu chi viện cho các chiến trường khi chiến tranh xảy ra",
-        "c": "C. Đáp ứng phục vụ nhu cầu QP&AN và phòng thủ trong thờibình, đồng thời dự trữ chuẩn bịchi viện cho thời chiến",
-        "d": "D. Phát triển kinh tế phải đáp ứng phục vụ thỏa mãn đầy đủnhu cầu dân sinh và nhu cầu của quân sự",
+        "c": "C. Đáp ứng phục vụ nhu cầu QPAN và phòng thủ trong thời bình, đồng thời dự trữ chuẩn bị chi viện cho thời chiến",
+        "d": "D. Phát triển kinh tế phải đáp ứng phục vụ thỏa mãn đầy đủ nhu cầu dân sinh và nhu cầu của quân sự",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "31. Trong kháng chiến chống Mỹ, Đảng đã đề ra chủ trương: “Trong xây dưng kinh tế, phải thấu suốt nhiệm vụ phục vụ quốc phòng, cũng như trong củng cố quốc phòng phải khéo sắp xếp cho ăn khớp với công cuộc xây dựng kinh tế”, chủ trương đó được triển khai thực hiện:",
+        "question": "31. Trong kháng chiến chống Mỹ, Đảng đã đề ra chủ trương: “Trong xây dựng kinh tế, phải thấu suốt nhiệm vụ phục vụ quốc phòng, cũng như trong củng cố quốc phòng phải khéo sắp xếp cho ăn khớp với công cuộc xây dựng kinh tế”, chủ trương đó được triển khai thực hiện:",
         "a": "A. Ở miền Trung",
         "b": "B. Trên cả nước",
         "c": "C. Ở miền Nam",
         "d": "D. Ở miền Bắc",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "32. Đối với các vùng lãnh thổ, các tỉnh, thành phố,việc kết hợp phát triển KTXH với tăng cường, củng cốQP&AN trước hết cần phải:",
+        "question": "32. Đối với các vùng lãnh thổ, các tỉnh, thành phố,việc kết hợp phát triển KT XH với tăng cường, củng cố PAN trước hết cần phải:",
         "a": "A. Kết hợp trong xây dựng chiến lược, quy hoạch tổng thể",
         "b": "B. Kết hợp quy hoạch phát triển dân cư và khu công nghiệp",
         "c": "C. Kết hợp trong quy hoạch tổng thể và cụ thể",
         "d": "D. Kết hợp trong quy hoạch xây dựng các khu kinh tế",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "33. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN đối với vùng núi biên giới là cực kỳ quan trọng, vì vùng núi biên giới là:",
+        "question": "33. Kết hợp phát triển KT XH với tăng cường, củng cố QP AN đối với vùng núi biên giới là cực kỳ quan trọng, vì vùng núi biên giới là:",
         "a": "A. Khu vực trọng điểm của chiến lược “diễn biến hòa bình”",
         "b": "B. Nơi dân cư đời sống còn nhiều khó khăn, kinh tế chậm phát triển",
         "c": "C. Vùng có tầm quan trọng đặc biệt trong chiến lược bảo vệ Tổ quốc",
         "d": "D. Vùng hậu phương chiến lược của cả nước nếu chiến tranh xảy ra",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "34. Kết hợp phát triển KTXH với tăng cường,củng cố QP&AN ở vùng biển, đảo cần phải:",
+        "question": "34. Kết hợp phát triển KT XH với tăng cường,củng cố QPAN ở vùng biển, đảo cần phải:",
         "a": "A. Có cơ chế chính sách thỏa đáng để động viên ngư dân đầu tư tàu thuyền đánh bắt xa bờ",
         "b": "B. Phát triển các loại hình dịch vụ trên biển, đảo, tạo điều kiện cho dân bám trụ, sinh sống, làm ăn",
         "c": "C. Phát triển các tập thể,các đội tàu thuyền đánh cá để có điều kiện xây dựng, lực lượng dân quân",
         "d": "D. Có cơ chế chính sách thỏa đáng để ngư dân yên tâm bám biển, bám làng xây dựng hậu phương",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "35. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong công nghiệp sẽ làm cơ sở cho:",
+        "question": "35. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong công nghiệp sẽ làm cơ sở cho:",
         "a": "A. Phát triển sản xuất thiết bị quốc phòng",
         "b": "B. Phát triển ngành sản xuất vũ khí",
         "c": "C. Phát triển sản xuất trang bị quốc phòng",
         "d": "D. Phát triển công nghiệp quốc phòng",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "36. Một trong những nội dung kết hợp phát triểnKTXH với tăng cường, củng cố QP&AN trong côngnghiệp là kết hợp:",
-        "a": "A. Trong quy hoạch côngnghiệp quốc phòng và xâydựng khu vực phòng thủ",
+        "question": "36. Một trong những nội dung kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong công nghiệp là kết hợp:",
+        "a": "A. Trong quy hoạch công nghiệp quốc phòng và xây dựng khu vực phòng thủ",
         "b": "B. Từ khi thực hiện xây dựng các khu công nghiệp tập trung, khu chế xuất",
         "c": "C. Trong khâu quy hoạch,bố trí các khu công nghiệp, khu chế xuất tập trung",
         "d": "D. Từ khi quy hoạch bố trí các đơn vị kinh tế của các ngành công nghiệp",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "37. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN được biểu hiện trong lĩnh vực quân sự là:",
+        "question": "37. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN được biểu hiện trong lĩnh vực quân sự là:",
         "a": "A. Tăng lực lượng dân phòng, giảm quân số thường trực",
         "b": "B. Xây dựng lực lượng dự bị động viên hùng hậu",
         "c": "C. Tăng lực lượng thường trực, giảm lực lượng dự bị",
         "d": "D. Xây dựng lực lượng dân quân tự vệ hùng hậu",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "38. Trong giai đoạn hiện nay, Đảng ta xác định, để thực hiện thắng lợi hai nhiệm vụ chiến lược của cách mạng Việt Nam, chúng ta phải kết hợp phát triển KTXH với tăng cường, củng cố QP&AN vào:",
+        "question": "38. Trong giai đoạn hiện nay, Đảng ta xác định, để thực hiện thắng lợi hai nhiệm vụ chiến lược của cách mạng Việt Nam, chúng ta phải kết hợp phát triển KT XH với tăng cường, củng cố QPAN vào:",
         "a": "A. Trên từng lĩnh vực xã hội",
         "b": "B. Trong phạm vi cả nước",
         "c": "C. Trên từng khu vực chiến lược",
         "d": "D. Trong một chỉnh thể thống nhất",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "39. “Xây dựng các xã trọng điểm về kinh tế,QP&AN” là một trong những nội dung kết hợpkinh tế, QP&AN đối với:",
+        "question": "39. “Xây dựng các xã trọng điểm về kinh tế,QP AN” là một trong những nội dung kết hợp kinh tế, QP AN đối với:",
         "a": "A. Vùng trọng điểm           quốc phòng",
         "b": "B. Vùng trọng điểm kinh tế",
         "c": "C. Vùng núi, biên giới",
         "d": "D. Vùng đồng bằng, ven biển",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "40. “Giải quyết tốt các vấn đề xã  hội” là nội dungcần chú trọng khi kết hợp phát triển KTXH vớităng cường, củng cố QP&AN trong:",
+        "question": "40. “Giải quyết tốt các vấn đề xã  hội” là nội dung cần chú trọng khi kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong:",
         "a": "A. Nông, công nghiệp",
         "b": "B. Các khu công nghiệp",
         "c": "C. Các khu vực phòng thủ",
         "d": "D. Nông , lâm, ngư nghiệp",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "41. Khu vực phòng thủ và phòng thủthen chốt của đất nước thường có:",
+        "question": "41. Khu vực phòng thủ và phòng thủ then chốt của đất nước thường có:",
         "a": "A. Vùng kinh tế trọng điểm",
         "b": "B. Vùng tập trung công nghiệp",
         "c": "C. Khu chế xuất công nghiệp",
         "d": "D. Khu kinh tế tập trung",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "42. “Tôn trọng độc lập, chủ quyền, hợp tác bình đẳng cùng có lợi và không can thiệp vào công việc nội bộ của nhau” là nguyên tắc của kết hợp phát triển KTXH với tăng cường QP&AN trong:",
+        "question": "42. “Tôn trọng độc lập, chủ quyền, hợp tác bình đẳng cùng có lợi và không can thiệp vào công việc nội bộ của nhau” là nguyên tắc của kết hợp phát triển KT XH với tăng cường QPAN trong:",
         "a": "A. Lĩnh vực ngoại giao",
         "b": "B. Lĩnh vực đối ngoại",
         "c": "C. Hoạt động đối ngoại",
         "d": "D. Hoạt động ngoại giao",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "43. “QP&AN vững mạnh sẽ tạo môi trường hòa bình, ổn định lâu dài, tạo điều kiện thuận lợi cho phát triển KTXH” là sự tác động trở lại với kinh tế ở góc độ:",
+        "question": "43. “QP AN vững mạnh sẽ tạo môi trường hòa bình, ổn định lâu dài, tạo điều kiện thuận lợi cho phát triển KT XH” là sự tác động trở lại với kinh tế ở góc độ:",
         "a": "A. Tiêu cực",
         "b": "B. Hiệu quả",
         "c": "C. Cần thiết",
         "d": "D. Tích cực",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "44. Hoạt động QP&AN tiêu tốn đáng kể một phầnnguồn nhân lực, vật lực, tài chính của xã hội, nhữngtiêu dùng này như V.I. Lênin đánh giá là:",
+        "question": "44. Hoạt động QPAN tiêu tốn đáng kể một phần nguồn nhân lực, vật lực, tài chính của xã hội, những tiêu dùng này như V.I. Lênin đánh giá là:",
         "a": "A. Tiêu dùng ảnh hưởng",
         "b": "B. Tiêu dùng mất đi",
         "c": "C. Tiêu dùng thiệt hại",
         "d": "D. Tiêu dùng bất lợi",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "45. “Đầu tư chương trình đánh bắt xa bờ” là một trong những nội dung kết hợp kinh tế, QP&AN đối với:",
+        "question": "45. “Đầu tư chương trình đánh bắt xa bờ” là một trong những nội dung kết hợp kinh tế, QP AN đối với:",
         "a": "A. Dân quân vùng biển",
         "b": "B. Chính sách xã hội",
         "c": "C. Vùng biển, đảo",
-        "d": "D. Vùng ngư dân khó khăn",
+        "d": "D. Cùng ngư dân khó khăn",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "46. “Mật độ dân cư, tính chất đô thị hóa cao”là một trong những đặc điểm của:",
         "a": "A. Vùng quốc phòng trọng điểm",
         "b": "B. Vùng kinh tế trọng điểm",
-        "c": "C. Vùng dân cư trọng diểm",
+        "c": "C. Vùng dân cư trọng điểm",
         "d": "D. Vùng an ninh trọng điểm",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "47. Kết hợp phát triển KTXH với tăng cường, củng cốQP&AN trong công nghiệp, chúng ta cần kết hợp đầu tưnghiên cứu, thiết kế, chế tạo, sản xuất các sản phẩm có:",
+        "question": "47. Kết hợp phát triển KT XH với tăng cường, củng cố PAN trong công nghiệp, chúng ta cần kết hợp đầu tư nghiên cứu, thiết kế, chế tạo, sản xuất các sản phẩm có:",
         "a": "A. Tính lưỡng dụng cao trong các cơ sở công nghiệp nặng",
         "b": "B. Công nghệ hiện đại, khoa học tiên tiến trong nhà máy",
         "c": "C. Tính hữu dụng cao, trong các ngành công nghiệp nặng",
         "d": "D. khả năng xuất khẩu cao, thiết thực, hiệu quả lâu dài",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "48. Đối tượng trước tiên phải tập trung bồi dưỡngnâng cao kiến thức, kinh nghiệm, kết hợp phát triểnKTXH với QP&AN là đội ngũ cán bộ:",
-        "a": "A. Cấp xã, phường đến huyện, quân và tương đương ở các tỉnh, thành phố",
+        "question": "48. Đối tượng trước tiên phải tập trung bồi dưỡng nâng cao kiến thức, kinh nghiệm, kết hợp phát triển KTXH với QPAN là đội ngũ cán bộ:",
+        "a": "A. Cấp xã, phường đến huyện, quận và tương đương ở các tỉnh, thành phố",
         "b": "B. Cấp tỉnh, bộ, ngành và tương đương từ trung ương đến địa phương",
-        "c": "C. Chủ trì các cấp, các bộ, ngành, đoàn thể từ trung ương đế cơ sở",
+        "c": "C. Chủ trì các cấp, các bộ, ngành, đoàn thể từ trung ương đến cơ sở",
         "d": "D. Giảng viên, viên chức, học sinh, sinh viên trong hệ thống nhà trường",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "49. Để thực hiện tốt việc kết hợp phát triển KTXH vớităng cường, củng cố QP&AN cần quán triệt và thực hiệnđồng bộ các giải pháp, trong đó phải quán triệt sâu sắc:",
+        "question": "49. Để thực hiện tốt việc kết hợp phát triển KT XH với tăng cường, củng cố QP AN cần quán triệt và thực hiện đồng bộ các giải pháp, trong đó phải quán triệt sâu sắc:",
         "a": "A. Hai nhiệm vụ chiến lược của cách mạng Việt Nam cho toàn dân",
         "b": "B. Tính tất yếu khách quan của việc kết hợp kinh tế với quốc phòng",
         "c": "C. Đường lối quốc phòng, an ninh của Đảng Cộng sản Việt Nam",
         "d": "D. Nhiệm vụ bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "50. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong bưu chính viễn thông cần phải xây dựng:",
+        "question": "50. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong bưu chính viễn thông cần phải xây dựng:",
         "a": "A. Phương thức phòng chống chiến tranh tâm lý của địch",
         "b": "B. Phương án phòng chống chiến tranh điện tử của địch",
         "c": "C. Kế hoạch bảo đảm chống nhiễu cho thiết bị, phương tiện",
         "d": "D. Kế hoạch động viên thông tin liên lạc cho thời chiến",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "51. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong giao thông vận tải cần phải tính đến:",
+        "question": "51. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong giao thông vận tải cần phải tính đến:",
         "a": "A. Nhu cầu bảo đảm cho vận tải quân sự",
         "b": "B. Khả năng bảo vệ khi địch đánh phá",
         "c": "C. Cả nhu cầu hoạt động thời bình và thời chiến",
         "d": "D. Khả năng cơ động cho quân sự và dân sự",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "52. Kinh tế, QP&AN là những lĩnh vực hoạt động cơ bản của mỗi quốc gia, mỗi lĩnh vực có mục đích, cách thức hoạt động và quy luật riêng, song giữa chúng lại có:",
+        "question": "52. Kinh tế, QPAN là những lĩnh vực hoạt động cơ bản của mỗi quốc gia, mỗi lĩnh vực có mục đích, cách thức hoạt động và quy luật riêng, song giữa chúng lại có:",
         "a": "A. Quan hệ ít tác động qua lại lẫn nhau",
         "b": "B. Những quan hệ trong cách thức hoạt động",
         "c": "C. Mối quan hệ mật thiết, hiểu biết với nhau",
         "d": "D. Mối quan hệ tác động qua lại lẫn nhau",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "53. Kết hợp phát triển kinh tế với QP&AN,ông cha ta ngày xưa đã thực hiện kế sách:",
+        "question": "53. Kết hợp phát triển kinh tế với QPAN,ông cha ta ngày xưa đã thực hiện kế sách:",
         "a": "A. Động vi binh, tĩnh vi thương",
         "b": "B. Động vi dân, tĩnh vi binh",
         "c": "C. Động vi binh, tĩnh vi dân",
         "d": "D. động vi thương, tĩnh vi dân",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "54. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong nông, lâm, ngư nghiệp cần chú trọng:",
+        "question": "54. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong nông, lâm, ngư nghiệp cần chú trọng:",
         "a": "A. Phát triển khoa học, công nghệ",
         "b": "B. Giải quyết tốt vấn đề xã hội",
         "c": "C. Giải quyết tốt vấn đề văn hóa",
         "d": "D. Phát triển thông tin tuyên truyền",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "55. Từ khi cả nước thống nhất đi lên CNXH, kết hợpphát triển KTXH với tang, cường củng cố QP&ANở nước ta đã được:",
+        "question": "55. Từ khi cả nước thống nhất đi lên CNXH, kết hợp phát triển KT XH với tăng cường củng cố QPAN nước ta đã được:",
         "a": "A. Triển khai rộng lớn khắp mọi miền của Tổ quốc",
         "b": "B. Chú trọng triển khai trên khắp lãnh thổ đất nước",
         "c": "C. Triển khai trên quy mô rộng lớn, toàn diện hơn",
         "d": "D. Tập trung triển khai một cách toàn diện hơn",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "56. Việc xác lập cơ chế chính sách, bảo đảm ngân sách cho phát triển KTXH với tăng cường, củng cố QP&AN cần được xây dựng theo quan điểm:",
+        "question": "56. Việc xác lập cơ chế chính sách, bảo đảm ngân sách cho phát triển KT XH với tăng cường, củng cố QP AN cần được xây dựng theo quan điểm:",
         "a": "A. Quốc phòng toàn dân, an ninh nhân dân",
         "b": "B. Chiến tranh nhân dân, an ninh Tổ quốc",
         "c": "C. Quốc phòng luôn gắn liền với an ninh",
         "d": "D. An ninh quốc gia, quốc phòng toàn quốc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "57. Vùng kinh tế trọng điểm của nước ta thường:",
@@ -566,177 +566,180 @@
         "c": "C. Nằm ngoài khu vực phòng thủ và phòng thủ cơ động",
         "d": "D. Nằm trong khu vực phòng thủ và phòng thủ then chốt",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "58. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong công nghiệp phải tập trung một số:",
-        "a": "A. Nhà máy chuyên sản xuất phục vụ QP&AN",
-        "b": "B. Ngành công nghiệp liên quan đến QP&AN",
+        "question": "58. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong công nghiệp phải tập trung một số:",
+        "a": "A. Nhà máy chuyên sản xuất phục vụ QPAN",
+        "b": "B. Ngành công nghiệp liên quan đến QPAN",
         "c": "C. Ngành công nghiệp có khoa học, kỹ thuật, công nghệ cao",
-        "d": "D. Doanh nghiệp lớn có thể phục vụ cho QP&AN",
+        "d": "D. Doanh nghiệp lớn có thể phục vụ cho QPAN",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "59. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong nông, lâm, ngư nghiệp cần kết hợp phát triển dân cư với:",
+        "question": "59. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong nông, lâm, ngư nghiệp cần kết hợp phát triển dân cư với:",
         "a": "A. Phát triển đồng đều các làng, xã, huyện đảo",
         "b": "B. Định canh định cư, ổn định đời sống nhân dân",
         "c": "C. Xây dựng khu phố, làng xã văn hóa, an ninh",
         "d": "D. Xây dựng làng, xã, huyện đảo vững mạnh",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "60. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong phát triển các vùng lãnh thổ cần phải quan tâm chỉ đạo:",
-        "a": "A. Kết hợp chặt chẽ giữaphát triển kinh tế xã hội với xâydựng lực lượng, thế trận QP&ANtrên từng vùng lãnh thổ",
+        "question": "60. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong phát triển các vùng lãnh thổ cần phải quan tâm chỉ đạo:",
+        "a": "A. Kết hợp chặt chẽ giữa phát triển kinh tế xã hội với xây dựng lực lượng, thế trận QP AN trên từng vùng lãnh thổ",
         "b": "B. Kết hợp chặt chẽ giữa phát triển kinh tế xã hội với xây dựng lực lượng vũ trang, quần chúng trên các vùng lãnh thổ",
         "c": "C. Kết hợp chặt chẽ giữa phát triển công nghiệp quốc phòng với xây dựng thế trận phòng thủ trên các vùng lãnh thổ",
         "d": "D. Kết hợp chặt chẽ giữa phát triển kinh tế xã hội với xây dựng các tổ chức chính trị, tổ chức quần chúng trên các vùng lãnh thổ",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "61. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong công nghiệp, cần chú trọng:",
+        "question": "61. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong công nghiệp, cần chú trọng:",
         "a": "A. Phát triển đồng bộ các ngành",
         "b": "B. Những ngành có tính lưỡng dụng",
         "c": "C. Những ngành công nghệ cao",
         "d": "D. Phát triển các ngành xuất khẩu",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "62. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong bưu chính viễn thông cần phải kết hợp chặt chẽ giữa:",
+        "question": "62. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong bưu chính viễn thông cần phải kết hợp chặt chẽ giữa:",
         "a": "A. Ngành bưu điện quốc gia với ngành công nghiệp điện tử",
         "b": "B. Ngành bưu điện quốc gia với các ngành kinh tế, xã hội khác",
         "c": "C. Phát triển các kênh thông tin quốc gia với các kênh liên lạc quốc tế",
         "d": "D. Các ngành bưu điện quốc gia với ngành thông tin quân đội, công an",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "63. Trong xây dựng cơ bản, việc kết hợp phát triển KTXH với tăng cường, củng cố QP&AN cần phải thực hiện yêu cầu:",
-        "a": "A. Khi xây dựng công trình nào, ở đâu đều phải tính đến yếu tố tự bảo vệ và có thể chuyển hóa phục vụ được cho QP&AN",
-        "b": "B. Các công trình trọng điểm, quy mô lớn phải tính đến yếu tố tự bảo vệ và chuyển đổi công năng phục vụ QP&AN",
-        "c": "C. Các công trình ở các vùng núi, biên giới phải tính đến yếu tố vững chắc và có thể bảo đảm được cho nhiệm vụ QP&AN",
-        "d": "D. Các công trình trong vùng kinh tế trọng điểm phải tính đến yếu tố tự phục vụ và có thể  phục vụ được ngay cho QP&AN",
+        "question": "63. Trong xây dựng cơ bản, việc kết hợp phát triển KT XH với tăng cường, củng cố QPAN cần phải thực hiện yêu cầu:",
+        "a": "A. Khi xây dựng công trình nào, ở đâu đều phải tính đến yếu tố tự bảo vệ và có thể chuyển hóa phục vụ được cho QPAN",
+        "b": "B. Các công trình trọng điểm, quy mô lớn phải tính đến yếu tố tự bảo vệ và chuyển đổi công năng phục vụ QPAN",
+        "c": "C. Các công trình ở các vùng núi, biên giới phải tính đến yếu tố vững chắc và có thể bảo đảm được cho nhiệm vụ QPAN",
+        "d": "D. Các công trình trong vùng kinh tế trọng điểm phải tính đến yếu tố tự phục vụ và có thể  phục vụ được ngay cho QPAN",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "64. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong KHCN và giáo dục cần phải:",
-        "a": "A. Thực hiện tốt phát triểnKHCN với khoa học giáo dục QP&AN một cách hợp lý, cân đối và hài hòa",
-        "b": "B. Phối hợp chặt chẽ, có hiệuquả nghiên cứu các đề tài khoa học quân sự với các dự án công nghệ và sản xuất các sản phẩm cho xã hội",
-        "c": "C. Phối kết hợp chặt chẽ và toàn diện hoạt động giữa các ngành khoa học và công nghệ then chốt của cả nước với các ngành khoa học của QP&AN",
+        "question": "64. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong KHCN và giáo dục cần phải:",
+        "a": "A. Thực hiện tốt phát triển KH&CN với khoa học giáo dục QPAN một cách hợp lý, cân đối và hài hòa",
+        "b": "B. Phối hợp chặt chẽ, có hiệu quả nghiên cứu các đề tài khoa học quân sự với các dự án công nghệ và sản xuất các sản phẩm cho xã hội",
+        "c": "C. Phối kết hợp chặt chẽ và toàn diện hoạt động giữa các ngành khoa học và công nghệ then chốt của cả nước với các ngành khoa học của QPAN",
         "d": "D. Thực hiện tốt chính sách ưu tiên cho cải cách, đổi mới cơ chế phát triển khoa học và nghệ thuật quân sự, khoa học an ninh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "65. Trong lĩnh vực y tế, việc kết hợp phát triển KTXH với tăng cường, củng cố QP&AN cần thực hiện:",
+        "question": "65. Trong lĩnh vực y tế, việc kết hợp phát triển KT XH với tăng cường, củng cố QP AN cần thực hiện:",
         "a": "A. Tổ chức các đội y tế quân dân y ở cơ sở để phục vụ nhân dân khám, chữa bệnh nhất là vùng biên giới",
         "b": "B. Xây dựng mô hình nghiên cứu và ứng dụng khoa học chung cho cả quân và dân y nhất là ở thành phố",
         "c": "C. Tổ chức cho tất cả các cơ sở quân y thực hiện việc khám, chữa bệnh rộng rãi cho toàn thể nhân dân",
         "d": "D. Xây dựng mô hình quân dân y kết hợp trên các địa bàn, đặc biệt là miền núi, biên giới, hải đảo",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "66. Sự phối hợp giữa hoạt động đối ngoạivới kinh tế, QP&AN là:",
+        "question": "66. Sự phối hợp giữa hoạt động đối ngoại với kinh tế, QPAN là:",
         "a": "A. Một trong những nội dung cơ bản của chủ trương đối ngoại trong thời kỳ mới",
         "b": "B. Một trong những nội dung để hội nhập kinh tế quốc tế trong thời kỳ mới",
         "c": "C. Sự phối hợp một cách toàn diện phù hợp với xu thế toàn cầu hóa hiện nay",
         "d": "D. Sự phối hợp chặt chẽ, đồng bộ của đất nước trong thời kỳ hội nhập quốc tế",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "67. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong phát triển kinh tế, chúng ta phải:",
+        "question": "67. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong phát triển kinh tế, chúng ta phải:",
         "a": "A. Phát triển công nghiệp dân dụng cùng với đẩy mạnh hiện đại hóa công nghiệp vũ khí quân sự",
         "b": "B. Kết hợp đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước với phát triển công nghiệp quốc phòng",
         "c": "C. Kết hợp đẩy mạnh hiện  đại hóa công nghiệp quốc  phòng với đẩy mạnh hiện đại hóa kinh tế",
         "d": "D. Phát triển các khu công nghiệp, khu chế xuất hiện đại với hiện đại hóa công nghiệp quốc phòng",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "68. Để nâng cao hiệu lực quản lý Nhà nước của chính quyềncác cấp trong việc kết hợp phát triển KTXH với tăng cường,củng cố QP&AN, đòi hỏi từng cấp phải:",
+        "question": "68. Để nâng cao hiệu lực quản lý Nhà nước của chính quyền các cấp trong việc kết hợp phát triển KT XH với tăng cường,củng cố QPAN, đòi hỏi từng cấp phải:",
         "a": "A. Vận dụng linh hoạt, nhanh chóng triển khai, thực hiện hiệu quả",
         "b": "B. Năng động, sáng tạo theo thực tế của địa phương, bộ, ngành",
         "c": "C. Làm đúng chức năng, nhiệm vụ theo quy định của pháp luật",
         "d": "D. Thực hiện đầy đủ các thủ tục hướng dẫn theo đúng pháp luật",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "69. Tận dụng khả năng của công nghiệp quốc phòng trong thời bình để sản xuất hàng hóa dân sự phục vụ dân sinh và xuất khầu là thực hiện sự kết hợp kinh tế với QP&AN trong thực hiện nhiệm vụ:",
+        "question": "69. Tận dụng khả năng của công nghiệp quốc phòng trong thời bình để sản xuất hàng hóa dân sự phục vụ dân sinh và xuất khẩu là thực hiện sự kết hợp kinh tế với QPAN trong thực hiện nhiệm vụ:",
         "a": "A. Xây dựng và bảo vệ quốc gia",
         "b": "B. Xây dựng chủ nghĩa xã hội",
         "c": "C. Chiến lược xây dựng đất nước",
         "d": "D. Chiến lược bảo vệ Tổ quốc",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "70. Đối với các vùng kinh tế trọng điểm việc kết hợpphát triển KTXH với tăng cường QP&AN cần thực hiện sự gắn kết xây dựng lực lượng QP&AN, các tổ chức chính trị, đoàn thể trong quá trình:",
+        "question": "70. Đối với các vùng kinh tế trọng điểm việc kết hợp phát triển KT XH với tăng cường QP AN cần thực hiện sự gắn kết xây dựng lực lượng QP AN, các tổ chức chính trị, đoàn thể trong quá trình:",
         "a": "A. Xây dựng các khu công nghiệp tập trung",
         "b": "B. Quy hoạch các khu đô thị công nghiệp",
         "c": "C. Xây dựng các khu dân cư tập trung",
         "d": "D. Quy hoạch đặc khu kinh tế, xã hội",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "71. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN đối với vùng rừng núi biên giới cần phải:",
+        "question": "71. Kết hợp phát triển KT XH với tăng cường, củng cố QP AN đối với vùng rừng núi biên giới cần phải:",
         "a": "A. Tập trung phát triển mạnh về kinh tế, văn hóa, bảo vệ quốc phòng",
-        "b": "B. Xây dựng các xã trọng điểm về kinh tế, QP&AN",
+        "b": "B. Xây dựng các xã trọng điểm về kinh tế, QPAN",
         "c": "C. Xây dựng các xã trọng tâm về kinh tế, xã hội, an toàn an ninh",
-        "d": "D. Phát triển đồng đều cả ba mặt kinh tế, QP&AN",
+        "d": "D. Phát triển đồng đều cả ba mặt kinh tế, QPAN",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "72. Một trong những nội dung kết hợp phát triển KTXH với tăng cường, củng cố QP&AN ở vùng biển đảo là:",
+        "question": "72. Một trong những nội dung kết hợp phát triển KT XH với tăng cường, củng cố QPAN ở vùng biển đảo là:",
         "a": "A. Phát triển các chương trình đánh bắt hải sản",
         "b": "B. Phát triển chương trình đánh bắt vùng đảo",
         "c": "C. Đầu tư chương trình đánh bắt vùng vịnh",
-        "d": "D. Đầu tư chương trìnhđánh bắt xa bờ",
+        "d": "D. Đầu tư chương trình đánh bắt xa bờ",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "73. Kết hợp phát triển KTXH với tăng cường, củng cố QP&AN trong giao thông vận tải cần quan tâm:",
+        "question": "73. Kết hợp phát triển KT XH với tăng cường, củng cố QPAN trong giao thông vận tải cần quan tâm:",
         "a": "A. Xây dựng các tuyến đường vành đai biên giới",
         "b": "B. Phát triển mạng lưới giao thông hiện đại",
         "c": "C. Xây dựng các tuyến đường ngang, dọc biển đảo",
         "d": "D. Phát triển đồng bộ hệ thống giao thông biên giới",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "74. Để kết hợp phát triển KTXH với tăng cường,củng cố QP&AN, chúng ta phải thực hiện giải pháp:",
+        "question": "74. Để kết hợp phát triển KTXH với tăng cường,củng cố QPAN, chúng ta phải thực hiện giải pháp:",
         "a": "A. Tuyên truyền, động viên, kêu gọi mọi tầng lớp nhân dân tự giác thực hiện",
         "b": "B. Bồi dưỡng nâng cao kiến thức, kinh nghiệm kết hợp cho các đối tượng",
         "c": "C. Bồi dưỡng nâng cao kiến thức, kinh nghiệm cho Cán bộ các cấp ở cơ sở",
         "d": "D. Phổ biến kiến thức, tuyên truyền vận động mọi cấp, mọi ngành tham gia",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+

@@ -1,43 +1,43 @@
 [
     {
         "question": "1. Trong lịch sử, dân tộc Việt Nam luôn bị các thế lực ngoại xâm nhòm ngó, xâm lược vì:",
-        "a": "A. Việt Nam có vị tríđịa lý thuận lợi",
-        "b": "B. Việt Nam cónhiều cảnh đẹp",
-        "c": "C. Việt Nam cónhiều khoáng sản",
-        "d": "D. Việt Nam lànước nhỏ bé",
+        "a": "A. Việt Nam có vị trí địa lý thuận lợi",
+        "b": "B. Việt Nam có nhiều cảnh đẹp",
+        "c": "C. Việt Nam có nhiều khoáng sản",
+        "d": "D. Việt Nam là nước nhỏ bé",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "2. An Dương Vương thành lậpnhà nước Âu Lạc, đã dời đô về:",
+        "question": "2. An Dương Vương thành lập nhà nước  u Lạc, đã dời đô về:",
         "a": "A. Thăng Long",
         "b": "B. Hoa Lư",
         "c": "C. Cổ Loa",
         "d": "D. Lam Sơn",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "3. Một trong những cơ sởhình thành NTQS Việt Nam là:",
+        "question": "3. Một trong những cơ sở hình thành NTQS Việt Nam là:",
         "a": "A. Từ nghệ thuật quân sự của láng giềng",
         "b": "B. Từ truyền thống đánh giặc của tổ tiên",
         "c": "C. Đấu tranh giai cấp của chủ nghĩa Mác-Lênin",
-        "d": "D. Từ kinh nghiệm của cáccuộc chiến tranh trong khu vực",
+        "d": "D. Từ kinh nghiệm của các cuộc chiến tranh trong khu vực",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "4. Chiến dịch nào sau đâylà chiến dịch phản công?",
+        "question": "4. Chiến dịch nào sau đây là chiến dịch phản công?",
         "a": "A. Chiến dịch Quảng Trị 1972",
         "b": "B. Chiến dịch   Tây Nguyên 1975",
         "c": "C. Chiến dịch Điện Biên Phủ 1954",
         "d": "D. Chiến dịch Việt Bắc- Thu Đông 1947",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "5. Ba lần kháng chiến chống quân Nguyên - Mông của nhà Trần vào những năm nào?",
@@ -46,18 +46,18 @@
         "c": "C. 1258, 1285 và 1287",
         "d": "D. 1206, 1208 và 1209",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "6. Đảng ta đã chỉ đạo tiến hànhchiến tranh với tinh thần:",
+        "question": "6. Đảng ta đã chỉ đạo tiến hành chiến tranh với tinh thần:",
         "a": "A. Tự lực cánh sinh, kiên trì kháng chiến, dựa  vào sức mình là chính",
         "b": "B. Tự lực cánh sinh, đánh lâu dài, dựa vào sức mạnh thời đại",
         "c": "C. Tự lực tự cường, đánh chắc thắng, dựa vào sức mình là chính",
         "d": "D. Tự lực cánh sinh, đánh lâu dài dựa vào sức mình là chính",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "7. Cuộc khởi nghĩa nào đã chấm dứt hơn một nghìn năm Bắc thuộc, mở ra một kỷ nguyên mới trong lịch sử dân tộc, kỷ nguyên độc lập, tự chủ?",
@@ -66,28 +66,28 @@
         "c": "C. Khởi nghĩa của Lý Bôn năm 542",
         "d": "D. Khởi nghĩa của Mai Thúc Loan năm 722",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "8. Trong nghệ thuật quân sự Việt Nam, chiến dịch được hình thành từ thời kỳ kháng chiến:",
-        "a": "A. Chống quânMãn Thanh",
+        "a": "A. Chống quân Mãn Thanh",
         "b": "B. Chống thực dân Pháp",
         "c": "C. Chống quân Nguyên - Mông",
         "d": "D. Chống đế quốc Mỹ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "9. Chiến dịch Điên Biên Phủ chúng ta đã thay đổi phương châm tác chiến chiến dịch từ:",
+        "question": "9. Chiến dịch Điện Biên Phủ chúng ta đã thay đổi phương châm tác chiến chiến dịch từ:",
         "a": "A. “Đánh nhanh, tiến nhanh” sang “đánh chậm, tiến chắc”",
         "b": "B. “Đánh chậm, tiến chắc” sang “đánh nhanh, tiến chắc”",
         "c": "C. “Đánh nhanh, thắng nhanh” sang “đánh chắc, tiến chắc”",
         "d": "D. “Đánh nhanh, tiến chắc” sang “đánh chắc, thắng chắc”",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "10. “Địa lý, kinh tế, chính trị, văn hóa-xã hội” là các yếu tố tác động hình thành:",
@@ -96,8 +96,8 @@
         "c": "C. Nghệ thuật bảo vệ đất nước của tổ tiên ta",
         "d": "D. Nghệ thuật đánh giặc giữ nước của tổ tiên ta",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "11. Một trong những bài học kinh nghiệm về NTQS Việt Nam được vận dụng vào sự nghiệp BVTQ hiện nay là:",
@@ -106,8 +106,8 @@
         "c": "C. Quán triệt tư tưởng tích cực phòng thủ",
         "d": "D. Tích cực tiến công kết hợp với phòng ngự",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "12. Lý luận và thực tiễn về chuẩn bị, thực hành chiến dịch và các hoạt động tác chiến tương đương là:",
@@ -116,18 +116,18 @@
         "c": "C. Nghệ thuật đánh giặc",
         "d": "D. Nghệ thuật chiến dịch",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "13. Để bảo vệ được độc lập, cuộc sống và nền văn hóa của mình, ông cha ta chỉ có con đường duy nhất là:",
-        "a": "A. Đoàn kết tướng sỹ, đứng lên đánh giặc",
+        "a": "A. Đoàn kết tướng sĩ, đứng lên đánh giặc",
         "b": "B. Phất cờ khởi nghĩa đánh giặc ngoại xâm",
         "c": "C. Đoàn kết đứng lên đánh giặc, giữ nước",
         "d": "D. Kêu gọi nhân dân, phất cờ khởi nghĩa",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "14. Triều đại phong kiến đã tiến hành cuộc kháng chiến chống Tống lần thứ hai giành thắng lợi:",
@@ -136,18 +136,18 @@
         "c": "C. Nhà Trần",
         "d": "D. Nhà Hồ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "15. Chiến dịch giành thắng lợi,kết thúc chiến tranh chống Pháp là:",
         "a": "A. Chiến dịch Điện Biên Phủ",
-        "b": "B. Chiến dịchBiên giới",
-        "c": "C. Chiến dịchĐông xuân",
-        "d": "D. Chiến dịchTây Bắc",
+        "b": "B. Chiến dịch Biên giới",
+        "c": "C. Chiến dịch Đông xuân",
+        "d": "D. Chiến dịch Tây Bắc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "16. Khởi nghĩa của Hai Bà Trưng diễn ra vào:",
@@ -156,28 +156,28 @@
         "c": "C. Mùa xuân năm 40 sau Công nguyên",
         "d": "D. Mùa hè năm 40 trước Công nguyên",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "17. Cuộc kháng chiến chống Tống lần thứ nhất thắng lợi do Triều đại phong kiến:",
-        "a": "A. Nhà Đinhtiến hành",
-        "b": "B. Nhà Lýtiến hành",
-        "c": "C. Nhà Tiền Lêtiến hành",
-        "d": "D. Nhà Hồtiến hành",
+        "a": "A. Nhà Đinh tiến hành",
+        "b": "B. Nhà Lý tiến hành",
+        "c": "C. Nhà Tiền Lê tiến hành",
+        "d": "D. Nhà Hồ tiến hành",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "18. Lý Thái Tổ đã ban chiếu dời đô từHoa Lư về Thăng Long vào:",
+        "question": "18. Lý Thái Tổ đã ban chiếu dời đô từ Hoa Lư về Thăng Long vào:",
         "a": "A. Năm 1210",
         "b": "B. Năm 1110",
         "c": "C. Năm 1012",
         "d": "D. Năm 1010",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. Nghệ thuật tiến hành chiến tranh nhân dân, toàn dân đánh giặc ở nước ta có từ thời:",
@@ -186,8 +186,8 @@
         "c": "C. Chống giặc Minh",
         "d": "D. Chống giặc Thanh",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "20. Hội nghị Diên Hồng xây dựng quyết tâm của dân tộc ta chống lại xâm lược của:",
@@ -196,18 +196,18 @@
         "c": "C. Quân Nguyên - Mông",
         "d": "D. Quân Minh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "21. Sau cách mạng tháng 8 năm 1945đối tượng tác chiến của dân tộc ta là:",
+        "question": "21. Sau cách mạng tháng 8 năm 1945 đối tượng tác chiến của dân tộc ta là:",
         "a": "A. Quân đội Ấn Độ",
         "b": "B. Quân đội Anh",
         "c": "C. Quân đội Pháp",
         "d": "D. Quân đội Nhật",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "22. “Mở đầu và kết thúc chiến tranh đúng lúc” là một trong những nội dung của:",
@@ -216,8 +216,8 @@
         "c": "C. Nghệ thuật chiến dịch",
         "d": "D. Nghệ thuật chiến lược",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "23. Đảng ta đã từng có một tư duy và nhận định chính xác trong đánh giá kẻ thù:",
@@ -226,28 +226,28 @@
         "c": "C. Mỹ tuy giàu nhưng rất yếu",
         "d": "D. Mỹ không giàu nhưng rất mạnh",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "24. Một trong những bài học kinh nghiệmvề NTQS được vận dụng vào sự nghiệpBVTQ trong thời kỳ mới là:",
+        "question": "24. Một trong những bài học kinh nghiệm về NTQS được vận dụng vào sự nghiệp BVTQ trong thời kỳ mới là:",
         "a": "A. Nghệ thuật quân sự đánh giặc toàn diện",
         "b": "B. Nghệ thuật quân sự chiến tranh toàn dân",
         "c": "C. Nghệ thuật quân sự toàn dân đánh giặc",
         "d": "D. Nghệ thuật quân sự cả nước đánh giặc",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "25. Trận đánh điển hình về kết hợp chặt chẽ hai hình thức tác chiến phòng ngự và phản công trên cả quy mô chiến lược và chiến dịch thời nhà Lý chống quân Tống là:",
         "a": "A. Trận phản công Chi Lăng",
         "b": "B. Trận phòng ngự Như Nguyệt",
         "c": "C. Trận phản công Ngọc Hồi",
-        "d": "D. Trận phòng ngự Đống Da",
+        "d": "D. Trận phòng ngự Đống Đa",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "26. Chiến dịch phòng ngự của NTQS Việt Nam được hình thành trong kháng chiến:",
@@ -256,98 +256,98 @@
         "c": "C. Chống thực dân Pháp",
         "d": "D. Chống đế quốc Mỹ",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "27. Cuộc kháng chiến chống quân Minh do nhà Hồ lãnh đạo thất bại là do:",
-        "a": "A. Nhà Hồ đã qúa thiên về phòng thủ, không phát động được toàn dân đánh giặc",
+        "a": "A. Nhà Hồ đã quá thiên về phòng thủ, không phát động được toàn dân đánh giặc",
         "b": "B. Nhà Hồ quá thiên về tiến công, không lo phòng thủ từ xa.",
         "c": "C. Nhà Hồ đã tích cực tiến công nhưng quân Minh quá mạnh",
         "d": "D. Nhà Hồ đã chủ quan, không đề phòng cẩn mật, không phản công kịp thời",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "28. Nét đặc sắc và tất yếu trongnghệ thuật đánh giặc của ông cha ta là:",
+        "question": "28. Nét đặc sắc và tất yếu trong nghệ thuật đánh giặc của ông cha ta là:",
         "a": "A. Lấy nhỏ thắng lớn, lấy ít đánh nhiều, lấy yếu chống mạnh",
         "b": "B. Lấy nhỏ đánh lớn, lấy ít địch nhiều,lấy yếu chống mạnh",
         "c": "C. Lấy nhỏ đánh lớn, lấy ít thắng nhiều,lấy yếu thắng mạnh",
         "d": "D. Lấy nhỏ thắng lớn, lấy ít thắng nhiều,lấy yếu chống mạnh",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "29. Trong kháng chiến chống quân Tốnglần thứ hai, Lý Thường Kiệt sử dụng kế sách “tiên phát chế nhân” nghĩa là:",
+        "question": "29. Trong kháng chiến chống quân Tống Lần thứ hai, Lý Thường Kiệt sử dụng kế sách “tiên phát chế nhân” nghĩa là:",
         "a": "A. Chuẩn bị đầy đủ, chu đáo để giành thế chủ động đánh địch",
         "b": "B. Chuẩn bị chu đáo chặn đánh kẻ thù khi mới xâm lược",
         "c": "C. Chuẩn bị thế trận phòng thủ, đẩy đích vào thế bị động",
         "d": "D. Chủ động tiến công trước, đẩy kẻ thù vào thế bị động",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "30. Nghệ thuật đánh giặc giữ nướccủa ông cha ta luôn thể hiện:",
+        "question": "30. Nghệ thuật đánh giặc giữ nước của ông cha ta luôn thể hiện:",
         "a": "A. Lấy mưu thắng lực",
         "b": "B. Lấy kế thắng lực",
         "c": "C. Lấy thế thắng lực",
         "d": "D. Lấy chí thắng lực",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "31. Một trong những nghệ thuậtđánh giặc của ông cha ta là:",
-        "a": "A. Kết hợp đấu tranh giữa cácmặt trận quân sự, kinh tế, ngoạithương và binh vận",
-        "b": "B. Kết hợp đấu tranh giữa cácmặt trận, các chiến trường vàchính sách ngoại giao",
-        "c": "C. Kết hợp đấu tranh giữacác mặt trận quân sự, chính trị,ngoại giao và dân vận",
-        "d": "D. Kết hợp đấu tranh giữa cácmặt trận quân sự, chính trị,ngoại giao và binh vận",
+        "question": "31. Một trong những nghệ thuật đánh giặc của ông cha ta là:",
+        "a": "A. Kết hợp đấu tranh giữa các mặt trận quân sự, kinh tế, ngoại thương và binh vận",
+        "b": "B. Kết hợp đấu tranh giữa các mặt trận, các chiến trường và chính sách ngoại giao",
+        "c": "C. Kết hợp đấu tranh giữa các mặt trận quân sự, chính trị,ngoại giao và dân vận",
+        "d": "D. Kết hợp đấu tranh giữa các mặt trận quân sự, chính trị,ngoại giao và binh vận",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "32. Tư tưởng chỉ đạo tác chiến trongchiến tranh giữ nước của ông cha ta là:",
+        "question": "32. Tư tưởng chỉ đạo tác chiến trong chiến tranh giữ nước của ông cha ta là:",
         "a": "A. Nắm vững tư tưởng phòng thủ",
         "b": "B. Nắm vững tư tưởng phòng ngự",
         "c": "C. Nắm vững tư tưởng tiến công",
         "d": "D. Nắm vững tư tưởng chiến thắng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "33. Trong nghệ thuật kết hợp đấu tranhgiữa các mặt trận thì mặt trận chính trị là:",
+        "question": "33. Trong nghệ thuật kết hợp đấu tranh giữa các mặt trận thì mặt trận chính trị là:",
         "a": "A. Cơ sở để tạo ra sức mạnh quân sự",
         "b": "B. Mặt trận quyết định thắng lợi của chiến tranh",
-        "c": "C. Cơ sở để tạo sứcmạnh trên khắp cả nước",
+        "c": "C. Cơ sở để tạo sức mạnh trên khắp cả nước",
         "d": "D. Mặt trận chủ yếu để phân hóa, cô lập kẻ thù",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "34. Trong nghệ thuật kết hợp đấu tranh giữacác mặt trận thì mặt trận quân sự là mặt trận:",
+        "question": "34. Trong nghệ thuật kết hợp đấu tranh giữa các mặt trận thì mặt trận quân sự là mặt trận:",
         "a": "A. Chủ yếu để phân hóa, cô lập kẻ thù",
         "b": "B. Quyết định sức mạnh chính trị tinh thần",
         "c": "C. Chủ yếu để vận động làm tan rã hàng ngũ địch",
         "d": "D. Quyết định thắng lợi trực tiếp của chiến tranh",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "35. Nội dung chủ yếu của chiến lược quân sựViệt Nam trước tiên phải:",
+        "question": "35. Nội dung chủ yếu của chiến lược quân sự Việt Nam trước tiên phải:",
         "a": "A. Xác định đúng kẻ thù, đúng đối tượng tác chiến",
         "b": "B. Xác định đúng bạn bè, đúng đối tác chiến lược",
         "c": "C. Xác định đúng kẻ thù, đúng âm mưu thủ đoạn",
         "d": "D. Xác định đúng lực lượng, đúng vũ khí phương tiện",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "36. Quy luật của chiến tranh là mạnh được, yếu thua, nhưng ông cha ta đã sớm xác định đúng về sức mạnh chiến tranh, đó là:",
@@ -356,8 +356,8 @@
         "c": "C. Sức mạnh tổng hợp của nhiều yếu tố",
         "d": "D. Đoàn kết thì thắng, không đoàn kết thì thua",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "37. Tổng thể phương châm, chính sách và mưu lược được hoạch định để ngăn ngừa và sẵn sàng tiến hành chiến tranh thắng lợi là:",
@@ -366,18 +366,18 @@
         "c": "C. Nghệ thuật quân sự",
         "d": "D. Chiến lược BVTQ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "38. Nước ta rơi vào thảm họa nghìn năm Bắc thuộcsau cuộc kháng chiến chống xâm lược thất bại của:",
+        "question": "38. Nước ta rơi vào thảm họa nghìn năm Bắc thuộc sau cuộc kháng chiến chống xâm lược thất bại của:",
         "a": "A. Hai Bà Trưng chống quân Đông Hán",
         "b": "B. Vua Hùng và vua Thục Phán chống quân Tần",
         "c": "C. Nhà Tiền Lê chống quân Tống lần thứ nhất",
         "d": "D. An Dương Vương chống Triệu Đà",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "39. Lý luận và thực tiễn về tổ chức và thực hành chiến đấu của phân đội, binh đội, binh đoàn LLVT là:",
@@ -386,8 +386,8 @@
         "c": "C. Chiến thuật",
         "d": "D. Chiến tranh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "40. “CTND kết hợp giữa địa phương với các binh đoàn chủ lực, kết hợp chặt chẽ tiến công địch bằng hai lực lượng, bằng ba mũi giáp công, trên cả ba vùng chiến lược” là nội dung của:",
@@ -396,8 +396,8 @@
         "c": "C. Phương thức tác chiến chiến dịch",
         "d": "D. Phương thức tiến hành chiến tranh",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "41. “Tiến hành CTND, thực hiện toàn dân đánh giặc, đánh giặc toàn diện trên tất cả các mặt trận quân sự, chính trị, kinh tế, văn hóa, ngoại giao…”, đó là nội dung chỉ đạo của Đảng ta về:",
@@ -406,18 +406,18 @@
         "c": "C. Phương thức tiến hành chiến tranh",
         "d": "D. Phương án tiến hành chiến tranh",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "42. “Xác định đúng kẻ thù, đúng đối tượng tác chiến”là nội dung của:",
         "a": "A. Yêu cầu của chiến tranh",
         "b": "B. Chiến lược quân sự",
-        "c": "C. Chiến dich quân sự",
+        "c": "C. Chiến dịch quân sự",
         "d": "D. Chỉ đạo chiến tranh",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "43. “Nghệ thuật tạo sức mạnh tổng hợp bằng lực, thế, thời và mưu kế” là một trong những nội dung của:",
@@ -426,98 +426,98 @@
         "c": "C. Bài học kinh nghiệm về nghệ thuật quân sự",
         "d": "D. Bài học kinh nghiệm tạo sức mạnh quân sự",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "44. Mưu kế đánh giặc của ông cha ta đã biếncả nước thành một chiến trường, tạo ra:",
+        "question": "44. Mưu kế đánh giặc của ông cha ta đã biến cả nước thành một chiến trường, tạo ra:",
         "a": "A. Những khu vực diệt địch hiệu quả",
         "b": "B. Những thế trận để đánh bại quân địch",
         "c": "C. Một thiên thời, địa lợi để đánh địch",
         "d": "D. Một thiên la, địa võng để diệt địch",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "45. Tiến hành chiến tranh toàn diện, tất cả cácmặt trận đấu tranh phải kết hợp chặt chẽ với nhauhỗ trợ cho nhau và tạo điều kiện cho:",
+        "question": "45. Tiến hành chiến tranh toàn diện, tất cả các mặt trận đấu tranh phải kết hợp chặt chẽ với nhau hỗ trợ cho nhau và tạo điều kiện cho:",
         "a": "A. Mặt trận chính trị giành thắng lợi về ý chí tinh thần",
         "b": "B. Đấu tranh quân sự giành thắng lợi trên chiến trường",
         "c": "C. Đấu tranh ngoại giao giành thắng lợi trên trường quốc tế",
         "d": "D. Mặt trận tư tưởng giành thắng lợi về ý chí quyết tâm",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "46. Tiến hành chiến tranh toàn diện, mặt trận nhằmcổ vũ tinh thần yêu nước của nhân dân, quy tụ sức mạnhđoàn kết dân tộc, cơ sở tạo ra sức mạnh quân sự là:",
+        "question": "46. Tiến hành chiến tranh toàn diện, mặt trận nhằm cổ vũ tinh thần yêu nước của nhân dân, quy tụ sức mạnh đoàn kết dân tộc, cơ sở tạo ra sức mạnh quân sự là:",
         "a": "A. Mặt trận tuyên truyền",
         "b": "B. Mặt trận ngoại giao",
         "c": "C. Mặt trận binh vận",
         "d": "D. Mặt trận chính trị",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "47. Chiến dịch Điện Biên Phủ năm 1954 là loại hình:",
         "a": "A. Chiến dịch tổng hợp",
         "b": "B. Chiến dịch phản công",
-        "c": "C. Chiến địch tiến công",
+        "c": "C. Chiến dịch tiến công",
         "d": "D. Chiến dịch phòng ngự",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "48. Nghệ thuật chiến dịch là bộ phận hợp thànhcủa nghệ thuật quân sự, khâu nối liền:",
+        "question": "48. Nghệ thuật chiến dịch là bộ phận hợp thành của nghệ thuật quân sự, khâu nối liền:",
         "a": "A. Với các hoạt động quân sự và chính trị",
         "b": "B. Giữa chiến lược quân sự và chiến thuật",
         "c": "C. Giữa tiến công quân sự và nổi dậy",
         "d": "D. Với các hoạt động tác chiến và binh vận",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "49. Tiến hành chiến tranh toàn diện, mặt trận có vị tríquan trọng, đề cao tính chính nghĩa của nhân dân ta,phân hóa, cô lập kẻ thù, tạo thế có lợi cho cuộc chiến là:",
+        "question": "49. Tiến hành chiến tranh toàn diện, mặt trận có vị trí quan trọng, đề cao tính chính nghĩa của nhân dân ta,phân hóa, cô lập kẻ thù, tạo thế có lợi cho cuộc chiến là:",
         "a": "A. Mặt trận ngoại giao",
         "b": "B. Mặt trận chính trị",
         "c": "C. Mặt trận văn hóa",
         "d": "D. Mặt trận tư tưởng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "50. Các yếu tố tác động hình thànhnghệ thuật đánh giặc của ông cha ta:",
+        "question": "50. Các yếu tố tác động hình thành nghệ thuật đánh giặc của ông cha ta:",
         "a": "A. Đặc điểm thuận lợi về kinh tế, địa lý",
         "b": "B. Địa lý, chính trị đặc thù của đất nước ta",
         "c": "C. Địa lý, kinh tế, chính trị, văn hóa, xã hội",
         "d": "D. Điều kiện địa lý tự nhiên và văn hóa dân tộc",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "51. Chiến dịch Biên giới năm 1950 trongkháng chiến chống Pháp là loại hình:",
+        "question": "51. Chiến dịch Biên giới năm 1950 trong kháng chiến chống Pháp là loại hình:",
         "a": "A. Chiến dịch phòng ngự",
         "b": "B. Chiến dịch phản công",
         "c": "C. Chiến dịch tiến công",
         "d": "D. Chiến dịch tổng hợp",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "52. Cơ sở hình thành NTQS Việt Namtừ khi có Đảng:",
+        "question": "52. Cơ sở hình thành NTQS Việt Nam Từ khi có Đảng:",
         "a": "A. Tư tưởng Hồ Chí Minh, chủ nghĩa Mác-Lênin về chiến tranh, quân đội; kinh nghiệm chiến tranh thế giới, khu vực",
         "b": "B. Tư tưởng quân sự Hồ Chí Minh; vị trí địa lý thuận lợi; kinh tế - xã hội phát triển; văn hóa đa dạng, phong phú",
-        "c": "C. Truyền thống đoàn kết toàndân tộc; tinh thần kiên cường bất khuất của ông cha; CN Mác-Lêninvề chiến tranh,  BVTQ",
-        "d": "D. Truyền thống đánh giặc của ông cha; chủ nghĩa Mác-Lêninvề chiến tranh, quân đội và BVTQ;tư tưởng quân sự Hồ Chí Minh",
+        "c": "C. Truyền thống đoàn kết toàn dân tộc; tinh thần kiên cường bất khuất của ông cha; CN Mác-Lênin về chiến tranh,  BVTQ",
+        "d": "D. Truyền thống đánh giặc của ông cha; chủ nghĩa Mác-Lênin về chiến tranh, quân đội và BVTQ;tư tưởng quân sự Hồ Chí Minh",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "53. Chiến dịch Hồ Chí Minh kết thúc kháng chiến chống Mỹ và cũng là đỉnh cao của NTQS Việt Nam là loại hình:",
@@ -526,38 +526,38 @@
         "c": "C. Chiến dịch phòng ngự",
         "d": "D. Chiến dịch tổng hợp",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "54. Trong hai cuộc kháng chiến chống Pháp và chống Mỹ, ở những giai đoạn đầu, các chiến dịch diễn ra chủ yếu ở rừng núi, nhưng giai đoạn cuối đã:",
-        "a": "A. Được tiến hànhở thành phố",
-        "b": "B. Diễn ra ởcác vùng đồng bằng",
-        "c": "C. Diễn ra trêntất cả các địa hình",
-        "d": "D. Được thực hiệntất cả các vùng",
+        "a": "A. Được tiến hành ở thành phố",
+        "b": "B. Diễn ra ở các vùng đồng bằng",
+        "c": "C. Diễn ra trên tất cả các địa hình",
+        "d": "D. Được thực hiện tất cả các vùng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "55. Ngày 19/12/1946, Chủ tịch Hồ Chí Minh ralời kêu gọi toàn quốc kháng chiến, đây là thời điểmkhông thể lùi được nữa, thời điểm:",
+        "question": "55. Ngày 19/12/1946, Chủ tịch Hồ Chí Minh ra lời kêu gọi toàn quốc kháng chiến, đây là thời điểm không thể lùi được nữa, thời điểm:",
         "a": "A. Mở đầu cuộc trường chinh",
         "b": "B. Kêu gọi cả nước cùng ra trận",
         "c": "C. Mở đầu chiến tranh chống Pháp",
         "d": "D. Toàn quốc đứng lên cầm súng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "56. “CTND kết hợp giữa địa phương với cácbinh đoàn chủ lực, kết hợp chặt chẽ tiến công địch bằnghai lực lượng chính trị, quân sự”, là nội dung của:",
-        "a": "A. Phương thứctiến hành chiến tranh",
-        "b": "B. Tư tưởngtiến hành chiến tranh",
-        "c": "C. Phương châmtiến hành chiến tranh",
-        "d": "D. Phương pháptiến hành chiến tranh",
+        "question": "56. “CTND kết hợp giữa địa phương với các binh đoàn chủ lực, kết hợp chặt chẽ tiến công địch bằng hai lực lượng chính trị, quân sự”, là nội dung của:",
+        "a": "A. Phương thức tiến hành chiến tranh",
+        "b": "B. Tư tưởng tiến hành chiến tranh",
+        "c": "C. Phương châm tiến hành chiến tranh",
+        "d": "D. Phương pháp tiến hành chiến tranh",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "57. Một nội dung của chiến lược quân sự mang tính nghệ thuật cao trong chỉ đạo chiến tranh của Đảng ta:",
@@ -566,18 +566,18 @@
         "c": "C. Vận dụng các hình thức chiến thuật hợp lý",
         "d": "D. Phát triển cách đánh hiệp đồng binh chủng",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "58. Trong phương thức tiến hành chiến tranh,Đảng ta đã chỉ đạo:",
         "a": "A. Tiến công địch bằng hai lực lượng, bằng bốn mũi giáp công, trên năm vùng chiến lược",
         "b": "B. Tiến công địch bằng ba lực lượng, bằng hai mũi giáp công, trên cả các vùng chiến lược",
         "c": "C. Tiến công địch bằng hai lực lượng, bằng ba mũi giáp công, trên cả ba vùng chiến lược",
-        "d": "D. Tiến công địch bắng ba lực lượng, bằng ba mũi giáp công, trên cả bốn vùng chiến lược",
+        "d": "D. Tiến công địch bằng ba lực lượng, bằng ba mũi giáp công, trên cả bốn vùng chiến lược",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "59. Thời kỳ đầu của hai cuộc kháng chiến chống Pháp,chống Mỹ, các hình thức chiến thuật thường vận dụng  là:",
@@ -586,18 +586,18 @@
         "c": "C. Vận động tiến công, tập kích đánh úp",
         "d": "D. Phòng ngự, phục kích, phản kích",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "60. Một trong những bài học kinh nghiệm vềNTQS Việt Nam được vận dụng vào sự nghiệp BVTQ trong thời kỳ mới là:",
+        "question": "60. Một trong những bài học kinh nghiệm về NTQS Việt Nam được vận dụng vào sự nghiệp BVTQ trong thời kỳ mới là:",
         "a": "A. Tích cực phòng thủ, ngăn chặn tiêu diệt địch, bảo vệ mục tiêu",
         "b": "B. Tích cực phòng ngự, tiêu diệt địch, đánh bại địch tiến công",
         "c": "C. Kết hợp công kích tiêu diệt địch với bảo vệ vững chắc mục tiêu",
         "d": "D. Kết hợp tiêu hao, tiêu diệt địch với bảo vệ vững chắc mục tiêu",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "61. Trong chiến lược quân sự, Đảng ta đã chỉ đạo phương thức tiến hành chiến tranh là:",
@@ -606,8 +606,8 @@
         "c": "C. Kết hợp tác chiến của bộ đội chủ lực với các hoạt động của địa phương",
         "d": "D. Kết hợp chiến tranh du kích địa phương với tác chiến của bộ đội chủ lực",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "62. Cuộc kháng chiến chống quân xâm lược của Triệu Đà do An Dương Vương lãnh đạo thất bại vào những năm:",
@@ -616,18 +616,18 @@
         "c": "C. 184 đến 179 sau công nguyên",
         "d": "D. 194 đến 197 sau công nguyên",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "63. Kháng chiến chống quân xâm lược Mãn Thanhcủa triều đại Tây Sơn vào những năm:",
+        "question": "63. Kháng chiến chống quân xâm lược Mãn Thanh Của triều đại Tây Sơn vào những năm:",
         "a": "A. 1786 - 1788",
         "b": "B. 1784 - 1785",
         "c": "C. 1878 - 1879",
         "d": "D. 1788 - 1789",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "64. Chiến thuật hình thành, phát triển gắn liền với lịch sử xây dựng, chiến đấu và trưởng thành của quân đội ta, sự phát triển đó là kết quả chỉ đạo của:",
@@ -636,8 +636,8 @@
         "c": "C. Chiến lược, chiến dịch",
         "d": "D. Đường lối chiến tranh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "65. Giai đoạn cuối của hai cuộc kháng chiến chống Pháp, chống Mỹ, các hình thức chiến thuật mới xuất hiện là:",
@@ -646,8 +646,8 @@
         "c": "C. Tập kích, tiến công cứ điểm, bao vây kết hợp phòng ngự",
         "d": "D. Phòng ngự, truy kích, đánh địch đổ bộ đường không",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "66. Do yêu cầu của chiến lược và chiến dịch, là phải giữ vững vùng giải phóng nên chiến thuật phòng ngự xuất hiện trong hai cuộc kháng chiến chống Pháp, chống Mỹ vào:",
@@ -656,18 +656,18 @@
         "c": "C. Giai đoạn cuối",
         "d": "D. Giai đoạn mở đầu",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "67. “Trong lịch sử chống giặc ngoại xâm, ông cha ta đã đánh giá đúng kẻ thù, chủ động đề ra kế sách đánh, phòng, khẩn trương chuẩn bị lực lượng kháng chiến, tìm mọi biện pháp làm cho địch suy yếu, tạo ra thế và thời cơ có lợi để tiến hành phản công và tiến công”, tư tưởng đó thể hiện ông cha ta luôn:",
         "a": "A. Nắm vững tư tưởng tiến công",
-        "b": "B. Giành quyền tích cực, chủ đông",
+        "b": "B. Giành quyền tích cực, chủ động",
         "c": "C. Nắm vững tư tưởng phản công",
         "d": "D. Giành quyền tiến công, phản công",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "68. Trong nghệ thuật quân sự Việt Nam,một chiến dịch thường diễn ra:",
@@ -676,27 +676,30 @@
         "c": "C. Nhiều trận đánh cùng diễn ra đồng thời",
         "d": "D. Nhiều trận đánh, có trận đánh then chốt",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "69. Nội dung của chiến thuật làvận dụng các hình thức chiến thuật:",
+        "question": "69. Nội dung của chiến thuật là vận dụng các hình thức chiến thuật:",
         "a": "A. Thực hiện trong các chiến dịch",
         "b": "B. Vào trong các trận chiến đấu",
         "c": "C. Vào các điều kiện tình hình địch",
         "d": "D. Tiến hành hoạt động tác chiến",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "70. Ngày xưa, hễ kẻ thù đụng đến nước ta thì “vua tôi đồng lòng,anh em hòa mục, cả nước chung sức, trăm họ là binh” giữ vữngquê hương, điều đó thể hiện rõ ông cha ta đã thực hiện:",
+        "question": "70. Ngày xưa, hễ kẻ thù đụng đến nước ta thì “vua tôi đồng lòng,anh em hòa mục, cả nước chung sức, trăm họ là binh” giữ vững quê hương, điều đó thể hiện rõ ông cha ta đã thực hiện:",
         "a": "A. Nghệ thuật chiến tranh nhân dân, thực hiện toàn dân đánh giặc",
         "b": "B. Tinh thần đoàn kết, cả nước một lòng chống giặc ngoại xâm",
         "c": "C. Nghệ thuật chiến tranh nhân dân, kêu gọi toàn dân đánh giặc",
         "d": "D. Nghệ thuật xây dựng Lực lượng tiến hành chiến tranh nhân dân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+

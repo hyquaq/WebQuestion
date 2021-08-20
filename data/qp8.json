@@ -6,8 +6,8 @@
         "c": "C. Phạm vi giới hạn thuộc chủ quyền hoàn toàn và đầy đủ của quốc gia",
         "d": "D. Phạm vi giới hạn một phần của trái đất thuộc chủ quyền quốc gia",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "2. Lãnh hải của Việt Nam là vùng biển:",
@@ -16,8 +16,8 @@
         "c": "C. Có chiều rộng 12 hải lý tính từ đường cơ sở",
         "d": "D. Nằm ngoài nội thủy có chiều rộng 24 hải lý",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "3. Nội thủy của lãnh thổ quốc gia Việt Nam là vùng biển:",
@@ -26,8 +26,8 @@
         "c": "C. Thuộc lãnh hải và tiếp giáp lãnh hải",
         "d": "D. Được giới hạn bởi đường biên giới trên biển",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "4. Xây dựng và bảo vệ biên giới quốc gia là một nội dung của xây dựng và bảo vệ chủ quyền:",
@@ -36,38 +36,38 @@
         "c": "C. Dân tộc thống nhất",
         "d": "D. Độc lập dân tộc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "5. Biên giới quốc gia Việt Namtrên đất liền là đường phân định:",
+        "question": "5. Biên giới quốc gia Việt Nam Trên đất liền là đường phân định:",
         "a": "A. Phạm vi lãnh thổ quốc gia Việt Nam với quốc gia khác",
         "b": "B. Phạm vi vùng đất quốc gia Việt Nam với quốc gia khác",
         "c": "C. Ranh giới lãnh thổ quốc gia Việt Nam với quốc gia khác",
         "d": "D. Lãnh thổ trên bề mặt đất liền của vùng đất quốc gia Việt Nam",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "6. Biên giới quốc gia Việt Nambao gồm biên giới quốc gia:",
+        "question": "6. Biên giới quốc gia Việt Nam Bao gồm biên giới quốc gia:",
         "a": "A. Trên mặt đất, trong lòng đất, trên mặt biển và dưới lòng đất",
         "b": "B. Trong đất liền, trên biển và trên lãnh thổ quốc gia đặc biệt",
         "c": "C. Trên đất liền, trên không, trên biển và trong lòng đất",
         "d": "D. Trong lòng đất, trên đất liền, trên các đảo và các quần đảo .",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "7. Vùng đặc quyền kinh tế của Việt Namlà vùng biển có chiều rộng:",
+        "question": "7. Vùng đặc quyền kinh tế của Việt Nam Là vùng biển có chiều rộng:",
         "a": "A. 200 hải lý tính từ đường cơ sở",
         "b": "B. 350 hải lý tính từ lãnh hải",
         "c": "C. 200 hải lý tính từ biên giới trên biển",
         "d": "D. 350 hải lý tính từ đường cơ sở",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "8. Nội thủy và lãnh hải là:",
@@ -76,8 +76,8 @@
         "c": "C. Lãnh thổ của quốc gia trên biển",
         "d": "D. Lãnh vực của quốc gia trên biển",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "9. Tiếp giáp lãnh hải, đặc quyền kinh tế,thềm lục địa là ba vùng biển thuộc:",
@@ -86,8 +86,8 @@
         "c": "C. Quyền quản lý và quyền tài phán của quốc gia",
         "d": "D. Quyền chủ quyền và quyền tài phán của quốc gia",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "10. Quần đảo Hoàng Sa là huyện đảo thuộc:",
@@ -96,28 +96,28 @@
         "c": "C. Tỉnh Quảng Ngãi",
         "d": "D. Tỉnh Khánh Hòa",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "11. Biên giới quốc gia trên biển của Việt Namlà ranh giới phía ngoài của:",
+        "question": "11. Biên giới quốc gia trên biển của Việt Nam Là ranh giới phía ngoài của:",
         "a": "A. Lãnh hải Việt Nam",
         "b": "B. Vùng tiếp giáp lãnh hải",
         "c": "C. Vùng đặc quyền kinh tế",
         "d": "D. Vùng thềm lục địa Việt Nam",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "12. Vùng nước nội thủy của Việt Namcó chế độ pháp lý như:",
+        "question": "12. Vùng nước nội thủy của Việt Nam Có chế độ pháp lý như:",
         "a": "A. Vùng thềm lục địa",
         "b": "B. Các vùng biển khác",
         "c": "C. Lãnh hải trên biển",
         "d": "D. Lãnh thổ trên đất liền",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "13. Vùng biển thuộc chủ quyền của Việt Nam là:",
@@ -126,28 +126,28 @@
         "c": "C. Vùng nội thủy và vùng lãnh hải",
         "d": "D. Vùng lãnh hải và vùng thềm lục địa",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "14. Biên giới quốc gia Việt Namtrên đất liền được đánh dấu bằng:",
+        "question": "14. Biên giới quốc gia Việt Nam Trên đất liền được đánh dấu bằng:",
         "a": "A. Các thỏa thuận với các nước láng giềng",
         "b": "B. Hệ thống các tọa độ trên bản đồ quốc gia",
         "c": "C. Hệ thống các mốc quốc giới trên thực địa",
         "d": "D. Các hiệp ước với các quốc gia liền kề",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "15. Lực lượng nòng cốt trong bảo vệchủ quyền lãnh thổ, biên giới quốc gia là:",
+        "question": "15. Lực lượng nòng cốt trong bảo vệ chủ quyền lãnh thổ, biên giới quốc gia là:",
         "a": "A. Lực lượng vũ trang",
         "b": "B. Lực lượng quân đội",
         "c": "C. Lực lượng an ninh",
         "d": "D. Lực lượng dân quân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "16. Vùng biển thuộc quyền chủ quyền Việt Nam là:",
@@ -156,8 +156,8 @@
         "c": "C. Vùng thềm lục địa, vùng tiếp giáp lãnh hải",
         "d": "D. Vùng đặc quyền kinh tế, vùng thềm lục địa",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "17. Đảo Phú Quý thuộc địa phận tỉnh:",
@@ -166,18 +166,18 @@
         "c": "C. Bà Rịa - Vũng Tàu",
         "d": "D. Kiên Giang",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "18. Lực lượng chuyên trách và làm nòng cốt trongbảo vệ biên giới quốc gia là:",
+        "question": "18. Lực lượng chuyên trách và làm nòng cốt trong bảo vệ biên giới quốc gia là:",
         "a": "A. Bộ đội biên phòng",
         "b": "B. Bộ đội địa phương",
         "c": "C. Dân quân tự vệ",
         "d": "D. Bộ đội chủ lực",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. Biên giới quốc gia của Việt Nam trong lòng đất được xác định bằng:",
@@ -186,18 +186,18 @@
         "c": "C. Mặt phẳng thẳng đứng theo lãnh thổ quốc gia Việt Nam cắm sâu vào lòng đất",
         "d": "D. Hệ thống mặt phẳng thẳng đứng theo lãnh thổ Việt Nam",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "20. Biên giới quốc gia trên biển của Việt Namđược hoạch định và:",
+        "question": "20. Biên giới quốc gia trên biển của Việt Nam Được hoạch định và:",
         "a": "A. Ghi chú bằng các tọa độ trên hải đồ",
         "b": "B. Đánh dấu bằng các tọa độ trên hải đồ",
         "c": "C. Đánh dấu bằng các tọa độ trên bản đồ",
         "d": "D. Chú thích bằng các tọa độ trên bản đồ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "21. Một trong những quan điểm của Đảng về xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia là:",
@@ -206,8 +206,8 @@
         "c": "C. Chủ quyền lãnh thổ, biên giới quốc gia là yếu tố cơ bản nhất cho sự nghiệp xây dựng và bảo vệ TQ",
         "d": "D. Chủ quyền lãnh thổ, biên giới quốc gia là thiêng liêng bất khả xâm phạm của dân tộc Việt Nam",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "22. Quần đảo Trường Sa là huyện đảo thuộc tỉnh:",
@@ -216,8 +216,8 @@
         "c": "C. Khánh Hòa",
         "d": "D. Bà Rịa - Vũng Tàu",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "23. Bảo vệ chủ quyền biển đảo quốc gia là:",
@@ -226,48 +226,48 @@
         "c": "C. Sử dụng tổng hợp các lực lượng vũ trang  đánh bại mọi hành động phá hoại, xâm lược của kẻ thù",
         "d": "D. Sử dụng mọi lực lượng, phương tiện, đấu tranh toàn diện chống lại mọi kẻ thù xâm lược",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "24. Một trong những nội dung xây dựng và bảo vệchủ quyền biển, đảo quốc gia là:",
+        "question": "24. Một trong những nội dung xây dựng và bảo vệ chủ quyền biển, đảo quốc gia là:",
         "a": "A. Xây dựng nền quốc phòng toàn dân, an ninh nhân dân bảo vệ biển, đảo",
         "b": "B. Hoàn thiện thiết chế quản lý, bảo vệ lợi ích quốc gia trên biển, đảo",
         "c": "C. Hoàn thiện cơ chế quản lý, kết hợp với quốc phòng - an ninh",
         "d": "D. Kết hợp phát triển kinh tế với đấu tranh bảo vệ lợi ích trên biển, đảo",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "25. Xây dựng và bảo vệ chủ quyềnbiển, đảo quốc gia là phải:",
+        "question": "25. Xây dựng và bảo vệ chủ quyền biển, đảo quốc gia là phải:",
         "a": "A. Tăng cường và củng cố QP, AN bảo vệ vững chắc chủ quyền biển, đảo",
         "b": "B. Bảo vệ Đảng, bảo vệ chế độ XHCN và bảo vệ ND trên các vùng biển, hải đảo",
         "c": "C. Tăng cường lực lượng bảo vệ sự nghiệp đổi mới, CNH, HĐH trên biển, đảo",
         "d": "D. Bảo vệ thống nhất biển, đảo, kết hợp chặt chẽ giữa kinh tế với đối ngoại trên biển",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "26. Làm tốt nhiệm vụ xây dựng và bảo vệchủ quyền biển, đảo quốc gia là:",
+        "question": "26. Làm tốt nhiệm vụ xây dựng và bảo vệ chủ quyền biển, đảo quốc gia là:",
         "a": "A. Trực tiếp bảo vệ Tổ quốc, bảo vệ chế độ xã hội chủ nghĩa ở Việt Nam",
         "b": "B. Thực hiện tốt hai nhiệm vụ chiến lược của cách mạng Việt Nam",
         "c": "C. Trực tiếp góp phần xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
         "d": "D. Thực hiện kết hợp phát triển kinh tế - xã hội với tăng cường QP, AN",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "27. Khu vực biên giới trên đất liền của Việt Nam gồm:",
         "a": "A. Các xã, phường, thị trấn có địa giới hành chính tiếp giáp với đường biên giới quốc gia trên đất liền",
         "b": "B. Các xã, phường, thị trấn có một phần địa giới hành chính trùng với biên giới quốc gia trên đất liền",
-        "c": "C. Khu vực thuộc các xã, phường, thị trấn có chiều rộng 10 km tính từ  đường biên giới QG trên đất liền",
-        "d": "D. Khu vực các xã, phườngthị trấn có địa giới hành chính nằm liền kề đường biên giới quốc gia trên đất liền",
+        "c": "C. Khu vực thuộc các xã, phường, thị trấn có chiều rộng 10km tính từ  đường biên giới QG trên đất liền",
+        "d": "D. Khu vực các xã, phường thị trấn có địa giới hành chính nằm liền kề đường biên giới quốc gia trên đất liền",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "28. Xây dựng và bảo vệ biên giới quốc gia là:",
@@ -276,8 +276,8 @@
         "c": "C. Thực hiện tổng thể các chủ trương chính sách của Đảng, pháp luật của Nhà nước trên tất cả mọi lĩnh vực trên khu vực biên giới",
         "d": "D. Thực hiện tổng thể mọi hoạt động trên các lĩnh vực kinh tế, chính trị, văn hóa, xã hội, đối ngoại, QP, AN trên khu vực biên giới",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "29. Biên giới quốc gia của Việt Nam là:",
@@ -286,28 +286,28 @@
         "c": "C. Hệ thống các tọa độ được xác định",
         "d": "D. Hệ thống các đường và mặt phẳng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "30. Theo Luật Biên giới quốc gia của nướcCHXHCN Việt nam thì “xây dựng, quản lý, bảo vệbiên giới quốc gia, khu vực biên giới” là:",
+        "question": "30. Theo Luật Biên giới quốc gia của nước CHXHCN Việt nam thì “xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới” là:",
         "a": "A. Sự nghiệp của cả hệ thống chính trị do Nhà nước quản lý",
         "b": "B. Sự nghiệp của cả đất nước do Đảng thống nhất lãnh đạo",
         "c": "C. Sự nghiệp của cả dân tộc do nhân dân thống nhất làm chủ",
         "d": "D. Sự nghiệp của toàn dân do Nhà nước thống nhất quản lý",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "31. Một trong những nội dung xây dựng và\u000bbảo vệ biên giới quốc gia là tăng cường:",
+        "question": "31. Một trong những nội dung xây dựng và bảo vệ biên giới quốc gia là tăng cường:",
         "a": "A. Mở rộng phát triển kinh tế, quốc phòng, an ninh với các nước láng giềng",
         "b": "B. Hợp tác với các nước trên thế giới vì hòa bình,ổn định và phát triển",
         "c": "C. Mở rộng quan hệ đối ngoại các cấp trên khu vực biên giới",
         "d": "D. Hợp tác chiến lược, ổn định lâu dài với các nước láng giềng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "32. Xây dựng và bảo vệ biên giới quốc gia là phải:",
@@ -316,28 +316,28 @@
         "c": "C. Phối hợp chặt chẽ giữa chống giặc ngoài và dẹp thù trong để bảo vệ Tổ quốc",
         "d": "D. Phối hợp đấu tranh quân sự với bảo đảm an ninh chính trị, trật tự an toàn xã hội.",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "33. Một trong những nội dung xây dựngvà bảo vệ biên giới quốc gia là:",
+        "question": "33. Một trong những nội dung xây dựng và bảo vệ biên giới quốc gia là:",
         "a": "A. Bảo vệ an ninh các cửa khẩu biên giới",
         "b": "B. Bảo vệ an ninh các cột mốc biên giới",
         "c": "C. Bảo vệ an ninh quốc gia trên khu vực biên giới",
         "d": "D. Bảo vệ an ninh các đồn Biên phòng trên biên giới",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "34. “Xây dựng, quản lý, bảo vệ biên giới quốc gia,khu vực biên giới là sự nghiệp của toàn dân do NNthống nhất quản lý” được quy định trong:",
+        "question": "34. “Xây dựng, quản lý, bảo vệ biên giới quốc gia,khu vực biên giới là sự nghiệp của toàn dân do NN thống nhất quản lý” được quy định trong:",
         "a": "A. Luật An ninh",
         "b": "B. Luật Quốc phòng",
         "c": "C. Luật Nghĩa vụ quân sự",
         "d": "D. Luật Biên giới",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "35. “Giữ gìn an ninh chính trị, trật tự an toàn xã hội ở khu vực biên giới” là một trong những nội dung của:",
@@ -346,8 +346,8 @@
         "c": "C. Xây dựng và bảo vệ Tổ quốc",
         "d": "D. Xây dựng và bảo vệ khu vực biên giới",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "36. “Bảo vệ tài nguyên, môi sinh, môi trường”là một trong những nội dung của:",
@@ -356,8 +356,8 @@
         "c": "C. Xây dựng và bảo vệ lãnh thổ quốc gia",
         "d": "D. Xây dựng và bảo vệ chủ quyền dân tộc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "37. Sinh viên cần nhận thức sâu sắc ý nghĩa, tầm quan trọng của xây dựng và bảo vệ chủ quyền biển, đảo, biên giới quốc gia để:",
@@ -366,28 +366,28 @@
         "c": "C. Nâng cao hiểu biết về mọi mặt",
         "d": "D. Nâng cao ý thức, trách nhiệm công dân",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "38. Khu vực có chiều rộng 10 km tính từbiên giới quốc gia vào phía trong lãnh thổ là:",
+        "question": "38. Khu vực có chiều rộng 10km tính từ biên giới quốc gia vào phía trong lãnh thổ là:",
         "a": "A. Vùng biên giới trên biển",
         "b": "B. Khu vực biên giới trên bộ",
         "c": "C. Khu vực biên giới trên không",
         "d": "D. Vùng biên giới trên đất liền",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "39. “Củng cố, tăng cường quan hệ quốc tế, tạo dựng môitrường quốc tế thuận lợi hỗ trợ cho công cuộc xây dựng và bảovệ chủ quyền biển, đảo” là một trong những nội dung của:",
+        "question": "39. “Củng cố, tăng cường quan hệ quốc tế, tạo dựng môi trường quốc tế thuận lợi hỗ trợ cho công cuộc xây dựng và bảo vệ chủ quyền biển, đảo” là một trong những nội dung của:",
         "a": "A. Xây dựng phát triển biển, đảo vững mạnh toàn diện",
         "b": "B. Quan hệ đối ngoại trong bảo vệ chủ quyền biển, đảo",
         "c": "C. Xây dựng và bảo vệ chủ quyền biển, đảo quốc gia",
         "d": "D. Quan hệ quốc tế để xây dựng và bảo vệ biển, đảo",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "40. Biển, đảo quốc gia Việt Nam là:",
@@ -396,18 +396,18 @@
         "c": "C. Một thực thể quan trọng của quốc gia Việt Nam",
         "d": "D. Một bộ phận quan trọng của Nhà nước Việt Nam",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "41. Vùng thềm lục địa thuộc biển Việt Namcó chế độ pháp lý như:",
+        "question": "41. Vùng thềm lục địa thuộc biển Việt Nam Có chế độ pháp lý như:",
         "a": "A. Vùng lãnh hải",
         "b": "B. Vùng đất trên đảo và quần đảo",
         "c": "C. Trên đất liền",
         "d": "D. Vùng đặc quyền kinh tế",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "42. Tỉnh có một phần địa giới hành chính trùng với đường biên giới Việt Nam - Trung Quốc là:",
@@ -416,38 +416,38 @@
         "c": "C. Hòa Bình",
         "d": "D. Tuyên Quang",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "43. Huyện đảo Trường Sa hiệncó các đơn vị hành chính:",
+        "question": "43. Huyện đảo Trường Sa hiện có các đơn vị hành chính:",
         "a": "A. Thị trấn Trường Sa, xã sinh Tồn và xã Sơn Ca",
         "b": "B. Thị trấn Trường Sa, xã Nam Yết và xã Sinh Tồn",
         "c": "C. Thị trấn Trường Sa, xã Sinh Tồn và xã Song Tử Tây",
         "d": "D. Thị trấn Trường Sa, xã Song Tử Tây và xã Sơn Ca",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "44. Ở Việt Nam, các xã, phường, thị trấn cómột phần địa giới hành chính trùng với đường biêngiới quốc gia trên đất liền, được xác định là:",
+        "question": "44. Ở Việt Nam, các xã, phường, thị trấn có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền, được xác định là:",
         "a": "A. Khu vực biên giới trên đất liền",
         "b": "B. Vùng biên giới trên bộ",
         "c": "C. Khu vực biên giới đặc biệt",
         "d": "D. Vùng biên giới trên đất liền",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "45. Tỉnh có một phần địa giới hành chínhtrùng với đường biên giới Việt Nam - Lào là:",
+        "question": "45. Tỉnh có một phần địa giới hành chính trùng với đường biên giới Việt Nam - Lào là:",
         "a": "A. Bình Định",
         "b": "B. Quảng Ninh",
         "c": "C. Quảng Trị",
         "d": "D. Quảng Ngãi",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "46. Tỉnh có một phần địa giới hành chính trùng với đường biên giới Việt Nam - Căm pu chia là:",
@@ -456,48 +456,48 @@
         "c": "C. Hậu Giang",
         "d": "D. Bắc Giang",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "47. Biên giới quốc gia của nướcCộng hòa XHCN Việt Nam là:",
+        "question": "47. Biên giới quốc gia của nước Cộng hòa XHCN Việt Nam là:",
         "a": "A. Chủ quyền, độc lập, tự do",
         "b": "B. Khẳng định chủ quyền đất nước",
         "c": "C. Tối cao, bất khả xâm phạm",
         "d": "D. Thiêng liêng, bất khả xâm phạm",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "48. Huyện Côn Đảolà đơn vị hành chính thuộc tỉnh:",
+        "question": "48. Huyện Côn Đảo Là đơn vị hành chính thuộc tỉnh:",
         "a": "A. Bình Thuận",
         "b": "B. Tiền Giang",
         "c": "C. Bà Rịa - Vũng Tàu",
         "d": "D. Cần Thơ",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "49. Xây dựng biên giới hòa bình, hữu nghị ổn địnhtrong sự nghiệp xây dựng và bảo vệ Tổ quốc là:",
-        "a": "A. Vấn đềđặc biệt quan trọng",
+        "question": "49. Xây dựng biên giới hòa bình, hữu nghị ổn định trong sự nghiệp xây dựng và bảo vệ Tổ quốc là:",
+        "a": "A. Vấn đề đặc biệt quan trọng",
         "b": "B. Chính sáchđặc biệt quan trọng",
-        "c": "C. Vấn đềđặc biệt quan tâm",
-        "d": "D. Nội dungrất quan trọng",
+        "c": "C. Vấn đề đặc biệt quan tâm",
+        "d": "D. Nội dung rất quan trọng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "50. Mọi công dân nước CHXHCN Việt Namkhông phân biệt thành phần xã hội, dân tộc, tín ngưỡngtôn giáo, trình độ văn hóa, nơi cư trú, phải có:",
+        "question": "50. Mọi công dân nước CHXHCN Việt Nam Không phân biệt thành phần xã hội, dân tộc, tín ngưỡng tôn giáo, trình độ văn hóa, nơi cư trú, phải có:",
         "a": "A. Tinh thần dân tộc phát huy truyền thống bảo vệ lãnh thổ, biên giới quốc gia",
-        "b": "B. Nghĩa vụ, trách nhiệm xây dựng và bảo vệ chủ quyềnbiển, đảo, biên giới quốc gia",
+        "b": "B. Nghĩa vụ, trách nhiệm xây dựng và bảo vệ chủ quyền biển, đảo, biên giới quốc gia",
         "c": "C. Trách nhiệm với ông cha ta bảo vệ chủ quyền biển, đảo, biên giới quốc gia",
         "d": "D. Nhiệm vụ cao cả đối với sự nghiệp bảo vệ lãnh thổ, biên giới quốc gia",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "51. Về vấn đề tranh chấp chủ quyền ở Biển Đông,vì lợi ích an ninh chung của các bên hữu quan,Việt Nam sẵn sàng:",
@@ -506,8 +506,8 @@
         "c": "C. Đàm phán hòa bình để giải quyết",
         "d": "D. Đối thoại song phương để giải quyết",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "52. Đặc trưng chính trị và tính pháp lý thiết yếu của một quốc gia độc lập, được thể hiện trong:",
@@ -516,18 +516,18 @@
         "c": "C. Hoạt động kiểm soát của các cơ quan nhà nước theo quy định quốc tế",
         "d": "D. Hoạt động của các cơ quan nhà nước và trong hệ thống pháp luật quốc gia",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "53. Quan điểm xây dựng biên giớihòa bình hữu nghị, ổn định là:",
+        "question": "53. Quan điểm xây dựng biên giới hòa bình hữu nghị, ổn định là:",
         "a": "A. Yêu cầu chiến lược lâu dài của cách mạng Việt Nam",
         "b": "B. Vấn đề đặc biệt quan trọng của sự nghiệp xây dựng và bảo vệ Tổ quốc",
         "c": "C. Vấn đề sống còn của sự nghiệp công nghiệp hóa, HĐ hóa đất nước",
         "d": "D. Nội dung cốt lõi trong đường lối cách mạng Việt Nam",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "54. Quan điểm của Đảng và Nhà nước ta trong giải quyết các vấn đề tranh chấp biển, đảo, biên giới là:",
@@ -536,48 +536,48 @@
         "c": "C. Thông qua đàm phán hòa bình, tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và lợi ích chính đáng của nhau",
         "d": "D. Thông qua thương lượng cấp nhà nước giữa các bên, bằng đàm phán hòa bình và diễn đàn QT",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "55. Việt Nam có đường biên giới quốc giatrên đất liền dài:",
+        "question": "55. Việt Nam có đường biên giới quốc gia trên đất liền dài:",
         "a": "A. 4505 km",
         "b": "B. 4550 km",
         "c": "C. 5450 km",
         "d": "D. 5405 km",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "56. Việt Nam có đường biến giớitiếp giáp với Trung Quốc dài:",
+        "question": "56. Việt Nam có đường biên giới tiếp giáp với Trung Quốc dài:",
         "a": "A. 1350 km",
         "b": "B. 1530 km",
         "c": "C. 1503 km",
         "d": "D. 1305 km",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "57. Việt Nam có đường biến giớitiếp giáp với Lào dài:",
+        "question": "57. Việt Nam có đường biên giới tiếp giáp với Lào dài:",
         "a": "A. 2076  km",
         "b": "B. 2607 km",
         "c": "C. 2670 km",
         "d": "D. 2067 km",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "58. Việt Nam có đường biến giớitiếp giáp với Campuchia dài:",
+        "question": "58. Việt Nam có đường biên giới tiếp giáp với Campuchia dài:",
         "a": "A. 1317 km",
         "b": "B. 1137 km",
         "c": "C. 1371 km",
         "d": "D. 1173 km",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "59. Đảo Thổ Chu thuộc địa phận tỉnh:",
@@ -586,17 +586,20 @@
         "c": "C. Kiên Giang",
         "d": "D. Cà Mau",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "60. Điểm cuối cùng của đường cơ sởvùng biển Việt Nam là:",
+        "question": "60. Điểm cuối cùng của đường cơ sở vùng biển Việt Nam là:",
         "a": "A. Đảo Bạch Long Vĩ",
         "b": "B. Đảo Lý Sơn",
         "c": "C. Đảo Hòn Mê",
         "d": "D. Đảo Cồn Cỏ",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+

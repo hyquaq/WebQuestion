@@ -6,8 +6,8 @@
         "c": "C. Phong trào vì an ninh, trật tự Tổ quốc",
         "d": "D. Phong trào giữ gìn trật tự, an toàn xã hội",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "2. Một trong những vị trí, tác dụng của phong trào toàn dân bảo vệ an ninh Tổ quốc là:",
@@ -16,28 +16,28 @@
         "c": "C. Một nội dung quan trọng trong bảo vệ an ninh quốc  gia và trật tự, an toàn xã hội trong cả nước",
         "d": "D. Một thành phần không thể thiếu trong phong trào cách mạng XHCN",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "3. Mục đích của phong tràotoàn dân bảo vệ an ninh Tổ quốc là:",
-        "a": "A. Giúp cho công an có điều kiện triển khai sâu rộng công tác nghiệp vụphòng chống tội phạm",
+        "question": "3. Mục đích của phong trào toàn dân bảo vệ an ninh Tổ quốc là:",
+        "a": "A. Giúp cho công an có điều kiện triển khai sâu rộng công tác nghiệp vụ phòng chống tội phạm",
         "b": "B. Huy động sức mạnh  của nhân dân để phòng ngừa phát hiện, ngăn chặn, đấu tranh với các loại tội phạm",
         "c": "C. Trực tiếp phòng ngừa, đấu tranh chống tội phạm, ngăn chặn các tệ nạn XH",
         "d": "D. Huy động sức mạnh của các tổ chức chính trị - xã hội để phòng chống tội phạm",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "4. Xây dựng điển hình và nhân điển hình tiên tiến là nội dung của:",
         "a": "A. Phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc",
-        "b": "B. Nhiệm vụ của quần chung nhân dân trong bảo vệ an ninh Tổ quốc",
+        "b": "B. Nhiệm vụ của quần chúng nhân dân trong bảo vệ an ninh Tổ quốc",
         "c": "C. Đặc điểm xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc",
         "d": "D. Mục đích của phong trào đoàn kết nhân dân bảo vệ an ninh Tổ quốc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "5. Thực hiện nhiệm vụ bảo vệ an ninh Tổ quốc lực lượng công an có hạn, không thể dựa vào chuyên môn mà phải cần đến:",
@@ -46,8 +46,8 @@
         "c": "C. Tai mắt của nhân dân",
         "d": "D. Sự hiện diện của nhân dân",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "6. Phong trào toàn dân bảo vệ an ninh Tổ quốc luôn:",
@@ -56,28 +56,28 @@
         "c": "C. Giữ vị trí chủ yếu trong bảo vệ an ninh Tổ quốc",
         "d": "D. Có ý nghĩa quyết định trong bảo vệ an ninh quốc gia",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "7. “Vận động toàn dân tích cực tham gia chương trình quốc gia phòng chống tội phạm” là một trong những nội dung cơ bản của:",
         "a": "A. Công tác vận động quần chúng của các cấp,các ngành",
-        "b": "B. Công tác vận động quần chúng nâng caotinh thần cảnh giác CM",
+        "b": "B. Công tác vận động quần chúng nâng cao tinh thần cảnh giác CM",
         "c": "C. Công tác tuyên truyền của lực lượng công an nhân dân",
         "d": "D. Công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "8. Một trong những nội dung cơ bản của công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc là:",
-        "a": "A. Phối hợp chặt chẽ với các phong trào thi đua khen thưởng củacác ngành, các cấp từ trung ương tớiđịa phương trong phạm vi cả nước",
+        "a": "A. Phối hợp chặt chẽ với các phong trào thi đua khen thưởng của các ngành, các cấp từ trung ương tới địa phương trong phạm vi cả nước",
         "b": "B. Mở rộng liên kết phối hợp chặt chẽ với các tổ chức, cơ quan, đơn vị trong phong trào thi đua ở địa phương",
-        "c": "C. Xây dựng và mở rộng liên kết phối hợp chặt chẽ với các ngành, cácđoàn thể quần chúng, các tổ chức CT-XHtrong các phong trào của địa phương",
-        "d": "D. Xây dựng và duy trì liên kết chặt chẽ với các ngành, các tổ chứcquần chúng trong các phong trào của các bộ, ngành",
+        "c": "C. Xây dựng và mở rộng liên kết phối hợp chặt chẽ với các ngành, các đoàn thể quần chúng, các tổ chức CT-XH trong các phong trào của địa phương",
+        "d": "D. Xây dựng và duy trì liên kết chặt chẽ với các ngành, các tổ chức quần chúng trong các phong trào của các bộ, ngành",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "9. “Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng tại cơ sở vững mạnh” là một trong những nội dung cơ bản của:",
@@ -86,28 +86,28 @@
         "c": "C. Công tác bảo vệ an ninh Tổ quốc ở cơ sở",
         "d": "D. Công tác giữ gìn trật tự, an toàn xã hội",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "10. Một trong những vị trí, tác dụng của phong trào toàn dân bảo vệ an ninh Tổ quốc là:",
         "a": "A. Một hình thức quan trọng trong bảo vệ an ninh quốc gia và trật tự, an toàn xã hội trong cả nước, từng địa phương",
         "b": "B. Một bộ phận liên quan chặt chẽ, gắn bó với nhiệm vụ bảo vệ an ninh quốc gia và trật tự an toàn xã hội",
         "c": "C. Một thành phần không thể thiếu trong phong trào cách mạng XHCN để bảo vệ an ninh Tổ quốc",
-        "d": "D. Là hình thức cơ bản để tập hợp thu hút đông đảo quần chúng phát huy quyền làm chủ của QCNDtham gia bảo vệ ANTT",
+        "d": "D. Là hình thức cơ bản để tập hợp thu hút đông đảo quần chúng phát huy quyền làm chủ của QCND tham gia bảo vệ ANTT",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "11. Một trong những nội dung cơ bản của công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc là:",
         "a": "A. Vận động nhân dân xây dựng khu dân cư văn hóa,giữ gìn TTAT xã hội",
-        "b": "B. Nắm tình hình, xây dựng kế hoạch phát động phongtrào toàn dân bảo vệ  ANTQ",
+        "b": "B. Nắm tình hình, xây dựng kế hoạch phát động phong trào toàn dân bảo vệ  ANTQ",
         "c": "C. Vận động toàn dân tích cực tham gia chương trình quốc gia phòng chống tội phạm",
         "d": "D. Nắm tình hình và vận động toàn dân tích cực tham gia phong trào bảo vệ ANTT",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "12. QCND đông đảo là nền tảng, là chỗ dựa vững chắc để tổ chức xây dựng nền ANND là nội dung của :",
@@ -116,18 +116,18 @@
         "c": "C. Vai trò của quần chúng nhân dân trong BVTQ",
         "d": "D. Hiệu quả của quần chúng nhân dân trong BVTQ",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "13. Trong phương pháp xây dựng phong tràotoàn dân bảo vệ an ninh Tổ quốc, trước tiên phải:",
+        "question": "13. Trong phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc, trước tiên phải:",
         "a": "A. Xác định cách thức thực hiện",
         "b": "B. Xây dựng chương trình hoạt động",
         "c": "C. Tuyên truyền cho mọi người",
         "d": "D. Điều tra nghiên cứu tình hình",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "14. “Ngày hội toàn dân bảo vệ an ninh Tổ quốc”ở nước ta là ngày:",
@@ -136,8 +136,8 @@
         "c": "C. 19 tháng 5",
         "d": "D. 23 tháng 9",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "15. “Tuyên truyền, giáo dục và hướng dẫn quần chúng nhân dân thực hiện nhiệm vụ bảo vệ an ninh trật tự” là một trong những nội dung của:",
@@ -146,8 +146,8 @@
         "c": "C. Nhiệm vụ của phong Trào toàn dân bảo vệ an ninh Tổ quốc",
         "d": "D. Biện pháp của phong trào toàn dân bảo vệ an ninh Tổ quốc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "16. Đội Cờ đỏ là tổ chức quần chúng nòng cốt làm nhiệm vụ an ninh trật tự trong nhà trường là một tổ chức quần chúng có chức năng:",
@@ -156,18 +156,18 @@
         "c": "C. Thực hành",
         "d": "D. Điều hành",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "17. Một trong những nội dung cơ bản của công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc là:",
         "a": "A. Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng tại cơ sở vững mạnh",
-        "b": "B. Tuyên truyền giáo dục và hướng dẫn quần chúng nhândân thực hiện nhiệm vụ bảo vệ an ninh trật tự",
+        "b": "B. Tuyên truyền giáo dục và hướng dẫn quần chúng nhân dân thực hiện nhiệm vụ bảo vệ an ninh trật tự",
         "c": "C. Xây dựng kế hoạch cụ thể, triển khai tuyên truyền, giáo dục cho toàn dân tự giác tham gia phong trào",
         "d": "D. Tuyên truyền giáo dục và hướng dẫn nhân dân xây dựng đời sống văn hóa tại khu dân cư",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "18. Trong xây dựng các tổ chức, lực lượng quần chúng nòng cốt làm hạt nhân để xây dựng phong trào toàn dân bảo vệ ANTQ, Hội đồng an ninh trật tự cơ sở là tổ chức:",
@@ -176,8 +176,8 @@
         "c": "C. Có chức năng kiểm tra",
         "d": "D. Có trách nhiệm theo dõi",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. Để huy động được sức mạnh của toàn dân tham gia nhiệm vụ bảo vệ an ninh trật tự trong quá trình xây dựng phong trào, cần phải có sự phối, kết hợp chặt chẽ giữa:",
@@ -186,8 +186,8 @@
         "c": "C. Công an với quân đội, các tổ chức quần chúng nhân dân trên địa bàn",
         "d": "D. Các tầng lớp nhân dân, các lực lượng vũ trang và bán vũ trang",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "20. Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc gắn liền với các cuộc vận động khác của Đảng và Nhà nước, gắn liền với việc:",
@@ -196,7 +196,10 @@
         "c": "C. Thực hiện các chính sách ở địa phương",
         "d": "D. Xây dựng nếp sống văn hóa lành mạnh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+

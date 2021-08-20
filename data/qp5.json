@@ -6,28 +6,28 @@
         "c": "C. Bộ đội chủ lực, bộ đội địa phương, dân quân tự vệ",
         "d": "D. Bộ đội chủ lực, công an nhân dân, bộ đội biên phòng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "2. Quân đội nhân dân Việt Namthành lập ngày, tháng, năm nào?",
+        "question": "2. Quân đội nhân dân Việt Nam Thành lập ngày, tháng, năm nào?",
         "a": "A. 19/8/1945",
         "b": "B. 22/12/1944",
         "c": "C. 20/12/1960",
         "d": "D. 22/12/1945",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "3. Đặc điểm thuận lợi trong xây dựnglực lượng vũ trang nhân dân là:",
+        "question": "3. Đặc điểm thuận lợi trong xây dựng lực lượng vũ trang nhân dân là:",
         "a": "A. Quan hệ quốc tế ngày càng được mở rộng",
         "b": "B. Tiềm lực và vị thế của nước ta được tăng cường",
         "c": "C. Hội nhập kinh tế quốc tế ngày càng sâu hơn",
         "d": "D. Kinh tế vẫn tiếp tục tăng trưởng ổn định",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "4. Nguyên tắc lãnh đạo của Đảng đối với lực lượng vũ trang nhân dân:",
@@ -36,38 +36,38 @@
         "c": "C. Trực tiếp, tuyệt  đối về mọi mặt",
         "d": "D. Trực tiếp, toàn diện mọi lĩnh vực",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "5. Lực lượng vũ trang nhân dân trongbảo vệ Tổ quốc có vị trí là lực lượng:",
+        "question": "5. Lực lượng vũ trang nhân dân trong bảo vệ Tổ quốc có vị trí là lực lượng:",
         "a": "A. Chủ yếu của sự nghiệp bảo vệ tổ quốc, nòng cốt trong xây dựng đất nước",
         "b": "B. Nòng cốt của quốc phòng toàn dân, an ninh nhân dân và chiến tranh nhân dân",
         "c": "C. Xung kích trong các hoạt động quân sự, an ninh và quyết định chiến tranh",
         "d": "D. Nòng cốt quyết định sức mạnh quốc phòng - an ninh của ta trong thời bình",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "6. Ngày, tháng, năm thành lậpDân quân tự vệ Việt Nam:",
+        "question": "6. Ngày, tháng, năm thành lập Dân quân tự vệ Việt Nam:",
         "a": "A. 28/3/1935",
         "b": "B. 30/4/1975",
         "c": "C. 28/3/1930",
         "d": "D. 19/8/1945",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "7. Quan điểm của Đảng về xây dựng lực lượng vũ trang nhân dân:",
         "a": "A. Phát huy nội lực, tự chủ xây dựng lực lượng vũ trang nhân dân",
-        "b": "B. Phát huy tự chủ, tự lực xây dựng lực lượngvũ trang nhân dân",
+        "b": "B. Phát huy tự chủ, tự lực xây dựng lực lượng vũ trang nhân dân",
         "c": "C. Độc lập, dựa vào sức mình xây dựng  lực lượng vũ trang nhân dân",
-        "d": "D. Tự lực, tự cường xây dựng lực lượng vũ trangnhân dân",
+        "d": "D. Tự lực, tự cường xây dựng lực lượng vũ trang nhân dân",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "8. Dân quân tự vệ Việt Nam là:",
@@ -76,18 +76,18 @@
         "c": "C. Một bộ phận quan trọng trong lực lượng vũ trang địa phương",
         "d": "D. Lực lượng chiến đấu thường xuyên trên mặt trận quân sự",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "9. Lực lượng được Chủ tịch Hồ Chí Minhđánh giá “…là lực lượng vô địch, là bứctường sắt của Tổ quốc…” đó là:",
+        "question": "9. Lực lượng được Chủ tịch Hồ Chí Minh Đánh giá “…là lực lượng vô địch, là bức tường sắt của Tổ quốc…” đó là:",
         "a": "A. Lực lượng vũ trang quần chúng",
         "b": "B. Lực lượng dân quân tự vệ",
         "c": "C. Lực lượng vũ trang địa phương",
-        "d": "D. Lực lượng vũ trangtại chỗ",
+        "d": "D. Lực lượng vũ trang tại chỗ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "10. Quan điểm, nguyên tắc cơ bản nhất trong xây dựng lực lượng vũ trang nhân dân là:",
@@ -96,18 +96,18 @@
         "c": "C. Lực lượng vũ trang nhân dân phải luôn trung với Đảng, hiếu với dân",
         "d": "D. Giữ vững và tăng cường sự lãnh đạo của Đảng đối với lực lượng vũ trang",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "11. Ngày, tháng, năm thành lậpCông an nhân dân Việt Nam:",
+        "question": "11. Ngày, tháng, năm thành lập Công an nhân dân Việt Nam:",
         "a": "A. 22/12/1945",
         "b": "B. 19/8/1944",
         "c": "C. 19/8/1945",
         "d": "D. 20/12/1944",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "12. “Tổ chức các đơn vị phải gọn, mạnh, cơ động nhanh, có sức chiến đấu cao” là biện pháp chấn chỉnh tổ chức biên chế LLVT đối với:",
@@ -116,38 +116,38 @@
         "c": "C. Bộ đội chủ lực",
         "d": "D. Bộ đội cơ động",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "13. Phong trào tăng gia sản xuất của các đơn vị QĐNDViệt Nam đã phản ánh thường xuyên chức năng:",
+        "question": "13. Phong trào tăng gia sản xuất của các đơn vị QĐND Việt Nam đã phản ánh thường xuyên chức năng:",
         "a": "A. Đội quân lao động",
         "b": "B. Đội quân xây dựng",
         "c": "C. Đội quân tăng gia",
         "d": "D. Đội quân sản xuất",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "14. Một trong ba bộ phận của lực lượngvũ trang nhân dân Việt Nam là:",
+        "question": "14. Một trong ba bộ phận của lực lượng vũ trang nhân dân Việt Nam là:",
         "a": "A. Dân phòng",
         "b": "B. Dân quân tự vệ",
         "c": "C. Thanh niên xung kích",
         "d": "D. Bảo vệ khu phố",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "15. Cán bộ, chiến sỹ QĐND Việt Namđược nhân dân gọi với cái tên trìu mến:",
+        "question": "15. Cán bộ, chiến sĩ QĐND Việt Nam Được nhân dân gọi với cái tên trìu mến:",
         "a": "A. Bộ đội Cụ Hồ",
         "b": "B. Con em nhân dân",
         "c": "C. Bộ đội Bác Hồ",
         "d": "D. Anh vệ quốc quân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "16. Thực hiện phương hướng xây dựng Quân đội,là phải xây dựng Quân đội tinh nhuệ về:",
@@ -156,18 +156,18 @@
         "c": "C. Kỹ, chiến thuật",
         "d": "D. Kỷ luật, đoàn kết",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "17. Sức mạnh của lực lượngvũ trang nhân dân phụ thuộc vào:",
+        "question": "17. Sức mạnh của lực lượng vũ trang nhân dân phụ thuộc vào:",
         "a": "A. Sự phát triển kinh tế, xã hội",
         "b": "B. Vũ khí, nghệ thuật quân sự",
         "c": "C. Sự phát triển của khoa học",
         "d": "D. Văn hóa, khoa học quân sự",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "18. “Xây dựng LLVTND trong điều kiện quốc tế đã thay đổi, có nhiều diễn biến phức tạp”, là nội dung của:",
@@ -176,8 +176,8 @@
         "c": "C. Tình hình xây dựng lực lượng vũ trang nhân dân",
         "d": "D. Biện pháp xây dựng lực lượng vũ trang nhân dân",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. Luật Dân quân tự vệ được ban hành:",
@@ -186,8 +186,8 @@
         "c": "C. Năm 2008",
         "d": "D. Năm 2010",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "20. Một trong những phương hướng xây dựng lực lượng vũ trang nhân dân là xây dựng:",
@@ -196,28 +196,28 @@
         "c": "C. Quân đội cách mạng, chính quy, đoàn kết, thống nhất, ngày càng hiện đại",
         "d": "D. Quân đội nhân dân cách mạng chính quy, tinh nhuệ, từng bước hiện đại",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "21. Phương hướng xây dựnglực lượng dự bị động viên:",
+        "question": "21. Phương hướng xây dựng lực lượng dự bị động viên:",
         "a": "A. Hùng hậu, được huấn luyện và quản lý tốt, đảm bảo khi cần động viên nhanh theo kế hoạch",
         "b": "B. Có số lượng đông đảo, chất lượng ngày càng cao, huấn luyện thường xuyên theo kế hoạch",
         "c": "C. Lực lượng dự bị hùng hậu, luôn trong tư thế sẵn sàng động viên nhanh theo kế hoạch",
         "d": "D. Hùng hậu, vững mạnh, được nâng cao chất lượng huấn luyện và sẵn sàng chiến đấu",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "22. Để xây dựng lực lượng vũ trang nhân dân ngày càng hùng mạnh, chúng ta phải:",
-        "a": "A. Từng bước bảo đảmhậu cần, kỹ thuật, phươngtiện hiện đại cho QĐ",
+        "a": "A. Từng bước bảo đảm hậu cần, kỹ thuật, phương tiện hiện đại cho QĐ",
         "b": "B. Nhanh chóng giải quyết yêu cầu về trang bị, vật chất cho LLVT",
         "c": "C. Từng bước giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của LLVT",
-        "d": "D. Tích cực đổi mới, kịp thời bổ sung đầy đủ vũkhí kỹ thuật cho LLVT",
+        "d": "D. Tích cực đổi mới, kịp thời bổ sung đầy đủ vũ khí kỹ thuật cho LLVT",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "23. Quan điểm của Đảng xây dựng lực lượng vũ trang nhân dân là phải:",
@@ -226,48 +226,48 @@
         "c": "C. Xây dựng toàn diện, tập trung đẩy mạnh hiện đại Quân đội",
         "d": "D. Xây dựng đồng bộ cả số lượng, chất lượng bộ đội và vũ khí",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "24. Thách thức lớn đối với chúng ta trong xây dựng lực lượng vũ trang nhân dân là:",
-        "a": "A. Tình trạng suy thoái vềchính trị, tư tưởng, đạo đức, lốisống của một bộ phận không nhỏ cán bộ, đảng viên",
+        "a": "A. Tình trạng suy thoái về chính trị, tư tưởng, đạo đức, lối sống của một bộ phận không nhỏ cán bộ, đảng viên",
         "b": "B. Tình trạng đạo đức xuống cấp, đời sống nhân dân lao động còn khó khăn, tội phạm và tệ nạn xã hội chưa giảm",
         "c": "C. Trật tự, an toàn xã hội còn nhiều phức tạp, trật tự kỷ cương còn lỏng lẻo, tai nạn giao thông, đang bức xúc",
         "d": "D. Kinh tế tăng trưởng chưa vững chắc, hàng gian, hàng giả, buôn lậu, trốn thuế vẫn còn, gây bức xúc trong nhân dân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "25. Tổ chức biên chế lực lượngvũ trang nhân dân cần phải:",
+        "question": "25. Tổ chức biên chế lực lượng vũ trang nhân dân cần phải:",
         "a": "A. Xuất phát từ tình hình thế giới và âm mưu của kẻ thù",
         "b": "B. Xuất phát từ quan điểm của Đảng về chiến tranh nhân dân",
         "c": "C. Xuất phát từ hoàn cảnh, điều kiện cụ thể của đất nước",
         "d": "D. Phù hợp với xu thế chung của thế giới và từng khu vực",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "26. Xây dựng lực lượng Dân quân tự vệphải chú trọng:",
+        "question": "26. Xây dựng lực lượng Dân quân tự vệ phải chú trọng:",
         "a": "A. Xây dựng vững mạnh, toàn diện, coi trọng ý chí chiến đấu",
-        "b": "B. Xây dưng dân quân tự vệ đáp ứng được mọi tình huống",
+        "b": "B. Xây dựng dân quân tự vệ đáp ứng được mọi tình huống",
         "c": "C. Xây dựng rộng khắp cả nước, có trọng tâm, trọng điểm",
         "d": "D. Xây dựng cả số lượng và chất lượng, lấy chất lượng làm chính",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "27. Đối với sự tác động của bên ngoài thì khó khăn lớn cho ta trong xây dựng LLVTND là:",
-        "a": "A. CNXH ở Đông Âu, Liên xô sụp đổ, chúng takhông còn có sự gúp đỡ của cácnước trong phe XHCN",
+        "a": "A. CNXH ở Đông  u, Liên xô sụp đổ, chúng ta không còn có sự giúp đỡ của các nước trong phe XHCN",
         "b": "B. CNĐQ và các thế lực phản động đẩy mạnh chiến lược “Diễn biến hòa bình”, với mục tiêu vô hiệu hóa,phi chính trị hóa LLVT",
         "c": "C. Trên thế giới, chiến tranh cục bộ, xung đột vũ trang, xung đột dân tộc, chạy đua vũ trang, hoạt động khủng bố tiếp tục diễn ra nhiều nơi",
         "d": "D. Khu vực Đông Nam Á vẫn tiềm ẩn nhiều yếu tố mất ổn định, tranh chấp biên giới, tài nguyên tiếp tục diễn ra với tính chất ngày càng phức tạp",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "28. Để đảm bảo sự lãnh đạo của Đảng đối với LLVTND, phải xây dựng các tổ chức Đảng:",
@@ -276,38 +276,38 @@
         "c": "C. Trong sạch, vững mạnh về chính trị, tư tưởng và tổ chức",
         "d": "D. Trong sạch, vững chắc, có số lượng đông,chất lượng cao",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "29. Xây dựng LLVTND Việt Nam trong giai đoạn mới, chúng ta phải thực hiện tốt biện pháp:",
-        "a": "A. Xây dựng Quân đội, LLDBĐVvà công an vững mạnh về mọi mặt,luôn luôn sẵn sàng chiến đấu",
+        "a": "A. Xây dựng Quân đội, LLDBĐV và công an vững mạnh về mọi mặt,luôn luôn sẵn sàng chiến đấu",
         "b": "B. Thực hiện nghiêm túc và đầy đủ các chính sách của Đảng, Nhà nước đối với LLVTND",
-        "c": "C.  Xây dựng DQTV rộngkhắp, đủ sức hoàn thành nhiệm vụtrực tiếp BVTQ  Việt Nam XHCN",
+        "c": "C.  Xây dựng DQTV rộng khắp, đủ sức hoàn thành nhiệm vụ trực tiếp BVTQ  Việt Nam XHCN",
         "d": "D. Thực hiện đầy đủ các chỉ thị, nghị quyết của Đảng, pháp luật của NN đối với LLVTND",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "30. Một trong những biện pháp xây dựnglực lượng vũ trang nhân dân là:",
-        "a": "A. Bồi dưỡng nângcao năng lực cho cán bộ QĐ, CA và DQTV",
-        "b": "B. Huấn luyện cho cán bộ,chiến sỹ có kỹ thuật, chiến thuậtgiỏi, chuyên môn cao",
-        "c": "C. Tổ chức biên chế các đơnvị phải đáp ứng yêu cầu nhiệmvụ khu vực phòng thủ",
-        "d": "D. Xây dựng đội ngũ cán bộ LLVTND có phẩmchất, năng lực tốt",
+        "question": "30. Một trong những biện pháp xây dựng lực lượng vũ trang nhân dân là:",
+        "a": "A. Bồi dưỡng nâng cao năng lực cho cán bộ QĐ, CA và DQTV",
+        "b": "B. Huấn luyện cho cán bộ,chiến sĩ có kỹ thuật, chiến thuật giỏi, chuyên môn cao",
+        "c": "C. Tổ chức biên chế các đơn vị phải đáp ứng yêu cầu nhiệm vụ khu vực phòng thủ",
+        "d": "D. Xây dựng đội ngũ cán bộ LLVTND có phẩm chất, năng lực tốt",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "31. Xây dựng Quân đội cách mạng làlàm cho lực lượng này phải:",
+        "question": "31. Xây dựng Quân đội cách mạng là làm cho lực lượng này phải:",
         "a": "A. Giữ vững bản chất giai cấp công nhân, giữ vững lòng trung thành",
         "b": "B. Luôn luôn trung thành, sẵn sàng hy sinh anh dũng khi Tổ quốc cần",
         "c": "C. Tuyệt đối trung thành với Đảng, với Tổ quốc, với nhân dân",
         "d": "D. Ý chí quyết tâm cao, bản lĩnh vững vàng, không sợ gian khổ, hy sinh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "32. Xây dựng Quân đội chính quy nhằm:",
@@ -316,8 +316,8 @@
         "c": "C. Làm cho quân đội hùng mạnh, sẵn sàng chiến đấu",
         "d": "D. Tạo sức mạnh tổng hợp cho lực lượng quân đội",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "33. Quân đội giỏi sử dụng các loại vũ khí, phương tiện được trang bị, giỏi cách đánh, vận dụng mưu trí sáng tạo các hình thức chiến thuật là thể hiện:",
@@ -326,8 +326,8 @@
         "c": "C. Tinh nhuệ về ý chí chiến đấu",
         "d": "D. Tinh nhuệ về huấn luyện",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "34. Đứng trước diễn biến của tình hình, cán bộ, chiến sỹ Quân đội, Công an có khả năng phân tích và kết luận chính xác đúng, sai, từ đó có thái độ đúng đắn là biểu hiện Quân đội, Công an:",
@@ -336,28 +336,28 @@
         "c": "C. Tinh nhuệ về chính trị",
         "d": "D. Khả năng về chính trị",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "35. Nâng cao tinh thần trách nhiệm,chủ động khắc phục mọi khó khăn, xây dựngđơn vị VMTD là thực hiện quan điểm:",
+        "question": "35. Nâng cao tinh thần trách nhiệm,chủ động khắc phục mọi khó khăn, xây dựng đơn vị VMTD là thực hiện quan điểm:",
         "a": "A. Tự lực cánh sinh xây dựng lực lượng vũ trang",
         "b": "B. Ý chí quyết tâm xây dựng lực lượng vũ trang",
         "c": "C. Tự lực tự cường xây dựng lực lượng vũ trang",
         "d": "D. Tự chủ, tự cường xây dựng lực lượng vũ trang",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "36. Theo quan điểm chủ nghĩa Mác-Lêninthì “chính trị tinh thần” là yếu tố giữ vai tròquyết định đến:",
+        "question": "36. Theo quan điểm chủ nghĩa Mác-Lênin Thì “chính trị tinh thần” là yếu tố giữ vai trò quyết định đến:",
         "a": "A. Sức mạnh của toàn dân",
         "b": "B. Sức mạnh của Nhà nước",
         "c": "C. Sức mạnh của Đảng",
         "d": "D. Sức mạnh của quân đội",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "37. Vấn đề cơ bản hàng đầu trong nhiệm vụ xây dựng Quân đội của Đảng ta là:",
@@ -366,8 +366,8 @@
         "c": "C. Xây dựng quân đội hùng mạnh",
         "d": "D. xây dựng quân đội tinh nhuệ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "38. Câu nói “Đi dân nhớ, ở dân thương” phản ánh chức năng đội quân công tác của Quân đội, là hiệu quả của:",
@@ -376,8 +376,8 @@
         "c": "C. Công tác binh vận",
         "d": "D. Công tác quần chúng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "39. Điều kiện tiên quyết bảo đảm cho LLVTND luôn giữ vững bản chất cách mạng là:",
@@ -386,8 +386,8 @@
         "c": "C. Giữ vững và tăng cường đoàn kết quân dân",
         "d": "D. Chăm lo đời sống vật chất tinh thần",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "40. Đảng không nhường hoặc chia sẻ quyền lãnh đạo LLVTND cho bất cứ giai cấp, tổ chức, lực lượng nào đối với lực lượng vũ trang là bảo đảm nguyên tắc:",
@@ -396,8 +396,8 @@
         "c": "C. Đảng lãnh đạo toàn diện",
         "d": "D. Đảng lãnh đạo độc tôn",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "41. Câu nói “Dân quân tự vệ và du kích là một lực lượng vô địch, là bức tường sắt của Tổ quốc, vô luận kẻ thù hung bạo thế nào, hễ đụng đến lực lượng đó, bức tường đó thì địch nào cũng phải tan rã.” của Chủ tịch Hồ Chí Minh đã:",
@@ -406,28 +406,28 @@
         "c": "C. Biểu dương sức mạnh của dân quân tự vệ",
         "d": "D. Đánh giá khả năng to lớn của dân quân tự vệ",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "42. “Kiên định mục tiêu lý tưởng XHCN, vững vàngtrước mọi khó khăn thử thách, hoàn thành tốt mọinhiệm vụ được giao” là nội dung của:",
+        "question": "42. “Kiên định mục tiêu lý tưởng XHCN, vững vàng trước mọi khó khăn thử thách, hoàn thành tốt mọi nhiệm vụ được giao” là nội dung của:",
         "a": "A. Tình hình của lực lượng vũ trang ta",
         "b": "B. Giáo dục chính trị tư tưởng cho quân đội",
         "c": "C. Xây dựng quân đội, công an cách mạng",
         "d": "D. Xây dựng quân đội, công an tinh nhuệ",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "43. “Đảm bảo LLVT luôn trong tư thế SSCĐvà chiến đấu thắng lợi”, là nội dung của:",
+        "question": "43. “Đảm bảo LLVT luôn trong tư thế SSCĐ và chiến đấu thắng lợi”, là nội dung của:",
         "a": "A. Biện pháp chủ yếu vận dụng xây dựng lực lượng vũ trang nhân dân",
         "b": "B. Đặc điểm, nguyên tắc chủ yếu xây dựng lực lượng vũ trang nhân dân",
-        "c": "C. Yêu cầu chủ yếu cần tập trung xây dựng lực lượng vũ tranh nhân dân",
+        "c": "C. Yêu cầu chủ yếu cần tập trung xây dựng lực lượng vũ trang nhân dân",
         "d": "D. Quan điểm nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "44. “Thống nhất về quan điểm tư tưởng quân sự, về nghệ thuật quân sự, về phương pháp huấn luyện, giáo dục”, là nội dung của:",
@@ -436,8 +436,8 @@
         "c": "C. Giáo dục quân sự cho quân đội, công an",
         "d": "D. Yêu cầu xây dựng quân đội chính quy",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "45. “Xây dựng lực lượng DBĐV hùng hậu, được huấn luyện và quản lý tốt, đảm bảo khi cần thiết có thể động viên nhanh theo kế hoạch”, là nội dung của:",
@@ -446,18 +446,18 @@
         "c": "C. Phương hướng xây dựng lực lượng dự bị động viên",
         "d": "D. Biện pháp xây dựng lực lượng dự bị động viên",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "46. “Xây dựng đội ngũ cán bộ LLVTND cóphẩm chất, năng lực tốt”, là nội dung của:",
+        "question": "46. “Xây dựng đội ngũ cán bộ LLVTND có phẩm chất, năng lực tốt”, là nội dung của:",
         "a": "A. Quan điểm xây dựng lực lượng vũ trang",
         "b": "B. Yêu cầu xây dựng lực lượng vũ trang",
         "c": "C. Phương hướng xây dựng lực lượng vũ trang",
         "d": "D. Biện pháp xây dựng lực lượng vũ trang",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "47. “Tích cực phát triển kinh tế và thực hành tiết kiệm”, là nội dung của quan điểm nguyên tắc:",
@@ -466,8 +466,8 @@
         "c": "C. Kinh tế kết hợp với quốc phòng, an ninh",
         "d": "D. Chủ động chuẩn bị trong chiến tranh nhân dân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "48. “Quân đội, Công an phải có tinh thần đoàn kết quân - dân, đoàn kết nội bộ, đoàn kết quốc tế tốt”, là nội dung của:",
@@ -476,18 +476,18 @@
         "c": "C. Xây dựng quân đội, công an cách mạng",
         "d": "D. Yêu cầu xây dựng quân đội, công an",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "49. “Bảo đảm LLVTND luôn trong tư thế SSCĐ và chiến đấu thắng lợi” là một quan điểm, nguyên tắc xây dựng LLVTND của Đảng ta, quan điểm nguyên tắc này phản ánh:",
         "a": "A. Yêu cầu nhiệm vụ thường xuyên của lực lượng vũ trang nhân dân",
         "b": "B. Tính chủ động đối phó kịp thời với kẻ địch đang luôn tìm cách phá hoại ta",
         "c": "C. Chức năng, nhiệm vụ chủ yếu thường xuyên của lực lượng vũ trang nhân dân",
-        "d": "D. Chức năng, nhiệm vụcơ bản, thường xuyên của lực lượng vũ trang nhân dân",
+        "d": "D. Chức năng, nhiệm vụ cơ bản, thường xuyên của lực lượng vũ trang nhân dân",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "50. Đảng Cộng sản Việt Nam lãnh đạo “tuyệt đối” LLVTND Việt Nam được thể hiện:",
@@ -496,58 +496,58 @@
         "c": "C. Đảng không nhường, hoặc chia sẻ quyền lãnh đạo cho bất cứ giai cấp, lực lượng, tổ chức nào",
         "d": "D. Đảng sẽ nhường quyền lãnh đạo lực lượng vũ trang cho đảng phái khác khi có chiến tranh",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "51. Mâu thuẫn chủ yếu hiện nay vànhững năm tới trong xây dựng LLVT là:",
-        "a": "A. Nhu cầu đầu tư cho QPAN,cho xây dựng LLVT ngày cànglớn và cấp thiết, nhưng Nhà nướccòn rất hạn hẹp",
+        "question": "51. Mâu thuẫn chủ yếu hiện nay và những năm tới trong xây dựng LLVT là:",
+        "a": "A. Nhu cầu đầu tư cho QPAN,cho xây dựng LLVT ngày càng lớn và cấp thiết, nhưng Nhà nước còn rất hạn hẹp",
         "b": "B. Yêu cầu phải làm chủ trang bị vũ khí hiện đại, nhưng trình độ quản lý, khai thác và sử dụng của cán bộ, chiến sỹ còn hạn chế",
-        "c": "C. Nhu cầu đầu tư cho xây dựng công trình QPAN, tăng cường chấtlượng huấn luyện rất lớn, nhưng ngânsách và CSVC còn hạn hẹp",
+        "c": "C. Nhu cầu đầu tư cho xây dựng công trình QPAN, tăng cường chất lượng huấn luyện rất lớn, nhưng ngân sách và CSVC còn hạn hẹp",
         "d": "D. Yêu cầu đòi hỏi chất lượng cán bộ, nhân viên chuyên môn kỹ thuật rất cao, nhưng chất lượng đào tạo, huấn luyện còn hạn chế",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "52. Trận đánh đầu tiên của Quân độinhân dân Việt Nam sau khi thành lập là:",
+        "question": "52. Trận đánh đầu tiên của Quân đội nhân dân Việt Nam sau khi thành lập là:",
         "a": "A. Phai Khắt",
         "b": "B. Đông Khê",
         "c": "C. Chợ Đồn",
         "d": "D. Chợ Rã",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "53. Trong những biện pháp chủ yếu xây dựng LLVTND,việc chấn chỉnh tổ chức biên chế đối với các đơn vịbộ đội chủ lực là tổ chức các đơn vị phải:",
+        "question": "53. Trong những biện pháp chủ yếu xây dựng LLVTND,việc chấn chỉnh tổ chức biên chế đối với các đơn vị bộ đội chủ lực là tổ chức các đơn vị phải:",
         "a": "A. Gắn với nhiệm vụ trong khu vực phòng thủ",
         "b": "B. Có số lượng hợp lý, chất lượng cao",
         "c": "C. Phù hợp với chức năng nhiệm vụ",
         "d": "D. Gọn, mạnh, cơ động, có sức chiến đấu cao",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "54. Xây dựng Quân đội từng bướchiện đại, nghĩa là:",
-        "a": "A. Tùy thuộc vào khả năngcủa nền kinh tế và phát triển của quân đội mà từ từ đưa quân đội tiến lên hiện đại",
+        "question": "54. Xây dựng Quân đội từng bước hiện đại, nghĩa là:",
+        "a": "A. Tùy thuộc vào khả năng của nền kinh tế và phát triển của quân đội mà từ từ đưa quân đội tiến lên hiện đại",
         "b": "B. Bằng khả năng của nền kinh tế và trình độ khoa học của đất nước để đưa quân đội từng bước tiến lên hiện đại",
         "c": "C. Bằng trình độ khoa học của đất nước và khả năng công nghiệp quốc phòng mà lần lượt hiện đại các đơn vị quân đội",
         "d": "D. Dựa vào khả năng của công nghiệp quốc phòng và trình độ khoa học của quân đội từ từ đưa quân đội lên hiện đại",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "55. Xây dựng các tổ chức Đảng trong LLVTND trong sạch, vững mạnh về chính trị, tư tưởng, tổ chức là để:",
         "a": "A. Giữ vững lòng trung thành của quân đội đối với Đảng, với nhân dân",
         "b": "B. Bảo đảm cho lực lượng vũ trang có sức mạnh chiến đấu toàn diện",
         "c": "C. Giữ vững vai trò lãnh đạo của Đảng đối với lực lượng vũ trang",
-        "d": "D. Bảo đảm cho lực lượng vũ trang có ý chí quyết chiến, quyết thắng",
+        "d": "D. Bảo bảo cho lực lượng vũ trang có ý chí quyết chiến, quyết thắng",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "56. Quân đội chính quy là phải:",
@@ -556,28 +556,28 @@
         "c": "C. Luôn luôn duy trì tốt mọi chế độ hoạt động",
         "d": "D. Duy trì thường xuyên nề nếp hoạt động",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "57. Thực trạng của Quân độinhân dân Việt Nam hiện nay:",
+        "question": "57. Thực trạng của Quân đội nhân dân Việt Nam hiện nay:",
         "a": "A. Chưa đáp ứng được yêu cầu hiện nay",
         "b": "B. Giải quyết được tình huống phức tạp",
         "c": "C. Đã hoàn thành tốt cả ba chức năng",
         "d": "D. Trình độ sẵn sàng chiến đấu còn yếu",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "58. “Xây dựng Quân đội, Công an cách mạng”trong phương hướng xây dựng Quân đội, Công ancủa Đảng ta là:",
+        "question": "58. “Xây dựng Quân đội, Công an cách mạng”trong phương hướng xây dựng Quân đội, Công an của Đảng ta là:",
         "a": "A. Nhiệm vụ quan trọng trong các thời kỳ cách mạng",
         "b": "B. Nội dung quan trọng trong sự nghiệp bảo vệ Tổ quốc",
         "c": "C. Vấn đề cần quan tâm trong xây dựng lực lượng vũ trang",
         "d": "D. Vấn đề cơ bản hàng đầu trong mọi giai đoạn cách mạng",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "59. Lá cờ của Quân đội nhân dân Việt Nam (Quân kỳ) mang dòng chữ:",
@@ -586,7 +586,10 @@
         "c": "C. Quyết chiến",
         "d": "D. Quyết tâm",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+

@@ -1,13 +1,13 @@
 [
     {
         "question": "1. Bảo vệ ANQG là:",
-        "a": "A. Phòng ngừa, phát hiện,ngăn chặn, đấu tranh làmthất bại các hoạt động xâmhại ANQG",
-        "b": "B. Bảo vệ các hoạt độngphòng ngừa, phát hiện, ngănchặn và đấu tranh với mọi âm mưu phá hoại của kẻ thù",
-        "c": "C. Phòng ngừa, phát hiện,ngăn chặn, đấu tranh làmthất bại các hoạt động xâmphạm bí mật quốc gia",
-        "d": "D. Bảo vệ các công trình,cơ sở chính trị, an ninh, quốcphòng, kinh tế khoa học côngnghệ của Nhà nước.",
+        "a": "A. Phòng ngừa, phát hiện,ngăn chặn, đấu tranh làm thất bại các hoạt động xâm hại ANQG",
+        "b": "B. Bảo vệ các hoạt động phòng ngừa, phát hiện, ngăn chặn và đấu tranh với mọi âm mưu phá hoại của kẻ thù",
+        "c": "C. Phòng ngừa, phát hiện,ngăn chặn, đấu tranh làm thất bại các hoạt động xâm phạm bí mật quốc gia",
+        "d": "D. Bảo vệ các công trình,cơ sở chính trị, an ninh, quốc phòng, kinh tế khoa học công nghệ của Nhà nước.",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "2. Lĩnh vực được xác định là cốt lõi,xuyên suốt nhất trong bảo vệ ANQG là:",
@@ -16,78 +16,78 @@
         "c": "C. An ninh xã hội",
         "d": "D. An ninh quốc phòng",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "3. Lực lượng chuyên trách bảo vệan ninh trên biển của nước ta hiện nay là:",
+        "question": "3. Lực lượng chuyên trách bảo vệ an ninh trên biển của nước ta hiện nay là:",
         "a": "A. Bộ đội Biên phòng",
         "b": "B. Công an nhân dân",
         "c": "C. Cảnh sát biển",
         "d": "D. An ninh quân đội",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "4. “Bảo vệ môi trường” là một trong những nội dung của công tác:",
-        "a": "A. Giữ gìn nguồn nướcsinh hoạt",
+        "a": "A. Giữ gìn nguồn nước sinh hoạt",
         "b": "B. Giữ gìn trật tự, ATXH",
-        "c": "C. Giữ gìn an toàncác khu công nghiệp",
+        "c": "C. Giữ gìn an toàn các khu công nghiệp",
         "d": "D. Giữ gìn vệ sinh,an toàn lao động",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "5. Để bảo đảm thắng lợi hoàn toàn và triệt đểtrong cuộc đấu tranh bảo vệ ANQG, giữ gìn trật tự, ATXH, lực lượng công an phải:",
-        "a": "A. Kết hợp sức mạnh củaquần chúng với công tácnghiệp vụ của các cơ quanchuyên môn thuộc công an",
-        "b": "B. Kết hợp tai, mắt củaquần chúng nhân dân vớicông tác nghiệp vụ của các cơ quan công an nhân dân",
-        "c": "C. Kết hợp phong trào toàndân bảo vệ an ninh Tổ quốcvới công tác nghiệp vụ củacác cơ quan chuyên môn",
-        "d": "D. Kết hợp tính tự giáccách mạng của quần chúngvới công tác nghiệp vụ củacác cơ quan chuyên môn",
+        "question": "5. Để bảo đảm thắng lợi hoàn toàn và triệt để trong cuộc đấu tranh bảo vệ ANQG, giữ gìn trật tự, ATXH, lực lượng công an phải:",
+        "a": "A. Kết hợp sức mạnh của quần chúng với công tác nghiệp vụ của các cơ quan chuyên môn thuộc công an",
+        "b": "B. Kết hợp tai, mắt của quần chúng nhân dân với công tác nghiệp vụ của các cơ quan công an nhân dân",
+        "c": "C. Kết hợp phong trào toàn dân bảo vệ an ninh Tổ quốc với công tác nghiệp vụ của các cơ quan chuyên môn",
+        "d": "D. Kết hợp tính tự giác cách mạng của quần chúng với công tác nghiệp vụ của các cơ quan chuyên môn",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "6. Quan điểm của Đảng, NN ta trongcông tác bảo vệ ANQG, trật tự, ATXH đã chỉ rõlà phải kết hợp chặt chẽ:",
-        "a": "A. Kết hợp chặt chẽ nhiệmvụ xây dựng với nhiệm vụbảo vệ Tổ quốc",
-        "b": "B. Phối hợp chặt chẽ công tác phòng ngừa vớiđấu tranh, xử lý tội phạm",
-        "c": "C. Kết hợp chặt chẽ côngtác giáo dục tuyên truyềnvới xử lý nghiêm minh",
-        "d": "D. Phối hợp công tác bảovệ an ninh, trật tự, xã hội với công tác quốc phòng",
+        "question": "6. Quan điểm của Đảng, NN ta trong công tác bảo vệ ANQG, trật tự, ATXH đã chỉ rõ là phải kết hợp chặt chẽ:",
+        "a": "A. Kết hợp chặt chẽ nhiệm vụ xây dựng với nhiệm vụ bảo vệ Tổ quốc",
+        "b": "B. Phối hợp chặt chẽ công tác phòng ngừa và đấu tranh, xử lý tội phạm",
+        "c": "C. Kết hợp chặt chẽ công tác giáo dục tuyên truyền về xử lý nghiêm minh",
+        "d": "D. Phối hợp công tác bảo vệ an ninh, trật tự, xã hội với công tác quốc phòng",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "7. Mối quan hệ giữa bảo vệ ANQG vàgiữ gìn trật tự, ATXH là:",
+        "question": "7. Mối quan hệ giữa bảo vệ ANQG và giữ gìn trật tự, ATXH là:",
         "a": "A. ANQG hoạt động độc lập, không có liên quan đến công tác giữ gìn trật tự, ATXH",
-        "b": "B. Trật tự ATXH được giữ vững sẽ tạo điềukiện cho ANQG càng đượccủng cố vững chắc",
+        "b": "B. Trật tự ATXH được giữ vững sẽ tạo điều kiện cho ANQG càng được củng cố vững chắc",
         "c": "C. ANQG quyết định trực tiếp và lâu dài đến công tác giữ gìn trật tự ATXH",
         "d": "D. Trật tự ATXH chi phối trực tiếp cả trước mắt và lâu dài đến công tác bảo vệ ANQG",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "8. Nội dung thể hiện quan điểm của Đảng, NN tatrong bảo vệ ANQG, trật tự, ATXH là:",
-        "a": "A. Phát huy vai trò giámsát của các tổ chức Đảng",
-        "b": "B. Tăng cường công táctuyên truyền của các tổchức xã hội",
-        "c": "C. Phát huy quyền làmchủ của nhân dân",
-        "d": "D. Tăng cường vai tròhoạt động giám sát củaNhà nước",
+        "question": "8. Nội dung thể hiện quan điểm của Đảng, NN trong bảo vệ ANQG, trật tự, ATXH là:",
+        "a": "A. Phát huy vai trò giám sát của các tổ chức Đảng",
+        "b": "B. Tăng cường công tác tuyên truyền của các tổ chức xã hội",
+        "c": "C. Phát huy quyền làm chủ của nhân dân",
+        "d": "D. Tăng cường vai trò hoạt động giám sát của Nhà nước",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "9. “Bảo vệ ANQG phải kết hợp chặt chẽ với giữ gìn trật tự, ATXH” là một trong những nội dung của:",
-        "a": "A. Giải pháp bảo vệ anninh quốc gia, giữ gìntrật tự, ATXH",
-        "b": "B. Nhiệm vụ bảo vệ anninh quốc gia, giữ gìntrật tự, ATXH",
-        "c": "C. Quan điểm bảo vệ anninh quốc gia, giữ gìntrật tự, ATXH",
-        "d": "D. Biện pháp bảo vệ anninh quốc gia, giữ gìntrật tự, ATXH",
+        "a": "A. Giải pháp bảo vệ anninh quốc gia, giữ gìn trật tự, ATXH",
+        "b": "B. Nhiệm vụ bảo vệ anninh quốc gia, giữ gìn trật tự, ATXH",
+        "c": "C. Quan điểm bảo vệ anninh quốc gia, giữ gìn trật tự, ATXH",
+        "d": "D. Biện pháp bảo vệ anninh quốc gia, giữ gìn trật tự, ATXH",
         "correctAnswer": "33",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "10. Cơ quan bảo vệ pháp luật ở nước ta hiện nay là:",
@@ -96,8 +96,8 @@
         "c": "C. Cảnh sát điều tra, cảnh sát biển, viện kiểm sát",
         "d": "D. Cảnh sát phòng chống tội phạm, viện kiểm sát",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "11. Lực lượng có chức năng làm tham mưu cho Đảng, Nhà nước về bảo vệ ANQG, giữ gìn trật tự, ATXH là:",
@@ -106,8 +106,8 @@
         "c": "C. Quần chúng nhân dân",
         "d": "D. Cảnh sát nhân dân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "12. Bảo vệ an ninh kinh tế là:",
@@ -116,18 +116,18 @@
         "c": "C. Bảo vệ sự ổn định và phát triển của nền kinh tế",
         "d": "D. Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "13. Hành vi doanh nghiệp xả thải trực tiếpra môi trường là vi phạm:",
+        "question": "13. Hành vi doanh nghiệp xả thải trực tiếp ra môi trường là vi phạm:",
         "a": "A. An ninh công cộng",
         "b": "B. Trật tự công cộng",
         "c": "C. Bảo vệ môi trường",
         "d": "D. Môi trường xã hội",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "14. Trạng thái xã hội bình yên, trong đó mọi người được sống yên ổn trên cơ sở các quy phạm pháp luật, các quy tắc và chuẩn mực đạo đức, pháp lý xác định, là nội dung của:",
@@ -136,8 +136,8 @@
         "c": "C. Trật tự ATXH",
         "d": "D. Trật tự ANQG",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "15. Một trong những nội dung giữ gìn trật tự ATXH là:",
@@ -146,38 +146,38 @@
         "c": "C. Bảo đảm an toàn lao động",
         "d": "D. Giữ gìn trật tự công cộng",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "16. Quan điểm của Đảng, NN ta trong bảo vệANQG, giữ gìn trật tự ATXH là phải tăng cường:",
+        "question": "16. Quan điểm của Đảng, NN ta trong bảo vệ ANQG, giữ gìn trật tự ATXH là phải tăng cường:",
         "a": "A. Hiệu lực quản lý của Nhà nước",
         "b": "B. Hiệu quả quản lý của các tổ chức",
         "c": "C. Kiểm tra, xử phạt của lực lượng công an",
         "d": "D. Hiệu lực quản lý của toàn xã hội",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "17. “Đảng lãnh đạo trực tiếp về mọi mặt là nhân tố quyếtđịnh thắng lợi của cuộc đấu tranh bảo vệ ANQG và giữ gìntrật tự ATXH” là một trong những nội dung thể hiện:",
+        "question": "17. “Đảng lãnh đạo trực tiếp về mọi mặt là nhân tố quyết định thắng lợi của cuộc đấu tranh bảo vệ ANQG và giữ gìn trật tự ATXH” là một trong những nội dung thể hiện:",
         "a": "A. Tính chất bảo vệ an ninh quốc gia, giữ gìn trật tự, ATXH",
         "b": "B. Nhiệm vụ bảo vệ an ninh quốc gia, giữ gìn trật tự, ATXH",
         "c": "C. Quan điểm bảo vệ an ninh quốc gia, giữ gìn trật tự, ATXH",
         "d": "D. Biện pháp bảo vệ an ninh quốc gia, giữ gìn trật tự, ATXH",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "18. “Bảo vệ sự ổn định, phát triển vững mạnhcủa nền kinh tế thị trường nhiều thành phần theođịnh hướng XHCN” là một nội dung của:",
+        "question": "18. “Bảo vệ sự ổn định, phát triển vững mạnh của nền kinh tế thị trường nhiều thành phần theo định hướng XHCN” là một nội dung của:",
         "a": "A. Bảo vệ an toàn nền kinh tế",
         "b": "B. Bảo vệ an ninh kinh tế",
         "c": "C. Bảo vệ an ninh trật tự xã hội",
         "d": "D. Bảo vệ an ninh xã hội",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "19. “Phòng ngừa tai nạn lao động, phòng chống thiên tai, dịch bệnh” là một trong những nội dung của:",
@@ -186,128 +186,128 @@
         "c": "C. Giữ gìn tính mạng, tài sản nhân dân",
         "d": "D. Giữ vững an ninh Tổ quốc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "20. Nòng cốt trong sự ngiệp bảo vệ ANQG,giữ gìn trật tự ATXH là lực lượng:",
+        "question": "20. Nòng cốt trong sự nghiệp bảo vệ ANQG,giữ gìn trật tự ATXH là lực lượng:",
         "a": "A. Dân quân tự vệ",
         "b": "B. Bộ đội biên phòng",
         "c": "C. Công an nhân dân",
         "d": "D. Cảnh sát an ninh",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "21. “Tăng cường hiệu lực quản lý của NNtrong lĩnh vực bảo vệ ANQG và giữ gìn trật tự ATXH”là một trong những nội dung thể hiện:",
+        "question": "21. “Tăng cường hiệu lực quản lý của NN trong lĩnh vực bảo vệ ANQG và giữ gìn trật tự ATXH”là một trong những nội dung thể hiện:",
         "a": "A. Yêu cầu bảo vệ ANQG, giữ gìn trật tự, ATXH",
         "b": "B. Tính chất bảo vệ ANQG, giữ gìn trật tự, ATXH",
         "c": "C. Quan điểm bảo vệ ANQG, giữ gìn trật tự ATXH",
         "d": "D. Nhiệm vụ bảo vệ ANQG, giữ gìn trật tự, ATXH",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "22. “Bảo đảm ngân sách và cơ sở vật chất cho cáchoạt động bảo vệ ANQG, giữ gìn trật tự, ATXH” là mộttrong những công việc thuộc vai trò quản lý của:",
+        "question": "22. “Bảo đảm ngân sách và cơ sở vật chất cho các hoạt động bảo vệ ANQG, giữ gìn trật tự, ATXH” là một trong những công việc thuộc vai trò quản lý của:",
         "a": "A. Quốc hội",
         "b": "B. Địa phương",
         "c": "C. Công an",
         "d": "D. Nhà nước",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "23. Nòng cốt trong bảo vệ ANQG,giữ gìn trật tự ATXH, lực lượng công an là:",
         "a": "A. Trung tâm và thường xuyên cho các ngành, các cấp và quần chúng trong bảo vệ an ninh quốc gia và trật tự, ATXH",
-        "b": "B. Chỗ dựa trực tiếp và thường xuyên cho các ngành, cáccấp và quần chúng trong công tácbảo vệ ANQG và giữ gìn TTATXH",
-        "c": "C. Đòn bẩy và trụ cộtcho toàn xã hội trong bảo vệ ANQGvà giữ gìn trật tự, ATXH",
-        "d": "D. Điều kiện và chỗ dựa chủ yếu cho các cấp, các ngành và quầnchúng nhân dân trong bảo vệANQG và giữ gìn TTATXH",
+        "b": "B. Chỗ dựa trực tiếp và thường xuyên cho các ngành, các cấp và quần chúng trong công tác bảo vệ ANQG và giữ gìn TTATXH",
+        "c": "C. Đòn bẩy và trụ cột cho toàn xã hội trong bảo vệ ANQG và giữ gìn trật tự, ATXH",
+        "d": "D. Điều kiện và chỗ dựa chủ yếu cho các cấp, các ngành và quần chúng nhân dân trong bảo vệ ANQG và giữ gìn TTATXH",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "24. Một trong những nhiệm vụ bảo vệ ANQG,giữ gìn trật tự ATXH là:",
-        "a": "A. Bảo vệ an ninh trên cáclĩnh vực TTVH, an ninh kinh tế,quốc phòng, đối ngoại và các lợiích khác của quốc gia",
-        "b": "B. Phòng ngừa, đấu tranhlàm  thất bại mọi âm mưu củacác lực lượng phản độngxâm hại ANQG",
+        "a": "A. Bảo vệ an ninh trên các lĩnh vực TTVH, an ninh kinh tế,quốc phòng, đối ngoại và các lợi ích khác của quốc gia",
+        "b": "B. Phòng ngừa, đấu tranh làm  thất bại mọi âm mưu của các lực lượng phản động xâm hại ANQG",
         "c": "C. Phát hiện, ngăn chặn,đấu tranh làm thất bại các hoạt động phá hoại tài sản quốc gia và trật tự ATXH",
-        "d": "D. Bảo vệ an toàn cáccơ quan  thuộc HTCT, cácLLVT, đoàn thể cách mạngvà nhân dân.",
+        "d": "D. Bảo vệ an toàn các cơ quan  thuộc HTCT, của LLVT, đoàn thể cách mạng và nhân dân.",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "25. “Bảo vệ bí mật NN và các mục tiêu quan trọngvề ANQG” là một trong những nội dung của:",
+        "question": "25. “Bảo vệ bí mật NN và các mục tiêu quan trọng về ANQG” là một trong những nội dung của:",
         "a": "A. Giải pháp bảo vệ ANQG",
         "b": "B. Nội dung bảo vệ ANQG",
         "c": "C. Nhiệm vụ bảo vệ ANQG",
         "d": "D. Yêu cầu bảo vệ ANQG",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "26. Vai trò lãnh đạo của Đảng ta vềbảo vệ ANQG, trật tự, ATXH là:",
+        "question": "26. Vai trò lãnh đạo của Đảng ta về bảo vệ ANQG, trật tự, ATXH là:",
         "a": "A. Đảng lãnh đạo tuyệt đối trực tiếp về mọi mặt",
         "b": "B. Đảng đề ra đường lối và giao cho Nhà nước thực hiện",
         "c": "C. Đảng trực tiếp chỉ đạo Nhà nước và toàn xã hội thực hiện",
         "d": "D. Đảng xác định đường lối và chỉ đạo cả nước thực hiện",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "27. “Giữ gìn trật tự, yên tĩnh chung, giữ gìnvệ sinh chung, duy trì nếp sống văn minh, tôn trọnglẫn nhau” là thể hiện nội dung của:",
+        "question": "27. “Giữ gìn trật tự, yên tĩnh chung, giữ gìn vệ sinh chung, duy trì nếp sống văn minh, tôn trọng lẫn nhau” là thể hiện nội dung của:",
         "a": "A. Giữ gìn môi trường công cộng",
         "b": "B. Giữ gìn trật tự nơi công cộng",
         "c": "C. Bảo đảm trật tự xã hội",
         "d": "D. Bảo đảm trật tự nơi công cộng",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "28. Bảo vệ an ninh trên lĩnh vựcquốc phòng, an ninh và đối ngoại là bảo vệ:",
-        "a": "A. Bí mật quân sự, an ninh trật tự và các hoạt động quốctế của Đảng và NN ta",
-        "b": "B. Chủ quyền lãnh thổ, biên giới, ANTT và các quanhệ ngoại giao của đất nước",
-        "c": "C. Sức mạnh của LLVTvà hoạt động quan hệ quốc tếcủa Đảng và NN",
-        "d": "D. Lợi ích QP&AN,phòng chống tội phạm và cáccơ quan, tổ chức đối ngoại",
+        "question": "28. Bảo vệ an ninh trên lĩnh vực quốc phòng, an ninh và đối ngoại là bảo vệ:",
+        "a": "A. Bí mật quân sự, an ninh trật tự và các hoạt động quốc tế của Đảng và NN ta",
+        "b": "B. Chủ quyền lãnh thổ, biên giới, ANTT và các quan hệ ngoại giao của đất nước",
+        "c": "C. Sức mạnh của LLVT và hoạt động quan hệ quốc tế của Đảng và NN",
+        "d": "D. Lợi ích QPAN,phòng chống tội phạm và các cơ quan, tổ chức đối ngoại",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "29. “Bảo vệ chế độ chính trị và Nhà nước CHXHCNViệt Nam, bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹnlãnh thổ của Tổ quốc” là một trong những nội dung của:",
+        "question": "29. “Bảo vệ chế độ chính trị và Nhà nước CHXHCN Việt Nam, bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc” là một trong những nội dung của:",
         "a": "A. Nhiệm vụ bảo vệ an toàn quốc gia",
         "b": "B. Nhiệm vụ bảo vệ ANQG",
         "c": "C. Biện pháp bảo vệ ANQG",
         "d": "D. Giải pháp bảo vệ ANQG",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "30. Bảo đảm sự an toàn, nhanh chóng, chính xác và bí mật của thông tin trong quá trình xác lập, chuyển tải, thu nhận, xử lý và lưu giữ tin tức là nội dung của:",
-        "a": "A. Bảo vệthông tin viễn thông",
-        "b": "B. Bảo đảmthông tin, liên lạc",
-        "c": "C. Bảo vệan ninh thông tin",
-        "d": "D. Bảo đảman ninh thông tin",
+        "a": "A. Bảo vệ thông tin viễn thông",
+        "b": "B. Bảo đảm thông tin, liên lạc",
+        "c": "C. Bảo vệ an ninh thông tin",
+        "d": "D. Bảo đảm an ninh thông tin",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "31. Một trong những nội dunggiữ gìn trật tự ATXH là:",
+        "question": "31. Một trong những nội dung giữ gìn trật tự ATXH là:",
         "a": "A. Phòng chống tệ nạn xã hội",
         "b": "B. Bài trừ mê tín dị đoan",
         "c": "C. Bài trừ tệ nạn cờ bạc",
         "d": "D. Phòng chống nạn mại dâm",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "32. Sự nghiệp bảo vệ ANQG, giữ gìn trật tự,ATXH là sự nghiệp cách mạng của nhân dân,do nhân dân, vì nhân dân là thể hiện:",
@@ -316,28 +316,28 @@
         "c": "C. Tính quần chúng",
         "d": "D. Tính xã hội",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "33. Hành vi sinh viên xả ráctrong phòng học là vi phạm về:",
+        "question": "33. Hành vi sinh viên xả rác trong phòng học là vi phạm về:",
         "a": "A. Bảo vệ trật tự, an ninh",
         "b": "B. Bảo vệ môi trường",
         "c": "C. Giữ gìn trật tự, ATXH",
         "d": "D. Giữ gìn trật tự nơi công cộng",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "34. Những người có hành vi phạm tội gây thiệt hại đếntài sản, đến tính mạng, sức khỏe, danh dự, phẩm giá conngười, hành vi vi phạm trật tự ATXH, nhưng không có mụcđích chống lại Nhà nước là đối tượng xâm phạm:",
+        "question": "34. Những người có hành vi phạm tội gây thiệt hại đến tài sản, đến tính mạng, sức khỏe, danh dự, phẩm giá con người, hành vi vi phạm trật tự ATXH, nhưng không có mục đích chống lại Nhà nước là đối tượng xâm phạm:",
         "a": "A. An ninh lợi ích xã hội",
         "b": "B. An ninh lợi ích quốc gia",
         "c": "C. Trật tự ATXH",
         "d": "D. Trật tự xã hội quốc gia",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "35. Bảo vệ an ninh tư tưởng - văn hóa,trước tiên là phải bảo vệ:",
@@ -346,8 +346,8 @@
         "c": "C. Tư tưởng Hồ Chí Minh và giá trị văn hóa dân tộc",
         "d": "D. Sự ổn định tư tưởng và nền văn hóa dân tộc",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "36. “Bảo vệ việc thực hiện đường lối, chính sách của Đảng, pháp luật của Nhà nước” là nội dung của:",
@@ -356,48 +356,48 @@
         "c": "C. Bảo vệ an ninh văn hóa",
         "d": "D. Bảo vệ an ninh kinh tế",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "37. Một trong những nội dung thuộc vai tròquản lý của Nhà nước trong sự nghiệp bảo vệ ANQG,giữ gìn trật tự ATXH là thường xuyên:",
+        "question": "37. Một trong những nội dung thuộc vai trò quản lý của Nhà nước trong sự nghiệp bảo vệ ANQG,giữ gìn trật tự ATXH là thường xuyên:",
         "a": "A. Làm tốt công tác tuyên truyền, giáo dục ở cơ sở",
         "b": "B. Củng cố kiện toàn các tổ chức quần chúng",
         "c": "C. Xây dựng củng cố các tổ chức an ninh trật tự cơ sở",
         "d": "D. Quan tâm xây dựng các cơ quan chuyên trách",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "38. Đối tượng xâm phạm trật tự ATXHkhác biệt cơ bản với đối tượng xâm phạm ANQG là:",
+        "question": "38. Đối tượng xâm phạm trật tự ATXH khác biệt cơ bản với đối tượng xâm phạm ANQG là:",
         "a": "A. Hoạt động thành băng nhóm có tổ chức",
         "b": "B. Chống phá Đảng, Nhà nước và chế độ xã hội",
         "c": "C. Không có mục đích chống lại Đảng, Nhà nước",
         "d": "D. Phạm tội về an ninh quốc gia, trật tự xã hội",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "39. Một trong những nội dung thể hiện quanđiểm của Đảng, NN ta về bảo vệ ANQG, trật tự, ATXH là:",
-        "a": "A. Đảng lãnh đạo trực tiếp, toàn diện thông qua NN về bảo vệANQG, giữ gìn trật tự ATXH",
+        "question": "39. Một trong những nội dung thể hiện quan điểm của Đảng, NN ta về bảo vệ ANQG, trật tự, ATXH là:",
+        "a": "A. Đảng lãnh đạo trực tiếp, toàn diện thông qua NN về bảo vệ ANQG, giữ gìn trật tự ATXH",
         "b": "B. Phát huy quyền làm chủ của nhân dân trên lĩnh vực bảo vệ ANQG và trật tự ATXH",
-        "c": "C. Phát huy hiệu lực của  các tổ chức quần chúng và SMTHcủa cả nước để bảo vệ ANQG,giữ gìn trật tự, ATXH",
-        "d": "D. Kết hợp chặt chẽ hai nhiệm vụ bảo vệ ANQG với xây dựngthế trận QPTD, ANND",
+        "c": "C. Phát huy hiệu lực của  các tổ chức quần chúng và SMTH của cả nước để bảo vệ ANQG,giữ gìn trật tự, ATXH",
+        "d": "D. Kết hợp chặt chẽ hai nhiệm vụ bảo vệ ANQG với xây dựng thế trận QPTD, ANND",
         "correctAnswer": "2",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "40. Một bộ phận quan trọng trongchiến lược ANQG và trật tự ATXH là:",
+        "question": "40. Một bộ phận quan trọng trong chiến lược ANQG và trật tự ATXH là:",
         "a": "A. Chương trình quốc gia bảo vệ an ninh",
         "b": "B. Kế hoạch toàn dân phòng chống tội phạm",
-        "c": "C. Chương trình quốc giaphòng chống tội phạm",
+        "c": "C. Chương trình quốc gia phòng chống tội phạm",
         "d": "D. Giải pháp giữ gìn trật tự, ATXH",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "41. Trong công tác bảo vệ ANQG, giữ gìn trật tự ATXH, sinh viên phải có trách nhiệm:",
@@ -406,18 +406,18 @@
         "c": "C. Chủ động phát hiện, ngăn chặn kịp thời các hoạt động xâm phạm ANQG",
         "d": "D. Phối hợp với các lực lượng, tích cực, chủ động, liên tục tiến công tội phạm",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "42. Đối tượng xâm phạm đến ANQGtrong tình hình hiện nay là:",
+        "question": "42. Đối tượng xâm phạm đến ANQG trong tình hình hiện nay là:",
         "a": "A. Bọn tham nhũng,bọn cơ hội",
         "b": "B. Bọn tội phạm kinh tế, hình sự",
         "c": "C. Bọn xâm phạm trật tự ATXH",
         "d": "D. Bọn gián điệp, bọn phản động",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "43. Nội dung bảo vệ an ninh lãnh thổ là:",
@@ -426,18 +426,18 @@
         "c": "C. Bảo đảm an ninh chính trị, trật tự ATXH khu vực biên giới",
         "d": "D. Bảo vệ các địa bàn trọng yếu, khối đại đoàn kết toàn dân tộc",
         "correctAnswer": "3",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
-        "question": "44. Vấn đề cốt lõi của bảo vệan ninh tư tưởng là bảo vệ:",
+        "question": "44. Vấn đề cốt lõi của bảo vệ an ninh tư tưởng là bảo vệ:",
         "a": "A. Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh",
         "b": "B. Sự ổn định chính trị, sự vững mạnh của chế độ",
         "c": "C. Đường lối chính sách của Đảng, pháp luật Nhà nước",
         "d": "D. Nhà nước, lòng tin của quần chúng nhân dân",
         "correctAnswer": "1",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     },
     {
         "question": "45. “Tăng cường quản lý Nhà nước về trật tự ATXH, ngăn ngừa và làm giảm tai nạn, tệ nạn xã hội, bảo đảm trật tự kỷ cương”, là nội dung của:",
@@ -446,7 +446,10 @@
         "c": "C. Tính chất bảo vệ ANQG, giữ gìn trật tự ATXH",
         "d": "D. Nhiệm vụ bảo vệ ANQG,giữ gìn trật tự ATXH",
         "correctAnswer": "4",
-        "numebrRight": "0",
-        "numberWrong": "0"
+        "rightNumber": "0",
+        "wrongNumber": "0"
     }
 ]
+
+
+
