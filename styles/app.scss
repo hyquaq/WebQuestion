@@ -100,6 +100,12 @@ main {
             &:hover {
                 border: 3px solid #f5f5f5;
             }
+
+            &--wrong {
+                color: #5566ff99;
+                background-color: #ff4d6e22;
+                border-color: #999;
+            }
         }
     }
 

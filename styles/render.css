@@ -84,6 +84,11 @@ main > .select-form > .list-item {
 main > .select-form > .list-item:hover {
   border: 3px solid #f5f5f5;
 }
+main > .select-form > .list-item--wrong {
+  color: #5566ff99;
+  background-color: #ff4d6e22;
+  border-color: #999;
+}
 main > .question-form {
   display: none;
   max-width: 80%;

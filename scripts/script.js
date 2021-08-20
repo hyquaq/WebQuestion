@@ -9,11 +9,13 @@ let formSelect = document.querySelector(".select-form"),
     goBack = document.querySelector(".go-back"),
     nextQuestion = document.querySelector(".next-question"),
     autoNext = document.querySelector(".auto-next"),
-    help = document.querySelector(".help");
+    help = document.querySelector(".help"),
+    clearCatch = document.querySelector(".clear-catch");
 
 let list = [],
-    questionCurrent,
-    isNext = false;
+    currentQuestion,
+    isNext = false,
+    wrongQuestion;
 
 async function fetchApi(url) {
     list = await (await fetch(url)).json().catch((err) => {
@@ -49,13 +51,13 @@ function chooseQuestion() {
 
 function loadQuestion() {
     changeTitle("Studying...");
-    questionCurrent = chooseQuestion();
-    if (questionCurrent !== undefined) {
-        title.textContent = questionCurrent.question;
-        a.textContent = questionCurrent.a;
-        b.textContent = questionCurrent.b;
-        c.textContent = questionCurrent.c;
-        d.textContent = questionCurrent.d;
+    currentQuestion = chooseQuestion();
+    if (currentQuestion !== undefined) {
+        title.textContent = currentQuestion.question;
+        a.textContent = currentQuestion.a;
+        b.textContent = currentQuestion.b;
+        c.textContent = currentQuestion.c;
+        d.textContent = currentQuestion.d;
     } else {
         formSelect.classList.add("active");
         formQuestion.classList.remove("active");
@@ -82,21 +84,28 @@ function fadeAnswer() {
 
 function showCorrectAnswer() {
     let correct = document.querySelector(
-        `div[name='${questionCurrent.correctAnswer}']`
+        `div[name='${currentQuestion.correctAnswer}']`
     );
     correct.classList.add("correct");
+}
+
+function addToLocalStorage() {
+    wrongQuestion.push(currentQuestion);
+    localStorage.setItem("wrongQuestion", JSON.stringify(wrongQuestion));
 }
 
 async function useChoose(e) {
     console.log(e.target.getAttribute("name"));
 
     // check user answer
-    if (e.target.getAttribute("name") == questionCurrent.correctAnswer) {
+    if (e.target.getAttribute("name") == currentQuestion.correctAnswer) {
         e.target.classList.add("correct");
     } else {
         e.target.classList.add("failed");
         // show correct answer
         showCorrectAnswer();
+        // add to local storage
+        addToLocalStorage();
     }
     fadeAnswer();
 
@@ -119,14 +128,39 @@ function removeClassAnswer() {
     });
 }
 
+function showSectionWrongQuestion() {
+    console.log("hi");
+    wrongQuestion = JSON.parse(localStorage.getItem("wrongQuestion"));
+    if (wrongQuestion === undefined || wrongQuestion === null) {
+        console.log("don't visit");
+        wrongQuestion = [];
+    } else {
+        console.log("visited");
+        // add section
+        let sectionWrongQuestion = document.createElement("div");
+        sectionWrongQuestion.classList.add("list-item", "list-item--wrong");
+        sectionWrongQuestion.innerHTML =
+            "<i class='bx bxs-bookmark bx-tada bx-lg' ></i>";
+        formSelect.appendChild(sectionWrongQuestion);
+        console.log(sectionWrongQuestion);
+        sectionWrongQuestion.addEventListener("click", (e) => {
+            formSelect.classList.remove("active");
+            formQuestion.classList.add("active");
+            list = wrongQuestion;
+            removeClassAnswer();
+            loadQuestion();
+        });
+    }
+}
+
 sections.forEach((e) => {
     e.addEventListener("mouseover", (e) => {
         // console.log(e.target.querySelector("i"));
-        console.log(e.target);
+        // console.log(e.target);
         e.target.querySelector("i").classList.add("bx-tada");
     });
     e.addEventListener("mouseleave", (e) => {
-        console.log(e.target);
+        // console.log(e.target);
         e.target.querySelector("i").classList.remove("bx-tada");
     });
 });
@@ -138,6 +172,7 @@ goBack.addEventListener("click", (e) => {
     formQuestion.classList.remove("active");
     // reset all
     todo = [];
+    showSectionWrongQuestion();
 });
 
 nextQuestion.addEventListener("click", (e) => {
@@ -156,7 +191,13 @@ help.addEventListener("click", (e) => {
     document.querySelector(".help-content").classList.add("active");
 });
 
-// out help
+clearCatch.addEventListener("click", (e) => {
+    console.log(e.target);
+    let empty = null;
+    localStorage.setItem("wrongQuestion", null);
+});
+
+// close help content
 document.addEventListener("click", (e) => {
     if (e.target.classList.contains("help-content", "active")) {
         // console.log(e.target);
@@ -166,6 +207,9 @@ document.addEventListener("click", (e) => {
         document.querySelector(".help-content").classList.remove("active");
     }
 });
+
+// check local storage has do it
+document.addEventListener("load", showSectionWrongQuestion());
 
 a.addEventListener("click", useChoose);
 b.addEventListener("click", useChoose);
