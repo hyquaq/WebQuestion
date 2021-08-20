@@ -25,10 +25,15 @@ async function fetchApi(url) {
         formSelect.classList.remove("active");
         formQuestion.classList.add("active");
 
+        changeTitle("loading...");
         //remove class answer
         removeClassAnswer();
         loadQuestion();
     }
+}
+
+function changeTitle(str) {
+    document.title = str;
 }
 
 function chooseQuestion() {
@@ -43,6 +48,7 @@ function chooseQuestion() {
 }
 
 function loadQuestion() {
+    changeTitle("Studying...");
     questionCurrent = chooseQuestion();
     if (questionCurrent !== undefined) {
         title.textContent = questionCurrent.question;
@@ -127,6 +133,7 @@ sections.forEach((e) => {
 
 // function click
 goBack.addEventListener("click", (e) => {
+    changeTitle("Q&A");
     formSelect.classList.add("active");
     formQuestion.classList.remove("active");
     // reset all
