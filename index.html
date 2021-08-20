@@ -45,89 +45,105 @@
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/triet.json')"
                 >
                     <p>450c Triet</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp1.json')"
                 >
                     <p>Quoc phong 1</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp2.json')"
                 >
                     <p>Quoc phong 2</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp3.json')"
                 >
                     <p>Quoc phong 3</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp4.json')"
                 >
                     <p>Quoc phong 4</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp5.json')"
                 >
                     <p>Quoc phong 5</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp6.json')"
                 >
                     <p>Quoc phong 6</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp7.json')"
                 >
                     <p>Quoc phong 7</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp8.json')"
                 >
                     <p>Quoc phong 8</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp9.json')"
                 >
                     <p>Quoc phong 9</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp10.json')"
                 >
                     <p>Quoc phong 10</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
                 <div
                     class="list-item"
                     onclick="fetchApi('https://raw.githubusercontent.com/hyquaq/WebQuestion/master/json-data/qp11.json')"
                 >
                     <p>Quoc phong 11</p>
+                    <i class="go-home bx-sm bx bx-home-circle"></i>
                 </div>
             </section>
 
             <!-- question section -->
             <section class="question-form">
-                <i
-                    class="
-                        go-back
-                        bx bx-log-out bx-sm bx-flashing-hover bx-border
-                    "
-                ></i>
-                <i
-                    class="
-                        next-question
-                        bx bx-right-arrow-alt bx-sm bx-border bx-tada-hover
-                    "
-                ></i>
+                <div class="control">
+                    <i
+                        class="
+                            go-back
+                            bx bx-log-out bx-sm bx-flashing-hover bx-border
+                        "
+                    ></i>
+                    <i class="auto-next bx-sm bx bx-loader"></i>
+                    <i class="help bx-sm bx bx-help-circle"></i>
+                    <i
+                        class="
+                            next-question
+                            bx bx-right-arrow-alt bx-sm bx-border bx-tada-hover
+                        "
+                    ></i>
+                </div>
                 <div class="question-title">What your name?</div>
                 <ul class="question-answer">
                     <div class="a" name="1">
@@ -161,6 +177,28 @@
                 </ul>
             </section>
         </main>
+
+        <!-- sub content -->
+        <div class="help-content">
+            <div class="container">
+                <span
+                    ><i class="bx bx-log-out bx-sm bx-border-circle"></i> go out
+                    select.</span
+                >
+                <span
+                    ><i
+                        class="auto-next bx-sm bx bx-loader bx-border-circle"
+                    ></i>
+                    auto next question (after 5s).</span
+                >
+                <span
+                    ><i
+                        class="bx bx-right-arrow-alt bx-sm bx-border-circle"
+                    ></i>
+                    next question</span
+                >
+            </div>
+        </div>
 
         <!-- other/ -->
         <!-- <div class="demo"></div> -->

@@ -1,4 +1,5 @@
 let formSelect = document.querySelector(".select-form"),
+    sections = document.querySelectorAll(".list-item"),
     formQuestion = document.querySelector(".question-form"),
     title = document.querySelector(".question-title"),
     a = document.querySelector(".question-answer>.a"),
@@ -6,10 +7,13 @@ let formSelect = document.querySelector(".select-form"),
     c = document.querySelector(".question-answer>.c"),
     d = document.querySelector(".question-answer>.d"),
     goBack = document.querySelector(".go-back"),
-    nextQuestion = document.querySelector(".next-question");
+    nextQuestion = document.querySelector(".next-question"),
+    autoNext = document.querySelector(".auto-next"),
+    help = document.querySelector(".help");
 
 let list = [],
-    questionCurrent;
+    questionCurrent,
+    isNext = false;
 
 async function fetchApi(url) {
     list = await (await fetch(url)).json().catch((err) => {
@@ -77,7 +81,7 @@ function showCorrectAnswer() {
     correct.classList.add("correct");
 }
 
-function useChoose(e) {
+async function useChoose(e) {
     console.log(e.target.getAttribute("name"));
 
     // check user answer
@@ -93,6 +97,13 @@ function useChoose(e) {
     // console.log(e.target);
 
     disableUserChoose();
+
+    if (isNext) {
+        // after 5s next question
+        await new Promise((r) => setTimeout(r, 5000));
+        removeClassAnswer();
+        loadQuestion();
+    }
 }
 
 function removeClassAnswer() {
@@ -101,6 +112,18 @@ function removeClassAnswer() {
         v.classList.remove("fade", "correct", "failed");
     });
 }
+
+sections.forEach((e) => {
+    e.addEventListener("mouseover", (e) => {
+        // console.log(e.target.querySelector("i"));
+        console.log(e.target);
+        e.target.querySelector("i").classList.add("bx-tada");
+    });
+    e.addEventListener("mouseleave", (e) => {
+        console.log(e.target);
+        e.target.querySelector("i").classList.remove("bx-tada");
+    });
+});
 
 // function click
 goBack.addEventListener("click", (e) => {
@@ -113,6 +136,28 @@ goBack.addEventListener("click", (e) => {
 nextQuestion.addEventListener("click", (e) => {
     loadQuestion();
     removeClassAnswer();
+});
+
+autoNext.addEventListener("click", (e) => {
+    isNext = !isNext;
+    autoNext.classList.toggle("bx-spin");
+    autoNext.classList.toggle("bx-border-circle");
+});
+
+help.addEventListener("click", (e) => {
+    help.classList.add("bx-border-circle");
+    document.querySelector(".help-content").classList.add("active");
+});
+
+// out help
+document.addEventListener("click", (e) => {
+    if (e.target.classList.contains("help-content", "active")) {
+        // console.log(e.target);
+        e.target.classList.remove("active");
+        // remove class
+        help.classList.remove("bx-border-circle");
+        document.querySelector(".help-content").classList.remove("active");
+    }
 });
 
 a.addEventListener("click", useChoose);

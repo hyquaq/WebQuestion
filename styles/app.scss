@@ -21,6 +21,7 @@ $secondBackground: #1982e2;
 body {
     background: $primaryBackground;
     font-family: Roboto, sans-serif;
+    position: relative;
     // font-family: Mali, sans-serif;
     // font-family: "Montserrat", sans-serif;
     a {
@@ -91,7 +92,11 @@ main {
             line-height: 1;
             font-weight: normal;
             cursor: pointer;
-            transition: 0.5s ease;
+            transition: 0.1s ease;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
             &:hover {
                 border: 3px solid #f5f5f5;
             }
@@ -104,7 +109,7 @@ main {
         max-width: 80%;
         margin: 0 auto;
         height: fit-content;
-        padding: 2rem 1rem;
+        padding: 1.5rem 1rem;
         flex-direction: column;
 
         // background-color: #f0f;
@@ -147,6 +152,7 @@ main {
                 line-height: 1.5;
                 text-align: justify;
                 letter-spacing: 0.7px;
+                transition: 0.4s ease;
 
                 &::after {
                     content: "";
@@ -166,7 +172,7 @@ main {
                     transition: 0.5s ease;
                 }
                 &:hover::after {
-                    left: 0;
+                    left: 90%;
                 }
             }
             .correct {
@@ -183,18 +189,53 @@ main {
             }
         }
 
-        .go-back {
-            position: absolute;
-            right: 1rem;
-            top: 1rem;
-            cursor: pointer;
-        }
+        .control {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
 
-        .next-question {
-            position: absolute;
-            right: 1rem;
-            top: 5rem;
-            cursor: pointer;
+            i {
+                cursor: pointer;
+                transition: 0.1s ease;
+            }
         }
+    }
+}
+
+.help-content {
+    display: none;
+    z-index: 100;
+    position: absolute;
+    min-height: 100vh;
+    min-width: 100vh;
+    background-color: rgba(238, 238, 238, 0.7);
+    inset: 0;
+    cursor: pointer;
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 3rem;
+        margin: auto;
+        width: fit-content;
+        height: fit-content;
+        position: relative;
+        span {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+    }
+    &::after {
+        content: "click anywhere to close";
+        font-size: 0.7rem;
+        position: absolute;
+        bottom: 1rem;
+        right: 1rem;
+        transform: translateX(-50%);
+    }
+    &.active {
+        display: flex;
     }
 }
