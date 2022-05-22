@@ -8,7 +8,13 @@ multiple answer questions
 line1 <br>
 line2
 
-<input type='text' >
-<br>
-<input type='number' >
-<br>
+this is a <strong>line</strong>
+
+<ol>
+    <li>
+        food
+    </li>
+    <li>
+        water
+    </li>
+</ol>
