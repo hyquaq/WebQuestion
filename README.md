@@ -10,7 +10,7 @@ line2
 
 this is a <strong>line</strong>
 
-<ol>
+<ol> 
     <li>
         food
     </li>
