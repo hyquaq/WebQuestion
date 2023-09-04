@@ -1,16 +1,22 @@
+name: Node project
+
 on: push
 jobs:
   first_job:
+    name: demo github action
     runs-on: ubuntu-latest
     container: node:17.6.0
     steps:
       - run: node --version
       - run: npm --version
   build_node:
+    name: build and run node project
     runs-on: ubuntu-latest
     steps:
       - run: node --version
+        name: check node version
       - run: npm --version
       - uses: actions/checkout@v3
-      - run: npm install 
+      - run: npm install
       - run: node index.js
+        name: run index.js
