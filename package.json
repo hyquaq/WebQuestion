@@ -1,0 +1,22 @@
+{
+  "name": "web-question",
+  "version": "1.0.0",
+  "description": "multiple answer questions [😁](https://nguyenhuy158.github.io/WebQuestion/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhuy158/web-question.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhuy158/web-question/issues"
+  },
+  "homepage": "https://github.com/nguyenhuy158/web-question#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
